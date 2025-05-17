@@ -67,7 +67,7 @@ Gemini Answer Generation (grounded in retrieved facts)
 ## Project Structure
 
 ```plaintext
-genshin-lore-qa/
+genshin-lore-qa-neo4j-rag-bm25/
 ├── src/
 │   ├── data_extraction.py         # Web crawler & wiki text fetcher
 │   ├── triple_extraction.py       # Gemini-based relation triplet extraction
@@ -78,9 +78,9 @@ genshin-lore-qa/
 │   └── utils.py                   # Rewrite / classify / expand utilities
 ├── notebooks/
 │   └── genshin_qa_demo.ipynb      # End-to-end demo (query → answer)
-├── genshin_chroma/
-├── data/
-├── .env.example                   # API & DB credentials (template)
+├── genshin_chroma/                # Output vector store (ChromaDB)
+├── data/                          # Demo output data (KG nodes, edges, etc.)
+├── .env.example                   # API & DB credentials template
 ├── requirements.txt               # Python dependencies
 └── README.md                      # You're reading it!
 ```
