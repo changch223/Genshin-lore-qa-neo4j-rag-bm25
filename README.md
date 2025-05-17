@@ -45,20 +45,22 @@ Rewrite → Intent Classification
 [KG Search | RAG Search | BM25 Search]
    ↓
 Gemini Answer Generation (grounded in retrieved facts)
+```
 
 ---
 
 ## ⚙Tech Stack
 
-| Layer         | Tool / Framework               |
-|---------------|--------------------------------|
-| LLM           | Gemini 1.5 Pro (Google API)    |
-| RAG Retrieval | ChromaDB (via LangChain)       |
-| Keyword Search| BM25Retriever                  |
-| Graph Search  | Neo4j + LangChain Cypher QA    |
-| Framework     | LangChain                      |
-| Web Scraping  | BeautifulSoup + requests       |
-| Graph Drawing | NetworkX + Matplotlib          |
+| Layer             | Tool / Framework                       |
+|-------------------|----------------------------------------|
+| LLM               | Gemini 1.5 Pro (Google Generative AI)  |
+| RAG Retrieval     | ChromaDB + LangChain                   |
+| Keyword Search    | BM25Retriever                          |
+| Knowledge Graph   | Neo4j + LangChain GraphCypherQA        |
+| Prompt Handling   | LangChain PromptTemplate               |
+| Web Scraping      | BeautifulSoup + Requests               |
+| Graph Drawing     | NetworkX + Matplotlib                  |
+| Embedding Model   | Gemini Embeddings                      |
 
 ---
 
@@ -69,14 +71,18 @@ Gemini Answer Generation (grounded in retrieved facts)
 ```plaintext
 genshin-lore-qa/
 ├── src/
-│   ├── data_extraction.py
-│   ├── triple_extraction.py
-│   ├── kg_builder.py
-│   ├── rag_builder.py
-│   ├── bm25_builder.py
-│   ├── qa_pipeline.py
-│   └── utils.py
+│   ├── data_extraction.py         # Web crawler & wiki text fetcher
+│   ├── triple_extraction.py       # Gemini-based relation triplet extraction
+│   ├── kg_builder.py              # Neo4j schema + node/edge ingestion
+│   ├── rag_builder.py             # Text chunking + vector store (Chroma)
+│   ├── bm25_builder.py            # BM25 retriever setup
+│   ├── qa_pipeline.py             # Full multi-retriever pipeline
+│   └── utils.py                   # Rewrite / classify / expand utilities
 ├── notebook/
-│   └── genshin_qa_demo.ipynb
-├── .env.example
-└── README.md
+│   └── genshin_qa_demo.ipynb      # End-to-end demo (query → answer)
+├── .env.example                   # API & DB credentials (template)
+├── requirements.txt               # Python dependencies
+└── README.md                      # You're reading it!
+```
+
+
