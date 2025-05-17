@@ -1,4 +1,4 @@
-# LoreLens: Genshin Impact Hybrid QA System
+# Genshin Impact Hybrid QA System
 
 **Product Manager Portfolio Project – with Generative AI & Retrieval Technologies**
 
