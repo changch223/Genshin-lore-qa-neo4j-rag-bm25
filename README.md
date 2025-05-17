@@ -3,6 +3,19 @@
 **Genshin Impact Hybrid QA System** is a multi-source hybrid question-answering system built to explore the rich narrative of **Genshin Impact**.  
 It integrates structured and unstructured data sources to answer lore-related queries with high factual accuracy and contextual nuance.
 
+```mermaid
+graph TD
+Q\[User Query] --> RW\[Rewrite]
+RW --> IC\[Intent Classification]
+IC --> DQ\[Decompose & Expand]
+DQ -->|To KG| KG\[Knowledge Graph]
+DQ -->|To RAG| RAG\[Chroma + Gemini]
+DQ -->|To BM25| BM\[BM25 Retriever]
+KG --> SY\[Gemini Synthesis]
+RAG --> SY
+BM --> SY
+SY --> A\[Answer Output]
+```
 
 ## Why This Project?
 
