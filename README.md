@@ -5,16 +5,19 @@ It integrates structured and unstructured data sources to answer lore-related qu
 
 ```mermaid
 graph TD
-Q\[User Query] --> RW\[Rewrite]
-RW --> IC\[Intent Classification]
-IC --> DQ\[Decompose & Expand]
-DQ -->|To KG| KG\[Knowledge Graph]
-DQ -->|To RAG| RAG\[Chroma + Gemini]
-DQ -->|To BM25| BM\[BM25 Retriever]
-KG --> SY\[Gemini Synthesis]
-RAG --> SY
-BM --> SY
-SY --> A\[Answer Output]
+  Q[🎯 User Query] --> RW[📝 Rewrite Query]
+  RW --> IC[🔍 Intent Classification]
+  IC --> DQ[🧩 Decompose & Expand]
+  
+  DQ -->|🔗 To KG| KG[📘 Knowledge Graph (Neo4j)]
+  DQ -->|🔗 To RAG| RAG[📙 RAG: Chroma + Gemini]
+  DQ -->|🔗 To BM25| BM[📗 BM25 Retriever]
+
+  KG --> SY[🧠 Gemini LLM Synthesis]
+  RAG --> SY
+  BM --> SY
+
+  SY --> A[📤 Final Answer Output]
 ```
 
 ## Why This Project?
