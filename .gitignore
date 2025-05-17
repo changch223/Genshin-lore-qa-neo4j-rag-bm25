@@ -1,0 +1,13 @@
+# Ignore .env file containing API keys and passwords
+.env
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code 設定
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc

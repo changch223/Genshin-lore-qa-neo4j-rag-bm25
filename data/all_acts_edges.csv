@@ -1,0 +1,2264 @@
+source,target,relation
+Traveler,The Outlander Who Caught the Wind,participates_in
+The Outlander Who Caught the Wind,Wanderer's Trail,includes
+Traveler,Teyvat,from
+Paimon,Teyvat,from
+Traveler,Paimon,knows
+Traveler,Unknown Entity,knows
+Traveler,Unknown Entity,opposes
+Traveler,powers,has_attribute
+Unknown Entity,Traveler's Sibling,opposes
+The Outlander Who Caught the Wind,Mondstadt,occurs_in
+The Outlander Who Caught the Wind,Starfell Lake,occurs_in
+The Outlander Who Caught the Wind,Cape Oath,occurs_in
+Traveler,Amber,knows
+Amber,Knights of Favonius,member_of
+Traveler,Stormterror,knows
+Traveler,Stormterror,opposes
+Traveler,Kaeya,knows
+Kaeya,Knights of Favonius,member_of
+Traveler,Jean,knows
+Jean,Knights of Favonius,member_of
+Traveler,Lisa,knows
+Lisa,Knights of Favonius,member_of
+The Outlander Who Caught the Wind,16 Characters,has_attribute
+The Outlander Who Caught the Wind,3 Achievements,has_attribute
+Adventure Rank,Progression System,has_attribute
+Adventure Rank,Genshin Impact,from
+Player,Adventure Rank,has
+World Level,Ascension Quest,has_attribute
+Adventure Rank,60,has_attribute
+World Level,9,has_attribute
+Player,Rewards,has
+Rewards,Adventurers' Guild,from
+Player,Adventure Rank,has
+Adventure Rank,Adventure EXP,has_attribute
+Adventure EXP,Quests,from
+Adventure EXP,Chests,from
+Adventure EXP,Adventurer Handbook,from
+Adventure EXP,Original Resin,from
+Adventure EXP,Mora,has_attribute
+Player,Adventure Rank Ascension Quest,participates_in
+World Level,Enemies,has_attribute
+World Level,Normal Bosses,has_attribute
+World Level,Ley Line Outcrops,has_attribute
+Andrius,Weekly Boss,plays_role
+Player,World Level Ascension Quest,participates_in
+Player,Co-Op Mode,participates_in
+World Level,Ley Line Blossoms,has_attribute
+World Level,Opponents,has_attribute
+Characters,Level,has_attribute
+Weapons,Level,has_attribute
+Characters,Ascension,has_attribute
+Weapons,Ascension,has_attribute
+Quests,Adventure Rank,has_attribute
+Adventurers' Guild Rewards,Katheryne,from
+Katheryne,Adventurers' Guild,member_of
+Adventure Rank,Adventure EXP,has_attribute
+Song of the Dragon and Freedom,Quest,plays_role
+Song of the Dragon and Freedom,Prologue,includes
+Prologue,Chapter,plays_role
+Song of the Dragon and Freedom,Act III,plays_role
+Song of the Dragon and Freedom,For a Tomorrow Without Tears,after
+Of the Land Amidst Monoliths,Song of the Dragon and Freedom,after
+Diluc,Abyss Order,knows
+Venti,The Seven,member_of
+Dvalin,ancient ruins,occurs_in
+Traveler,Teardrop Crystal,has
+Hilichurls,Stormterror's Lair,occurs_in
+Abyss Order,Venti,opposes
+Decarabian,Anemo Archon,plays_role
+Abyss Order,Dvalin,opposes
+Dvalin,Abyss Order,opposes
+Hilichurls,Mondstadt,opposes
+Kaeya,Abyss Order,opposes
+Abyss Order,single leader,has_attribute
+Traveler,Song of the Dragon and Freedom,participates_in
+Venti,Song of the Dragon and Freedom,participates_in
+Jean,Song of the Dragon and Freedom,participates_in
+Diluc,Song of the Dragon and Freedom,participates_in
+Dvalin,Song of the Dragon and Freedom,participates_in
+Amber,Song of the Dragon and Freedom,participates_in
+Kaeya,Song of the Dragon and Freedom,participates_in
+Paimon,Song of the Dragon and Freedom,participates_in
+Barbara,Song of the Dragon and Freedom,participates_in
+Fatui Agents,Song of the Dragon and Freedom,participates_in
+Signora,Song of the Dragon and Freedom,participates_in
+Fatui Cicin Electro Mages,Song of the Dragon and Freedom,participates_in
+Venti,Gnosis,has
+Holy Lyre der Himmel,Cathedral,occurs_in
+Kaeya,Good Hunter,occurs_in
+Jean,Traveler,knows
+Traveler,Jean,knows
+Venti,Gnosis,knows
+Venti,Signora,knows
+Venti,Fatui Harbingers,knows
+Venti,Tsaritsa,knows
+Venti,The Seven,knows
+Signora,Fatui Harbingers,member_of
+Fatui Harbingers,Snezhnaya,from
+Tsaritsa,The Seven,member_of
+Tsaritsa,Archon,has_attribute
+Meeting with Venti,Windrise,occurs_in
+Traveler,Meeting with Venti,participates_in
+Jean,Meeting with Venti,participates_in
+Venti,Meeting with Venti,participates_in
+Rite of Descension,Liyue,occurs_in
+Geo Archon,Rite of Descension,participates_in
+Traveler,Childe,knows
+Childe,Liyue Qixing,knows
+Liyue Qixing,Rex's body,has
+Paimon,The Seven,knows
+Childe,The Seven,knows
+Childe,Traveler,knows
+Traveler,Meeting Childe,participates_in
+Childe,Meeting Childe,participates_in
+Paimon,Meeting Childe,participates_in
+Baizhu,Qiqi,knows
+Traveler,Everlasting Incense,has
+Childe,mora,has
+Childe,Ekaterina,knows
+Qixing,Exuvia,has
+Exuvia,Golden House,occurs_in
+Zhongli,Traveler,knows
+Zhongli,Third-Round Knockout,occurs_in
+Iron Tongue Tian,Ningguang,knows
+Ganyu,Ningguang,knows
+Ganyu,Traveler,knows
+Ningguang,Jade Chamber,occurs_in
+Zhongli,Dihua Marsh,occurs_in
+Traveler,Rite of Descension,participates_in
+Zhongli,Geo Archon,plays_role
+Zhongli,Northland Bank,occurs_in
+Signora,Northland Bank,occurs_in
+Childe,Northland Bank,occurs_in
+Zhongli,Signora,knows
+Zhongli,Childe,knows
+Zhongli,Rite of Descension,participates_in
+Zhongli,Tsaritsa,knows
+Zhongli,Gnosis,has
+Signora,Gnosis,has
+Traveler,Rite of Parting,participates_in
+Traveler,Osial,knows
+Fatui,Liyue,opposes
+Keqing,Traveler,knows
+Traveler,Zhongli,knows
+Zhongli,Inazuma,knows
+Zhongli,Baal,knows
+Baal,Vision Hunt Decree,has_attribute
+Bough Keeper: Dainsleif,Prologue,plays_role
+Bough Keeper: Dainsleif,Archon Quest Chapter I: Act IV - We Will Be Reunited,includes
+Katheryne,City of Mondstadt,occurs_in
+Traveler,Bough Keeper: Dainsleif,participates_in
+Paimon,Bough Keeper: Dainsleif,participates_in
+Dainsleif,Bough Keeper: Dainsleif,participates_in
+Katheryne (Mondstadt),Bough Keeper: Dainsleif,participates_in
+Charles,Bough Keeper: Dainsleif,participates_in
+Wagner,Bough Keeper: Dainsleif,participates_in
+Lawrence,Bough Keeper: Dainsleif,participates_in
+Bough Keeper: Dainsleif,Mondstadt,occurs_in
+A New Star Approaches,Bough Keeper: Dainsleif,before
+Bough Keeper: Dainsleif,The Fond Farewell,before
+Bough Keeper: Dainsleif,Involuntary Sacrifice,before
+Abyssal Traces,Bough Keeper: Dainsleif,includes
+Traveler,We Will Be Reunited,participates_in
+We Will Be Reunited,Archon Quest,plays_role
+We Will Be Reunited,Bough Keeper: Dainsleif,includes
+We Will Be Reunited,Lupus Minor Chapter: Act I - The Meaning of Lupical,includes
+Traveler,Paimon,knows
+Traveler,Dainsleif,knows
+Traveler,Ganyu,knows
+Traveler,Lan,knows
+Ganyu,Liyue Qixing,member_of
+Lan,Liyue Qixing,member_of
+Treasure Hoarders,Abyss Order,opposes
+Traveler,Abyss Order,opposes
+Traveler,Abyss Herald,opposes
+Dainsleif,Abyss Order,opposes
+Traveler,Barbara,knows
+Traveler,Rosaria,knows
+Traveler,Boreas,knows
+Abyss Order,Liyue Qixing,opposes
+Abyss Order,Adeptia,opposes
+Osial,Liyue Qixing,opposes
+Osial,Adeptia,opposes
+Traveler,Dainsleif,knows
+Sibling,Dainsleif,knows
+Dainsleif,Twilight Sword,has_attribute
+Dainsleif,Khaenri'ah,from
+Dainsleif,Royal Guards,member_of
+Sibling,Abyss Order,member_of
+Traveler,Sibling,opposes
+Paimon,Traveler,knows
+Traveler,We Will Be Reunited,participates_in
+We Will Be Reunited,Inazuma,occurs_in
+Razor,Story Quest,has_attribute
+Lupus Minor Chapter,Story Quest,plays_role
+Razor,Lupus Minor Chapter,plays_role
+Traveler,Lupus Minor Chapter,participates_in
+Paimon,Lupus Minor Chapter,participates_in
+Lupus Minor Chapter,Wolvendom,occurs_in
+Traveler,Razor,knows
+Paimon,Razor,knows
+Razor,Wolf Pack,member_of
+Traveler,Amber,knows
+Traveler,Investigation,participates_in
+Amber,Investigation,participates_in
+Investigation,Drunkard Gorge,occurs_in
+Investigation,Springvale,occurs_in
+Amber,Razor,knows
+Razor,Amber,knows
+Black Wolf,Outside of Wolvendom,from
+Black Wolf,Razor,opposes
+Traveler,Wolfhook Seeds,has
+Boreas,Wolvendom,member_of
+Traveler,Boreas,knows
+Razor,Boreas,knows
+Amber,Boreas,knows
+Traveler,Spar,participates_in
+Boreas,Spar,participates_in
+Razor,Main Character,plays_role
+Traveler,The Meaning of Lupical,participates_in
+Paimon,The Meaning of Lupical,participates_in
+Amber,The Meaning of Lupical,participates_in
+Boreas,The Meaning of Lupical,participates_in
+The Meaning of Lupical,Mondstadt,occurs_in
+The Meaning of Lupical,Wolvendom,occurs_in
+The Meaning of Lupical,Springvale,occurs_in
+The Meaning of Lupical,Drunkard Gorge,occurs_in
+Traveler,Paimon,knows
+Traveler,Amber,knows
+Traveler,Razor,knows
+Traveler,Boreas,knows
+Amber,Razor,knows
+Razor,Wolf Pack,member_of
+Boreas,Wolf Pack,member_of
+The Meaning of Lupical,Investigating wolf attacks,includes
+The Meaning of Lupical,Helping Razor find raw meat,includes
+The Meaning of Lupical,Confronting Boreas,includes
+The Meaning of Lupical,Adventure Rank 21 Requirement,has_attribute
+The Meaning of Lupical,Prologue: Act III - Song of the Dragon and Freedom,after
+The Meaning of Lupical,"Lepus Chapter: Act I - Wind, Courage, and Wings",after
+Razor,Wolfhook Seeds,has
+Traveler,Raw Meat,has
+"Autumn Winds, Scarlet Leaves",Prologue,plays_role
+"Autumn Winds, Scarlet Leaves",Chapter II,includes
+"Autumn Winds, Scarlet Leaves",We Will Be Reunited,after
+"Autumn Winds, Scarlet Leaves",The Immovable God and the Eternal Euthymia,before
+Traveler,Liyue Harbor,occurs_in
+Traveler,Paimon,knows
+Traveler,Sibling,knows
+Traveler,Abyss Order,opposes
+Traveler,Unknown God,opposes
+Traveler,Atsuko,knows
+Atsuko,Inazuma,from
+Inazuma,strict isolationist policies,has_attribute
+Traveler,Beidou,knows
+Beidou,The Crux,member_of
+Alcor,Guyun Stone Forest,occurs_in
+Alcor,The Crux Fleet,member_of
+Beidou,Ningguang,knows
+Beidou,Kazuha,knows
+Kazuha,The Crux Fleet,member_of
+Traveler,The Crux Clash,participates_in
+The Crux Clash,Vision-less martial arts tournament,has_attribute
+Masterless Vision,Kazuha,has
+Traveler,The Crux Clash,participates_in
+Traveler,Inazuma,occurs_in
+Traveler,Zhuhan,knows
+Zhuhan,The Crux,member_of
+Traveler,ancient god,opposes
+Traveler,Jinyou,opposes
+Traveler,Rongshi,opposes
+Traveler,Kazuha,knows
+Traveler,Slimes,opposes
+Kazuha,Electro Archon,knows
+Fei the Flyer,Culprit,plays_role
+Fei the Flyer,Treasure Hoarders,member_of
+Fei the Flyer,Tournament,participates_in
+Traveler,Fei the Flyer,opposes
+Traveler,Rongshi,opposes
+Kazuha,Fei the Flyer,opposes
+Kazuha,Vision,has
+Raiden Shogun,Vision Hunt Decree,has_attribute
+Kazuha's Friend,Raiden Shogun,opposes
+Kazuha,Traveler,knows
+Kazuha,Paimon,knows
+Beidou,Ningguang,knows
+Kazuha,Beidou,knows
+Traveler,Tournament Champion,plays_role
+Alcor,Liyue,occurs_in
+"Autumn Winds, Scarlet Leaves",Liyue,occurs_in
+Kazuha,"Autumn Winds, Scarlet Leaves",participates_in
+Traveler,"Autumn Winds, Scarlet Leaves",participates_in
+Traveler,Visit Ritou,participates_in
+Chisato,Traveler,knows
+Chisato,Ritou,from
+Traveler,Kamaji,knows
+Traveler,Meet Thoma,participates_in
+Thoma,Kamisato Clan,member_of
+Thoma,Traveler,knows
+Traveler,Visit Statue of the Omnipresent God,participates_in
+Raiden Shogun,Vision Hunt Decree,has_attribute
+Traveler,Meet Ayaka,participates_in
+Ayaka,Kamisato Clan,member_of
+Ayaka,Traveler,knows
+Traveler,Help Visionless people,participates_in
+Traveler,Visit Konda Village,participates_in
+Mahiru,Konda Village,from
+Kenjirou,Konda Village,from
+Tejima,Konda Village,from
+Tejima,Visionless,has_attribute
+Traveler,Help Tejima,participates_in
+Traveler,Visit Inazuma City,participates_in
+Kurosawa Kyounosuke,Inazuma City,from
+Kurosawa Kyounosuke,Visionless,has_attribute
+Traveler,Help Kurosawa Kyounosuke,participates_in
+Traveler,Treasure Hoarders,opposes
+Tadao,Treasure Hoarders,member_of
+Traveler,Aoi,knows
+Aoi,Tsukumomono Groceries,from
+Traveler,Visit Swordmaster,participates_in
+Domon,Inazuma City,from
+Domon,Visionless,has_attribute
+Junya,Domon,knows
+Traveler,Help Domon,participates_in
+Grand Narukami Shrine,Inazuma City,occurs_in
+Traveler,Anzai,knows
+Anzai,Domon,knows
+Inagi Hotomi,Maiden,plays_role
+Inagi Hotomi,Domon,knows
+Lady Yae,Domon,knows
+Domon,Vision,has
+Anzai,Domon,knows
+Anzai,passed aspirations,has_attribute
+Domon,lost aspirations,has_attribute
+Disciples,Domon,knows
+Lady Yae,Traveler,knows
+Paimon,Traveler,knows
+Paimon,Ayaka,knows
+Ayaka,Traveler,knows
+Traveler,helping former Vision bearers,participates_in
+Master Masakatsu,arrested,has_attribute
+Master Masakatsu,craftsman,plays_role
+Ayaka,Master Masakatsu,knows
+Ayaka,Thoma,knows
+Traveler,rescuing Master Masakatsu,participates_in
+Naganohara Fireworks,location,has_attribute
+Tenryou Commission,Vision bearers,opposes
+Yoimiya,Traveler,knows
+Yoimiya,Paimon,knows
+Yoimiya,fireworks maker,has_attribute
+Yoimiya,Ayaka,knows
+Yoimiya,Master Masakatsu,knows
+Kujou Sara,Tenryou Commission,member_of
+Kujou Sara,Master Masakatsu,knows
+Kujou Sara,Yoimiya,knows
+Kujou Sara,Traveler,knows
+Thoma,Traveler,knows
+Thoma,Ayaka,knows
+Tenryou Commission,ceremony,participates_in
+Traveler,hot pot game,participates_in
+Ayaka,hot pot game,participates_in
+Thoma,hot pot game,participates_in
+Yoimiya,fake vision,has
+The Immovable God and the Eternal Euthymia,7 Achievements,includes
+"Stillness, the Sublimation of Shadow",Act,plays_role
+"Stillness, the Sublimation of Shadow",Inazuma,occurs_in
+"Stillness, the Sublimation of Shadow",Chapter II,member_of
+"Stillness, the Sublimation of Shadow",The Immovable God and the Eternal Euthymia,after
+Omnipresence Over Mortals,"Stillness, the Sublimation of Shadow",after
+"Stillness, the Sublimation of Shadow",Archon Quest,has_attribute
+Traveler,"Stillness, the Sublimation of Shadow",participates_in
+Paimon,"Stillness, the Sublimation of Shadow",participates_in
+Kamisato Ayaka,"Stillness, the Sublimation of Shadow",participates_in
+Thoma,"Stillness, the Sublimation of Shadow",participates_in
+Raiden Shogun,"Stillness, the Sublimation of Shadow",participates_in
+Teppei,"Stillness, the Sublimation of Shadow",participates_in
+Gorou,"Stillness, the Sublimation of Shadow",participates_in
+Kujou Sara,"Stillness, the Sublimation of Shadow",participates_in
+Sangonomiya Kokomi,"Stillness, the Sublimation of Shadow",participates_in
+Beidou,"Stillness, the Sublimation of Shadow",participates_in
+Kaedehara Kazuha,"Stillness, the Sublimation of Shadow",participates_in
+Vision Hunt Decree,Inazuma,occurs_in
+Watatsumi Army,Vision Hunt Decree,opposes
+Shogun's Army,Kujou Sara,knows
+Traveler,Electro powers,has
+Raiden Shogun,Traveler,opposes
+Watatsumi Army,Resistance,member_of
+Gorou,Resistance,member_of
+Sangonomiya Kokomi,Resistance,member_of
+Teppei,Resistance,member_of
+Traveler,Teppei,knows
+Traveler,Gorou,knows
+Traveler,Sangonomiya Kokomi,knows
+Grus Nivis Chapter: Act I - The Whispers of the Crane and the White Rabbit,"Stillness, the Sublimation of Shadow",before
+Carassius Auratus Chapter: Act I - Dreamlike Timelessness,"Stillness, the Sublimation of Shadow",before
+Kamisato Ayaka,Story Quest,has_attribute
+Traveler,Grus Nivis Chapter,participates_in
+Kamisato Ayaka,Grus Nivis Chapter,participates_in
+Traveler,Kamisato Ayaka,knows
+Kamisato Ayaka,Tsubaki,knows
+Kamisato Ayaka,Traveler,knows
+Kamisato Ayaka,Inazuma,from
+Ogura Mio,Inazuma,from
+Kimono,Inazuma,from
+Silk,Liyue,from
+International Trade Association,Ritou,from
+Kurisu,Ritou,from
+Kanjou Commission,Inazuma,from
+Ronin,Inazuma,from
+Kiminami Anna,Inazuma,from
+Kiminami Restaurant,Inazuma,from
+Mushroom Pizza,Inazuma,from
+Tsubaki,Inazuma,from
+Ogura Textiles & Kimonos,Inazuma,occurs_in
+Ritou,Inazuma,occurs_in
+Tenshukaku,Inazuma,occurs_in
+Komore Teahouse,Inazuma,occurs_in
+Kamisato Ayaka,Kamisato Clan,member_of
+Kamisato Ayaka,Kanjou Commission,member_of
+Traveler,Paimon,knows
+Kamisato Ayaka,Paimon,knows
+Grus Nivis Chapter,Inazuma,occurs_in
+Traveler,Amakane Island Festival,participates_in
+Paimon,Amakane Island Festival,participates_in
+Ayaka,Amakane Island Festival,participates_in
+Amakane Island Festival,Amakane Island,occurs_in
+Ayaka,Sudden Appearance,has_attribute
+Merchants,Amakane Island Festival,participates_in
+Ayaka,Traveler,knows
+Traveler,Ayaka,knows
+Traveler,Reunite with their sibling,has_attribute
+Ayaka,Dance,performs
+Dance,Way back to Kamisato Residence,occurs_in
+Kamisato Ayaka,Quest,has_attribute
+Grus Nivis,The Whispers of the Crane and the White Rabbit,includes
+The Whispers of the Crane and the White Rabbit,Grus Nivis,member_of
+Traveler,The Whispers of the Crane and the White Rabbit,participates_in
+The Whispers of the Crane and the White Rabbit,Inazuma,occurs_in
+Kamisato Ayaka,Traveler,knows
+Kamisato Ayaka,Tsubaki,knows
+Traveler,Kamisato Ayaka,knows
+Kamisato Ayaka,Ogura Mio,knows
+Ogura Mio,Ogura Textiles & Kimonos,from
+Kamisato Ayaka,Kurisu,knows
+Traveler,Kurisu,knows
+International Trade Association,Ritou,member_of
+Kurisu,International Trade Association,member_of
+Kanjou Commission,Inazuma,member_of
+Kamisato Ayaka,Ronin,opposes
+Traveler,Ronin,opposes
+Kiminami Anna,Kiminami Restaurant,from
+Kamisato Ayaka,Kiminami Anna,knows
+Traveler,Kiminami Anna,knows
+Paimon,Kiminami Anna,knows
+Traveler,Mushroom Pizza,has
+Kamisato Ayaka,Kimono,has
+Traveler,White Heron Hairpiece,has
+Traveler,Ayaka's Story Quest,participates_in
+Paimon,Ayaka's Story Quest,participates_in
+Ayaka,Ayaka's Story Quest,participates_in
+Tsubaki,Ayaka's Mother,knows
+Ayaka's Mother,Tsubaki,plays_role
+Ayaka,Tsubaki,knows
+Notebook,Tsubaki,from
+Box,Notebook,has
+Ayaka's Story Quest,Inazuma,occurs_in
+Ayaka's Story Quest,Tenshukaku,occurs_in
+Ayaka's Story Quest,Amakane Island,occurs_in
+Ayaka,Kamisato Clan,member_of
+Ayaka,Yashiro Commission,member_of
+Traveler,Ayaka,knows
+Paimon,Ayaka,knows
+Ayaka,Desire for Inazuma's happiness,has_attribute
+Yoimiya,Vision,has_attribute
+Traveler,Carassius Auratus Chapter,participates_in
+Paimon,Carassius Auratus Chapter,participates_in
+Carassius Auratus Chapter,Inazuma City,occurs_in
+Yoimiya,Ryuunosuke,knows
+Ryuunosuke,Inazuma,from
+Yoimiya,Sakujirou,knows
+Sakujirou,Inazuma,from
+Tenryou Commission,Sakujirou,opposes
+Yoimiya,Kouichi,knows
+Sakoku Decree,Inazuma,occurs_in
+Yoimiya,Imatani couple,knows
+Imatani couple,Konda Village,from
+Yoimiya,Satoru,knows
+Sakujirou,Keisuke,knows
+Keisuke,Tenryou Commission,member_of
+Yoimiya,Yoshitaka,knows
+Yoshitaka,Tenryou Commission,member_of
+Keisuke,Sakujirou,knows
+Keisuke,Yoimiya,knows
+Yoimiya,Traveler,knows
+Yoimiya,Sakujirou,knows
+Sakujirou,Inazuma,from
+Yoimiya,Inazuma,from
+Traveler,Teyvat,from
+Amakane Island,Inazuma,occurs_in
+Inazuma City,Inazuma,occurs_in
+Yoimiya,Naganohara Ryuunosuke,knows
+Yoimiya,Traveler,knows
+Yoimiya,Paimon,knows
+Traveler,Paimon,knows
+Sakoku Decree,Inazuma,occurs_in
+Yoimiya,desire to see meteor shower,has_attribute
+Traveler,Rtawahist,knows
+Yoimiya,Sumeru,knows
+Port Ormos,Sumeru,occurs_in
+Akademiya,Sumeru City,occurs_in
+Sumeru City,Sumeru,occurs_in
+Acara Crafts,Port Ormos,occurs_in
+Fayez,Sumeru,from
+Fayez,Aranara carvings,has
+Yoimiya,Aranara carvings,has
+Yoimiya,Aranara,knows
+Azar,Rtawahist,from
+Azar,Avidya Forest,occurs_in
+Layla,Rtawahist,from
+Nahida,Sumeru,from
+Nahida,Emberglow Leaf,has
+Yoimiya,Avin,knows
+Avin,Sumeru,from
+Devantaka Mountain,Sumeru,occurs_in
+Ruin Golem,Devantaka Mountain,occurs_in
+Yoimiya,Traveler's sibling,knows
+Traveler,Meteor Shower Wish Quest,participates_in
+Paimon,Meteor Shower Wish Quest,participates_in
+Yoimiya,Meteor Shower Wish Quest,participates_in
+Meteor Shower Wish Quest,Sumeru,occurs_in
+Yoimiya,Ahangar,knows
+Ahangar,Sumeru City,from
+Urstone,legendary,has_attribute
+Farid,Corps of Thirty,member_of
+Niousha,Avin,knows
+Avin,ill,has_attribute
+Traveler,Hilichurls,opposes
+Avin,Arashani,knows
+Arashani,Aranara,has_attribute
+Traveler,Arapurva,knows
+Arapurva,Aranara,has_attribute
+Yoimiya,Arapurva,knows
+Arapurva,Arashani,knows
+Arashani,Mawtiyima Forest,from
+Avin,Nara,plays_role
+Yoimiya,pure heart,has_attribute
+Yoimiya,fierce heart,has_attribute
+Avin,Arashani,knows
+Yoimiya,Lens,has
+Niousha,Inazuma,from
+Traveler,Aranara Carving,has
+Yoimiya,Story Quest,has_attribute
+Carassius Auratus,Dreamlike Timelessness,includes
+Dreamlike Timelessness,Act I,plays_role
+Traveler,Dreamlike Timelessness,participates_in
+Dreamlike Timelessness,Inazuma,occurs_in
+Traveler,Yoimiya,knows
+Traveler,Paimon,knows
+Paimon,Yoimiya,knows
+Traveler,Ryuunosuke,knows
+Yoimiya,Ryuunosuke,knows
+Ryuunosuke,Inazuma,from
+Yoimiya,Sakujirou,knows
+Sakujirou,Inazuma,from
+Tenryou Commission,Sakujirou,opposes
+Yoimiya,Kouichi,knows
+Kouichi,Inazuma,from
+Traveler,Kouichi,knows
+Sakoku Decree,Inazuma,occurs_in
+Yoimiya,Imatani Couple,knows
+Traveler,Imatani Couple,knows
+Imatani Couple,Konda Village,from
+Imatani Couple,Satoru,knows
+Traveler,Satoru,knows
+Yoimiya,Satoru,knows
+Saburou,Keisuke,knows
+Keisuke,Inazuma,from
+Sakujirou,Keisuke,knows
+Tenryou Commission,Sakujirou,opposes
+Keisuke,Tenryou Commission,member_of
+Yoimiya,Yoshitaka,knows
+Yoshitaka,Tenryou Commission,member_of
+Traveler,Yoshitaka,knows
+Yoimiya,Enemies,opposes
+Yoimiya,Keisuke,knows
+Yoimiya,Sakujirou,knows
+Keisuke,Sakujirou,knows
+Yoimiya,Duel,participates_in
+Keisuke,Duel,participates_in
+Yoshitaka,Keisuke,knows
+Keisuke,Yoimiya,knows
+Sakujirou,Inazuma,from
+Keisuke,Sakujirou,knows
+Yoimiya,Traveler,knows
+Yoimiya,Firework,knows
+Keisuke,Firework,has
+Sakujirou,Order Slip,has
+Traveler,Golden Firework,has
+Amakane Island,Firework Show,occurs_in
+Yoimiya,Firework Show,participates_in
+Traveler,Firework Show,participates_in
+Sakujirou,Firework Show,participates_in
+Omnipresence Over Mortals,Act III,plays_role
+Omnipresence Over Mortals,Inazuma,occurs_in
+Omnipresence Over Mortals,Meeting with Sangonomiya Kokomi,includes
+Omnipresence Over Mortals,Investigation at Fort Mumei,includes
+Omnipresence Over Mortals,Delusion Factory Infiltration,includes
+Teppei,Traveler,knows
+Teppei,Sangonomiya Kokomi,knows
+Sangonomiya Kokomi,Resistance,member_of
+Sangonomiya Kokomi,Inazuma Shogunate,opposes
+Sangonomiya Kokomi,Traveler,knows
+Vision Hunt Decree,Inazuma,occurs_in
+Tenryou Commission,Inazuma Shogunate,member_of
+Raiden Shogun,Inazuma Shogunate,member_of
+Traveler,Swordfish II,member_of
+Teppei,Resistance,member_of
+Swordfish II,Investigation at Fort Mumei,participates_in
+Fort Mumei,Watatsumi Island,occurs_in
+Bourou Village,Watatsumi Island,occurs_in
+Teppei,Delusion,has
+Tatarigami,Watatsumi Island,occurs_in
+Orobashi,god of Watatsumi Island,has_attribute
+Orobashi,Ei,opposes
+Archon War,Teyvat,occurs_in
+Narukami Island,Inazuma,occurs_in
+Watatsumi Island,Inazuma,occurs_in
+Gorou,Resistance,member_of
+Fatui,Resistance,opposes
+Delusion,vitality-absorbing,has_attribute
+Traveler,Fatui,opposes
+Crystal Marrow,Watatsumi Island,from
+Kanjou Commission,Watatsumi Island,member_of
+Nathan,Fatui,member_of
+The Balladeer,Eleven Fatui Harbingers,member_of
+Yae Miko,Traveler,knows
+Grand Narukami Shrine,Narukami Island,occurs_in
+Ei,Raiden Shogun,plays_role
+Plane of Euthymia,Inazuma,occurs_in
+Yae Miko,Kujou Sara,knows
+Yae Miko,Tenryou Commission,opposes
+Kujou Sara,Tenryou Commission,member_of
+Kujou Takayuki,Kujou Clan,member_of
+Traveler,Kamisato Ayaka,knows
+Traveler,Thoma,knows
+Yoimiya,Traveler,knows
+Sayu,Shuumatsuban,member_of
+Sayu,Infiltration of Tenryou Commission,participates_in
+Kujou Sara,Kujou Takayuki,knows
+Signora,Fatui,member_of
+Traveler,Signora,opposes
+Shogun,Musou no Hitotachi,has
+Kaedehara Kazuha,Traveler,knows
+Kaedehara Kazuha,Vision,has
+Ei,Fatui,knows
+Makoto,Ei,knows
+Yae Miko,Traveler,knows
+The Balladeer,Fatui,member_of
+The Balladeer,Electro Gnosis,has
+Ei,The Balladeer,knows
+Traveler,lack of a Vision,has_attribute
+Lesser Lord Kusanali,Traveler's lack of Vision,knows
+Sages,Traveler's lack of Vision,knows
+Miko,Traveler's lack of Vision,knows
+Miko,Traveler,knows
+Traveler,not yet found an ambition strong enough to receive a Vision,has_attribute
+Requiem of the Echoing Depths,Traveler's Quest,includes
+Requiem of the Echoing Depths,Act,plays_role
+Requiem of the Echoing Depths,Chapter II,member_of
+Requiem of the Echoing Depths,Archon Quests,member_of
+Traveler,Requiem of the Echoing Depths,participates_in
+Dainsleif,Requiem of the Echoing Depths,participates_in
+Requiem of the Echoing Depths,The Chasm,occurs_in
+Traveler,Paimon,knows
+Traveler,Dainsleif,knows
+Traveler,Yuehui,knows
+Paimon,Traveler,knows
+Paimon,Dainsleif,knows
+Dainsleif,Traveler,knows
+Dainsleif,Paimon,knows
+Dainsleif,Halfdan,knows
+Dainsleif,Twilight Sword,has_attribute
+Dainsleif,Khaenri'ah's Royal Guard,member_of
+Traveler's Sibling,Dainsleif,opposes
+Abyss Order,Dainsleif,opposes
+Abyss Order,Traveler,opposes
+Black Serpent Knights,Dainsleif,opposes
+Black Serpent Knights,Traveler,opposes
+Abyss Lector,Traveler,opposes
+Halfdan,Black Serpent Knights,member_of
+Halfdan,Khaenri'ah's Royal Guard,member_of
+Halfdan,Dainsleif,knows
+Inteyvat,Khaenri'ah,from
+Abyss Herald,Abyss Order,member_of
+Abyss Lector,Abyss Order,member_of
+Traveler,Through Mists of Smoke and Forests Dark,participates_in
+Paimon,Through Mists of Smoke and Forests Dark,participates_in
+Through Mists of Smoke and Forests Dark,Sumeru,occurs_in
+Traveler,Paimon,knows
+Through Mists of Smoke and Forests Dark,Archon Quest,plays_role
+Through Mists of Smoke and Forests Dark,Chapter III,includes
+Through Mists of Smoke and Forests Dark,Requiem of the Echoing Depths,after
+Through Mists of Smoke and Forests Dark,The Morn a Thousand Roses Brings,before
+Traveler,Dendro Archon,knows
+Traveler,Haypasia,knows
+Haypasia,Sumeru,from
+Traveler,Tighnari,knows
+Traveler,Collei,knows
+Tighnari,Forest Rangers,member_of
+Collei,Forest Rangers,member_of
+Traveler,Greater Lord Rukkhadevata,knows
+Greater Lord Rukkhadevata,Deceased,has_attribute
+Traveler,Lesser Lord Kusanali,knows
+Lesser Lord Kusanali,Dendro Archon,has_attribute
+Lesser Lord Kusanali,Sumeru City,from
+Sanctuary of Surasthana,Sumeru City,occurs_in
+Collei,Amber,knows
+Collei,Mondstadt,from
+Amber,Mondstadt,from
+Traveler,Stormterror incident,participates_in
+Paimon,Stormterror incident,participates_in
+Collei,Eleazar,has
+Collei,Doctor,knows
+Doctor,Eleven Fatui Harbingers,member_of
+Traveler,Withering Zone,knows
+Tighnari,Withering Zone,knows
+Tighnari,Irminsul,knows
+Irminsul,Ley Lines,has_attribute
+Dendro Archon,God of Wisdom,has_attribute
+Tighnari,Aranara,knows
+Greater Lord Rukkhadevata,Aranara,knows
+Traveler,Dusk Bird,knows
+Haypasia,Dusk Bird,knows
+Tighnari,Haypasia,knows
+Traveler,Abyss Herald,knows
+Aranara,Haypasia,knows
+Traveler,Search for Lesser Lord Kusanali,participates_in
+Paimon,Search for Lesser Lord Kusanali,participates_in
+Haypasia,Aranara,knows
+Haypasia,Genius,has_attribute
+Sumeru Akademiya,Researchers,has_attribute
+Researchers,Sumeru Akademiya,from
+Researchers,Irminsul research,participates_in
+Sage Khajehand,Sumeru Akademiya,member_of
+Sage Naphis,Sumeru Akademiya,member_of
+Tighnari,Sage Naphis,knows
+Tighnari,Rohawi,knows
+Traveler,Rohawi,knows
+Paimon,Rohawi,knows
+Traveler,Akasha Terminal,has
+Paimon,Akasha Terminal,has
+Akasha Terminal,access Sumeru's Akasha System,has_attribute
+Katheryne,Adventurers' Guild,member_of
+Asfand,Corps of Thirty,member_of
+Dunyarzad,Lesser Lord Kusanali,knows
+Dehya,Dunyarzad,knows
+Dunyarzad,Sabzeruz Festival,participates_in
+Nilou,Lesser Lord Kusanali,knows
+Nilou,Sabzeruz Festival,participates_in
+Nilou,Performer of Dance of Sabzeruz,plays_role
+Dance of Sabzeruz,Sabzeruz Festival,occurs_in
+Padisarahs,Extinct,has_attribute
+Azar,Grand Sage,has_attribute
+Aaru Village,Akademiya convoy robbery,occurs_in
+Knowledge Capsule,Port Ormos,occurs_in
+Ayn Al-Ahmar,Greater Lord Rukkhadevata,opposes
+King Deshret,Deceased,has_attribute
+Alhaitham,Akademiya,member_of
+Alhaitham,Ayn Al-Ahmar,opposes
+Dori,Merchant,has_attribute
+Mizri,Ayn Al-Ahmar,member_of
+Mizri,Divine Knowledge Capsule,has
+Mizri,Akasha Terminal,has
+Matra,Mizri,opposes
+Alhaitham,Traveler,knows
+Traveler,Paimon,knows
+Alhaitham,Divine Knowledge Capsule,has
+Mizri,insane,has_attribute
+Researchers,insane,has_attribute
+Researchers,connection to Irminsul,has
+Divine Knowledge Capsule,not divine knowledge,has_attribute
+Divine Knowledge Capsule,not power,has_attribute
+Alhaitham,Lesser Lord Kusanali,knows
+Traveler,Sabzeruz Festival,participates_in
+Paimon,Sabzeruz Festival,participates_in
+Sabzeruz Festival,Sumeru City,occurs_in
+Alhaitham,Divine Knowledge Capsule,has
+Sages,report,has
+Traveler,The Morn a Thousand Roses Brings,participates_in
+Paimon,The Morn a Thousand Roses Brings,participates_in
+The Morn a Thousand Roses Brings,Sumeru,occurs_in
+The Morn a Thousand Roses Brings,Sabzeruz Festival,includes
+Dunyarzad,The Morn a Thousand Roses Brings,participates_in
+Dehya,The Morn a Thousand Roses Brings,participates_in
+Nilou,The Morn a Thousand Roses Brings,participates_in
+Azar,The Morn a Thousand Roses Brings,participates_in
+Setaria,The Morn a Thousand Roses Brings,participates_in
+Nahida,The Morn a Thousand Roses Brings,participates_in
+The Morn a Thousand Roses Brings,Through Mists of Smoke and Forests Dark,after
+Traveler,Paimon,knows
+Traveler,Dunyarzad,knows
+Traveler,Dehya,knows
+Traveler,Nilou,knows
+Traveler,Nahida,knows
+Paimon,Dunyarzad,knows
+Dunyarzad,Eleazar,has_attribute
+Dehya,greatsword,has
+Azar,Sabzeruz Festival,opposes
+The Morn a Thousand Roses Brings,Grand Bazaar,occurs_in
+The Morn a Thousand Roses Brings,Port Ormos,occurs_in
+The Morn a Thousand Roses Brings,Vihar's venue,occurs_in
+The Morn a Thousand Roses Brings,Lambad's Tavern,occurs_in
+The Morn a Thousand Roses Brings,Bimarstan hospital,occurs_in
+Dunyarzad,Sumeru,from
+Dehya,Sumeru,from
+Nilou,Sumeru,from
+Azar,Sumeru,from
+Nahida,Sumeru,from
+Traveler,Akasha,knows
+Dehya,Akasha,knows
+Akasha,extracting information,has_attribute
+Traveler,mental fatigue,has_attribute
+Khajeh,mysterious voice,plays_role
+Azar,mysterious voice,plays_role
+Nahida,Moon,has_attribute
+Dehya,greatsword,has
+Traveler,samsara,knows
+Dehya,samsara,knows
+Nahida,samsara,knows
+Traveler,leaving city,participates_in
+Nahida,Traveler leaving city,knows
+Paimon,Traveler leaving city,knows
+Akasha,compiling wisdom,has_attribute
+Akasha,stealing dreams,has_attribute
+Sages,lying about dreams,has_attribute
+Samsara,collective dream,has_attribute
+Samsara,Sabzeruz Festival,occurs_in
+Nahida,Lesser Lord Kusanali,plays_role
+Nahida,Dendro Archon,plays_role
+Dunyarzad,consciousness disappeared,has_attribute
+Nahida,Dunyarzad,knows
+Traveler,Dunyarzad,knows
+Paimon,Dunyarzad,knows
+Nahida,how to break samsara,knows
+Traveler,how to break samsara,knows
+Paimon,how to break samsara,knows
+Nahida,traveling stolen dreams,participates_in
+Traveler,Vihar,knows
+Vihar,Dunyarzad,knows
+Dehya,Eremites,opposes
+Traveler,Eremites,opposes
+Dunyarzad,forgotten something,has_attribute
+Paimon,Dunyarzad,knows
+Paimon,Dunyarzad's room,enters
+Dunyarzad,diary,has
+Diary,research on Lesser Lord Kusanali,has_attribute
+Traveler,Dunyarzad,knows
+Paimon,Dunyarzad,knows
+Traveler,Dance of Sabzeruz,participates_in
+Paimon,Dance of Sabzeruz,participates_in
+Azar,Nilou,scolds
+Setaria,Nilou,scolds
+Traveler,Azar,opposes
+Traveler,Setaria,opposes
+Azar,puppet,has_attribute
+Setaria,puppet,has_attribute
+Nilou,host of the dream,has_attribute
+Nabu Malikata's Padisarahs,extinct,has_attribute
+Nilou,dream,participates_in
+Nilou,dance,performs
+Dunyarzad,Nilou's dance,watches
+Traveler,Dunyarzad,knows
+Paimon,Dunyarzad,knows
+Katheryne,Dunyarzad,knows
+Nahida,Katheryne,possesses
+Nahida,Dunyarzad's consciousness,has
+Akasha,cannot harvest Dunyarzad's consciousness,has_attribute
+Nahida,Dunyarzad's dream,sustains
+Traveler,samsara,breaks
+Paimon,samsara,breaks
+Nahida,tired,has_attribute
+Akasha,unable to host event,has_attribute
+Nahida,sages' actions,investigates
+Katheryne,Traveler,knows
+Katheryne,Paimon,knows
+Traveler,King Deshret and the Three Magi,participates_in
+Cyno,King Deshret and the Three Magi,participates_in
+King Deshret and the Three Magi,Investigation of Missing Village Keepers,includes
+Traveler,Investigation of Missing Village Keepers,participates_in
+Cyno,Investigation of Missing Village Keepers,participates_in
+Sharkan,King Deshret's resurrection,knows
+Makan,King Deshret's resurrection,knows
+Sharkan,Dendro Archon,opposes
+Makan,Dendro Archon,opposes
+Isak,Radicals,knows
+Isak,Grandpa,has_attribute
+Traveler,Teyvat,from
+Cyno,Tighnari,knows
+Dehya,Zaki,knows
+Dehya,Wall of Samiel,opposes
+Traveler,Meeting at Caravan Ribat,participates_in
+Dehya,Meeting at Caravan Ribat,participates_in
+Zaki,Delavar,knows
+Delavar,Ambush,participates_in
+Engur,Ambush,participates_in
+Traveler,Ambush,participates_in
+Dehya,Ambush,participates_in
+Candace,Interrogation of Radicals,participates_in
+Radicals,Masked Man,knows
+Masked Man,King Deshret's envoy,plays_role
+Uncle Anpu,Akademiya,knows
+Alhaitham,Investigation in Village,participates_in
+Shani,Screaming,knows
+Alhaitham,Screaming,knows
+Eleazar Hospital,Dar al-Shifa,occurs_in
+Traveler,Exploration of Dar al-Shifa,participates_in
+Alhaitham,Exploration of Dar al-Shifa,participates_in
+Alhaitham,Razak,knows
+Akademiya,Misinformation Campaign,has_attribute
+Mizri,Port Ormos,from
+Cyno,Akademiya Plans,knows
+Alhaitham,Akademiya Plans,knows
+Alhaitham,Mole,plays_role
+King Deshret and the Three Magi,Sumeru,occurs_in
+Caravan Ribat,Sumeru,occurs_in
+Aaru Village,Sumeru,occurs_in
+Dar al-Shifa,Sumeru,occurs_in
+Cyno,Investigation of Desert Headsets,participates_in
+Dehya,Rahman,knows
+Dehya,Rahman,opposes
+Alhaitham,Dehya,knows
+Alhaitham,Rahman,knows
+Rahman,Dehya,knows
+Rahman,Eremites,leads
+Dehya,The Group,member_of
+Alhaitham,The Group,member_of
+Isak,The Group,member_of
+Rahman,Desert,occurs_in
+Headsets,Desert,found_in
+Mysterious Ruins,Desert,occurs_in
+King Deshret,Mysterious Ruins,associated_with
+Dendro Archon,Mysterious Ruins,associated_with
+Kasala,King Deshret,associated_with
+Greater Lord Rukkhadevata,King Deshret,knows
+Rahman,King Deshret,knows
+Morghi,Sages,associated_with
+Judar,Sages,associated_with
+Traveler,Morghi,knows
+Traveler,Judar,knows
+Il Dottore,Sages,member_of
+Dream Samsara,Sages' Plan,part_of
+Divine Canned Knowledge,Sages' Plan,part_of
+Dehya,Tighnari,knows
+Cyno,Tighnari,knows
+Traveler,Plan to convince Tighnari,participates_in
+Paimon,Plan to convince Tighnari,participates_in
+Dehya,Plan to convince Tighnari,participates_in
+Cyno,Plan to convince Tighnari,participates_in
+Il Dottore,Dehya,opposes
+Il Dottore,Traveler,opposes
+Il Dottore,Paimon,opposes
+Il Dottore,Tighnari,opposes
+Il Dottore,Cyno,opposes
+Il Dottore,Alhaitham,opposes
+Plan to find information on Dottore,Pardis Dhyai,occurs_in
+Tighnari,Akademiya,member_of
+Haypasia,Akademiya,from
+Il Dottore,Fatui,member_of
+Tsaritsa,Fatui,member_of
+Dehya,Mercenary skills,has_attribute
+Fatui Entourage,Port Ormos,occurs_in
+Wikala Funduq,Port Ormos,occurs_in
+Scaramouche,Godhood,has_attribute
+Scaramouche,Greater Lord Rukkhadevata,plays_role
+Akademiya,Sanctuary of Surasthana,has
+Jnagarbha Day,Akademiya,occurs_in
+Azar,Akademiya,member_of
+Alhaitham,Akademiya,member_of
+Viraf,Akademiya,member_of
+House of Daena,Akademiya,occurs_in
+Azar,Office,has
+Knowledge Capsule,Azar's office,occurs_in
+Aaru Village,Sumeru,occurs_in
+Nilou,Alhaitham,knows
+Traveler,Waking Nahida,participates_in
+Alhaitham,Betrayer,plays_role
+Nahida,Self-doubt,has_attribute
+Traveler,Nahida,knows
+Traveler,Breaking Barrier,participates_in
+Nilou,The Plan,participates_in
+Sheikh Zubayr,The Plan,knows
+Nilou,Performance,participates_in
+Azar,Nilou,opposes
+Alhaitham,The Plan,participates_in
+Dehya,The Plan,participates_in
+Eremites,The Plan,participates_in
+Isak,Kusanali,plays_role
+Azar,Akasha,knows
+Uday,Akasha,knows
+Cyno,Azar,opposes
+Dehya,Traveler,knows
+Traveler,Nahida,knows
+Nahida,Akasha Control,has_attribute
+Nahida,False God,opposes
+Nahida,Upgraded Akasha Terminal,has
+Traveler,Upgraded Akasha Terminal,has
+Fatui,Facility,member_of
+Scaramouche,Godhood,has_attribute
+Scaramouche,Mechanical Suit,has
+Nahida,Scaramouche,opposes
+Traveler,Scaramouche,opposes
+Scaramouche,Electro Gnosis,has
+Nahida,Electro Gnosis,has
+Nahida,Rukkhadevata,knows
+Traveler,Rukkhadevata,knows
+Rukkhadevata,Irminsul,from
+Rukkhadevata,Corroded Consciousness,has_attribute
+Nahida,Irminsul,knows
+People of Sumeru,Dreams,has_attribute
+Traveler,Teyvat,from
+Dottore,Nahida,opposes
+Nahida,Electro Gnosis,has
+Electro Gnosis,Ei,from
+Dottore,"information about ""the skies of Teyvat being fake""",knows
+Nahida,Dendro Gnosis,has
+Traveler,Paimon,knows
+Nilou,Traveler,knows
+Cyno,General Mahamatra,plays_role
+Tighnari,Forest Rangers,member_of
+Azar,Sages,member_of
+Nahida,Scaramouche,opposes
+Nahida,Azar,opposes
+Alhaitham,Kaveh,knows
+Dehya,bodyguard,plays_role
+Dunyarzad,cured,has_attribute
+Alhaitham,Traveler,knows
+Traveler,Dehya,knows
+Traveler,Dunyarzad,knows
+Traveler,Cyno,knows
+Traveler,Rahman,knows
+Setaria,Akademiya,member_of
+Nahida,Setaria,opposes
+Nahida,Rukkhadevata,knows
+Traveler,Nahida,knows
+Focalors,Archon,plays_role
+Traveler,Focalors,knows
+Sibling,Khaenri'ah,from
+Traveler,Sibling,knows
+Nahida,Fatui,knows
+Fatui,classified Traveler as Teyvat's fourth Descender,has_attribute
+Traveler,outside Teyvat,from
+Nahida,Fatui,opposes
+Heavenly Principles,Teyvat's first Descender,has_attribute
+Nahida,Traveler,knows
+Nahida,helping Traveler,plays_role
+"Akasha Pulses, the Kalpa Flame Rises",5 Achievements,has
+Traveler,Caribert,participates_in
+Dainsleif,Caribert,participates_in
+Kaeya,Caribert,participates_in
+Caribert,Sumeru,occurs_in
+Caribert,Avidya Forest,occurs_in
+Caribert,Meeting at Djafar Tavern,includes
+Traveler,Meeting at Djafar Tavern,participates_in
+Paimon,Meeting at Djafar Tavern,participates_in
+Kaeya,Meeting at Djafar Tavern,participates_in
+Masrur,Traveler,knows
+Masrur,Paimon,knows
+Masrur,Letter,has
+Letter,Kaeya,from
+Meeting at Djafar Tavern,Djafar Tavern,occurs_in
+Kaeya,Knights of Favonius,member_of
+Kaeya,Mondstadt,from
+Jean,Knights of Favonius,member_of
+Jean,Mondstadt,from
+Khaenri'ah,Sumeru,occurs_in
+Crepus,Kaeya,knows
+Kaeya,Khaenri'ah,from
+Dainsleif,Khaenri'ah,from
+Alberich,Abyss Order,has_attribute
+Kaeya,Alberich,has_attribute
+Dainsleif,Traveler,knows
+Dainsleif,Paimon,knows
+Traveler's Sibling,Loom of Fate,participates_in
+Dainsleif,Loom of Fate,participates_in
+Caribert,Loom of Fate,after
+Avidya Forest,Sumeru,occurs_in
+Slimes,Avidya Forest,occurs_in
+Traveler,Traveler's Sibling,knows
+Paimon,Traveler's Sibling,knows
+Traveler,Eide,knows
+Eide,Khaenri'ah,from
+Eide,Gods,opposes
+Hilichurls,Khaenri'ah,from
+Caribert,Hilichurl,has_attribute
+Eide,Caribert,knows
+Caribert,Mondstadt,from
+Eide,Caribert,has
+Traveler,Caribert,knows
+Medicine,Sumeru,from
+Traveler,Medicine Creation,participates_in
+Eide,Medicine Creation,participates_in
+Medicine,Sumeru Rose,includes
+Medicine,Kalpalata Lotus,includes
+Caribert,Scarf,has
+Hilichurls,Prayer,participates_in
+Traveler,Abyss Being,opposes
+Traveler,Abyss Being,knows
+Eide,Abyss Being,knows
+Traveler,Defiled Statue,knows
+Eide,Defiled Statue,knows
+Eide,Mysterious Voice,knows
+Traveler,Mysterious Voice,knows
+Eide,Chlothar Alberich,knows
+Chlothar Alberich,Eide,plays_role
+Traveler,Chlothar Alberich,knows
+Traveler,Sibling,knows
+Chlothar Alberich,Gods,opposes
+Traveler,Dainsleif,knows
+Traveler,Paimon,knows
+Dainsleif,Paimon,knows
+Chlothar,Founder of the Abyss Order,plays_role
+Chlothar,Abyss Order,member_of
+Dainsleif,Traveler,knows
+Traveler,Paimon,knows
+Traveler,Vision,has
+Dainsleif,Sinner,opposes
+Abyss Order,Founded 100 years ago,has_attribute
+Traveler,Prelude of Blancheur and Noirceur,participates_in
+Paimon,Prelude of Blancheur and Noirceur,participates_in
+Prelude of Blancheur and Noirceur,Freeing Nahida,includes
+Nahida,Sumeru Akademiya,from
+Traveler,Dehya,knows
+Paimon,Dehya,knows
+Traveler,Journey to Fontaine,participates_in
+Paimon,Journey to Fontaine,participates_in
+Romaritime Harbor,Fontaine,occurs_in
+Traveler,Furina,knows
+Paimon,Furina,knows
+Furina,Hydro Archon,has_attribute
+Court of Fontaine,Fontaine,occurs_in
+Neuvillette,Court of Fontaine,member_of
+Oratrice Mecanique d'Analyse Cardinale,Court of Fontaine,member_of
+Traveler,Lynette,knows
+Traveler,Lyney,knows
+Paimon,Lynette,knows
+Paimon,Lyney,knows
+Lyney,Performer,plays_role
+Lynette,Performer,plays_role
+Traveler,Furina,opposes
+Clorinde,Furina's Entourage,member_of
+Paimon,Flying Object,has_attribute
+Lyney,Magic Pocket,has
+Hydro Archon,unable to absolve Fontaine's sins,has_attribute
+Fontaine,rising water levels,has_attribute
+Magic Pockets,helps people transport belongings,has_attribute
+Traveler,giving Magic Pockets to people,participates_in
+Lyney,preparing people for worst-case scenario,participates_in
+Traveler,gathering Romaritime Flowers,participates_in
+Traveler,catching a thief,participates_in
+Lyney,returning stolen items,participates_in
+Lyney,injured,has_attribute
+Traveler,taking aquabus,participates_in
+Charlotte,meeting Traveler and Paimon,participates_in
+Charlotte,case of disappearing young women,knows
+Lyney and Lynette,home,has
+Freminet,everyone went out,knows
+Fontaine,trials,occurs_in
+Hydro Dragon,Fontaine,from
+Freminet,introverted,has_attribute
+Traveler,delivering supplies to Beaumont Workshop,participates_in
+Estelle,Beaumont Workshop,from
+Lyney,paying Estelle in advance,participates_in
+Indemnitium,power source from court trials,has_attribute
+Truand,Confrerie of Cabriere,member_of
+Childe,Northland Bank debt,knows
+Childe,Eleven Fatui Harbingers,member_of
+Childe,Delusion,has
+Childe,Abyss,knows
+Childe,Skirk,knows
+Childe,sparring with Champion Duelists,participates_in
+Clorinde,Champion Duelist,plays_role
+Traveler,Childe's Vision,has
+Traveler,hearing mysterious voice,participates_in
+Lynette,greeting Traveler,participates_in
+Lyney,Performer,plays_role
+Lyney,Cowell,knows
+Traveler,Lyney,knows
+Traveler,Paimon,knows
+Traveler,Neuvillette,knows
+Traveler,Furina,knows
+Neuvillette,Lyney,knows
+Neuvillette,Traveler,knows
+Neuvillette,Furina,knows
+Furina,Traveler,knows
+Furina,Lyney,knows
+Opera House,Fontaine,occurs_in
+Performance,Opera House,occurs_in
+Neuvillette,Chief Justice,plays_role
+Cowell,Deceased,has_attribute
+Lyney,Furina,opposes
+Traveler,Furina,opposes
+Trial,Court,occurs_in
+Traveler,Lyney's attorney,plays_role
+Esmond,Lyney,knows
+Navia,Spina di Rosula,member_of
+Silver,Spina di Rosula,member_of
+Melus,Spina di Rosula,member_of
+Lyney,House of the Hearth,member_of
+Lynette,House of the Hearth,member_of
+House of the Hearth,Fatui,member_of
+Traveler,As Light Rain Falls Without Reason,participates_in
+As Light Rain Falls Without Reason,Disappearance Case,includes
+Paimon,As Light Rain Falls Without Reason,participates_in
+Navia,As Light Rain Falls Without Reason,participates_in
+Furina,Trial,plays_role
+Navia,Fonta,has
+Paimon,Fonta,has
+Traveler,Oceanid,knows
+Oceanid,Disappearing girls,plays_role
+Traveler,Battle with Clockwork Meka,participates_in
+Navia,Battle with Clockwork Meka,participates_in
+Silver,Battle with Clockwork Meka,participates_in
+Melus,Battle with Clockwork Meka,participates_in
+Clorinde,Battle with Clockwork Meka,participates_in
+Clorinde,Mastermind,knows
+Mastermind,Disappearance Case,plays_role
+Clockwork Meka,No serial numbers,has_attribute
+Primordial Sea,Fonta,from
+Paimon,Hydro sensitivity,has_attribute
+Traveler,Oceanid,knows
+Callas,Spina di Rosula,member_of
+Callas,Jacques's murder,plays_role
+As Light Rain Falls Without Reason,Hotel Debord,occurs_in
+As Light Rain Falls Without Reason,Fountain of Lucine,occurs_in
+Battle with Clockwork Meka,Fountain of Lucine,occurs_in
+Spina di Rosula,Court of Fontaine,occurs_in
+As Light Rain Falls Without Reason,Prelude of Blancheur and Noirceur,after
+As Light Rain Falls Without Reason,To the Stars Shining in the Depths,before
+Traveler,Investigation of Callas' death,participates_in
+Paimon,Investigation of Callas' death,participates_in
+Navia,Investigation of Callas' death,participates_in
+Navia,Melus,knows
+Navia,Silver,knows
+Melus,Poisson headquarters,member_of
+Silver,Poisson headquarters,member_of
+Callas,Clorinde,opposes
+Clorinde,Duelist,plays_role
+Callas' death,Arena,occurs_in
+Mother's death,Callas' death,before
+Neuvillette,Case file archives,has
+Palais Mermonia,Neuvillette's office,has_attribute
+Sedene,Palais Mermonia,member_of
+Vacher,Witness,plays_role
+Disappearance case,Poisson,occurs_in
+Jacques,Informant,plays_role
+Jacques,Murdered,has_attribute
+Callas,Illness,has_attribute
+Florent,Suspect,plays_role
+Thierry,Suspect,plays_role
+Marcel,Suspect,plays_role
+Sinthe,Dangerous,has_attribute
+Callas,Sinthe sellers,opposes
+Jacques' family,Poisson,from
+Gardemeks,Difficult to modify,has_attribute
+Traveler,Investigation,participates_in
+Paimon,Investigation,participates_in
+Tartaglia,Suspect,plays_role
+Marcel,Suspect,plays_role
+Navia,Evidence,knows
+Traveler,Marcel,knows
+Traveler,Sinthe production facility,occurs_in
+Paimon,Sinthe production facility,occurs_in
+Tartaglia,Opera House,occurs_in
+Navia,Opera House,occurs_in
+Marcel,Opera House,occurs_in
+Neuvillette,Opera House,occurs_in
+Furina,Opera House,occurs_in
+Clorinde,Opera House,occurs_in
+Traveler,Evidence,has
+Vacher,Experimenter,plays_role
+Vigneire,Notebook,has_attribute
+Marcel,Vacher,knows
+Neuvillette,Oratrice Mecanique d'Analyse Cardinale,has
+Tartaglia,Electro Delusion,has
+Tartaglia,Foul Legacy Transformation,has
+Neuvillette,Hydro power,has_attribute
+Oratrice Mecanique d'Analyse Cardinale,Verdict,has_attribute
+Furina,Verdict,knows
+Neuvillette,Childe,knows
+Neuvillette,investigator,plays_role
+Traveler,Marcel,knows
+Traveler,Vacher,knows
+Marcel,Vacher,knows
+Marcel,Traveler,knows
+Neuvillette,Traveler,knows
+Neuvillette,Marcel,knows
+Marcel,dream,has
+Traveler,Oceanid,knows
+Oceanid,Marcel,knows
+Oceanid,Vigneire,knows
+Vigneire,Marcel,knows
+Traveler,Paimon,knows
+Traveler,Navia,knows
+Navia,Traveler,knows
+Navia,Clorinde,knows
+Neuvillette,Clorinde,knows
+Neuvillette,Callas,knows
+Traveler,Neuvillette,knows
+Paimon,Neuvillette,knows
+Neuvillette,Furina,knows
+Furina,Neuvillette,knows
+Traveler,Flashback,has
+Flashback,Childe's time in prison,has_attribute
+Traveler,Dream,knows
+Dream,about Childe,has_attribute
+Traveler,Paimon,knows
+Traveler,Exploring prison facilities,participates_in
+Paimon,Exploring prison facilities,participates_in
+Working for three days,results in being served mystery meat,has_attribute
+Betting on two fighters,not allowed,has_attribute
+Traveler,Rules,knows
+Traveler,Vidoc,knows
+Paimon,Vidoc,knows
+Vidoc,Hidden rules,knows
+Cannibals,Pipes,occurs_in
+Cannibals,prey on victims at night,has_attribute
+Traveler,Investigating hidden rules,participates_in
+Paimon,Investigating hidden rules,participates_in
+Vidoc,Missing,has_attribute
+Traveler,Fielding,knows
+Paimon,Fielding,knows
+Fielding,Rumors of strange sounds,knows
+Strange sounds,Pipes,occurs_in
+Pipe-cleaning,Every month,occurs_in
+Traveler,Vision,has
+Vision,about Childe,has_attribute
+Childe,Escaping through pipes,participates_in
+Traveler,Three people,knows
+Three people,Hidden rules,knows
+Hidden rules,Farce to protect Childe,has_attribute
+Three people,Childe,knows
+Childe,Heard a voice,has_attribute
+Entrance to pipes,Flooded,has_attribute
+Traveler,Lyney,knows
+Lyney,Freminet,knows
+Paimon,Childe's behavior,knows
+To the Stars Shining in the Depths,3 Achievements,includes
+Traveler,Cataclysm's Quickening,participates_in
+Paimon,Cataclysm's Quickening,participates_in
+Cataclysm's Quickening,Meeting Lyney,includes
+Traveler,Meeting Lyney,participates_in
+Paimon,Meeting Lyney,participates_in
+Lyney,Meeting Lyney,participates_in
+Traveler,Laverune,knows
+Traveler,Cuistot,knows
+Laverune,Bombshell Bros,member_of
+Cuistot,Bombshell Bros,member_of
+Lyney,Childe,knows
+Lyney,Father,knows
+Childe,Fontaine,from
+Freminet,Cataclysm's Quickening,participates_in
+Lynette,Cataclysm's Quickening,participates_in
+Traveler,Infiltrate Infirmary,participates_in
+Sigewinne,Cataclysm's Quickening,participates_in
+Jurieu,Cataclysm's Quickening,participates_in
+Lourvine,Cataclysm's Quickening,participates_in
+Lynette,Infiltrate Infirmary,participates_in
+Wriothesley,Cataclysm's Quickening,participates_in
+Wriothesley,Lyney,knows
+Wriothesley,Lynette,knows
+Wriothesley,Freminet,knows
+Wriothesley,Father,knows
+Neuvillette,Cataclysm's Quickening,participates_in
+Wriothesley,Neuvillette,knows
+Sigewinne,cooking,has_attribute
+Melusines,Cataclysm's Quickening,participates_in
+Clorinde,Cataclysm's Quickening,participates_in
+Freminet,Primordial Seawater,has
+Childe,Primordial Seawater,has
+Lynette,Helping the unconscious person,participates_in
+Traveler,Helping the unconscious person,participates_in
+Twins,Helping the unconscious person,participates_in
+Unconscious person,Regained consciousness,has_attribute
+Unconscious person,Clorinde saved him,knows
+Clorinde,Savior,plays_role
+Sigewinne,Wriothesley,knows
+Lyney,His siblings,knows
+Traveler,Wriothesley,knows
+Paimon,Wriothesley,knows
+Wriothesley,Fatui operatives,knows
+Children,Fatui operatives,member_of
+Wriothesley,Lyney's motive,knows
+Lyney,Investigating the forbidden zone,has_attribute
+Wriothesley,Clorinde,knows
+Wriothesley,Administrator,plays_role
+Paimon,Sluice gate,knows
+Wriothesley,Sluice gate's purpose,knows
+Wriothesley,Primordial Sea,knows
+Wriothesley,Egeria,knows
+Egeria,Previous Hydro Archon,plays_role
+Criminals,Exiled,has_attribute
+Egeria,Granted forgiveness,has_attribute
+Wriothesley,Remurian legend,knows
+Lyney,Traveler's information,knows
+Paimon,Traveler's information,knows
+Traveler,Wriothesley's information,knows
+Paimon,Wriothesley's information,knows
+Siblings,Shocked,has_attribute
+Lyney,His family,knows
+Sigewinne,Clorinde,knows
+Traveler,Sluice gate failing,knows
+Wriothesley,Cryo powers,has_attribute
+Clorinde,Electro powers,has_attribute
+Wriothesley,Neuvillette,knows
+Neuvillette,Furina,knows
+Furina,Knave,knows
+Paimon,Prophecy,knows
+Arlecchino,Prophecy,knows
+Neuvillette,Hydro powers,has_attribute
+Arlecchino,Furina,knows
+Furina,Plan,knows
+Arlecchino,Furina,opposes
+Arlecchino,Traveler,knows
+Arlecchino,Childe,knows
+Arlecchino,Furina,knows
+Arlecchino,Neuvillette,knows
+Traveler,Arlecchino,knows
+Traveler,Furina,knows
+Traveler,Neuvillette,knows
+Traveler,Paimon,knows
+Traveler,Freminet,knows
+Traveler,Wriothesley,knows
+Paimon,Arlecchino,knows
+Paimon,Traveler,knows
+Paimon,Furina,knows
+Paimon,Neuvillette,knows
+Neuvillette,Traveler,knows
+Neuvillette,Paimon,knows
+Neuvillette,Furina,knows
+Furina,Traveler,knows
+Furina,Paimon,knows
+Furina,Neuvillette,knows
+Furina,Hydro Archon,has_attribute
+Neuvillette,Hydro Archon,has_attribute
+Childe,Fatui,member_of
+Arlecchino,Fatui,member_of
+Tea Party,Opera House,occurs_in
+Arlecchino,Tea Party,participates_in
+Traveler,Tea Party,participates_in
+Furina,Gnosis,has
+Neuvillette,Gnosis,has
+Assassination Attempt,Opera House,occurs_in
+Arlecchino,Assassination Attempt,participates_in
+Furina,Assassination Attempt,opposes
+Traveler,Masquerade of the Guilty,participates_in
+Paimon,Masquerade of the Guilty,participates_in
+Masquerade of the Guilty,Fortress of Meropide,occurs_in
+Traveler,Paimon,knows
+Traveler,Monglane,knows
+Traveler,Wriothesley,knows
+Traveler,Neuvillette,knows
+Wriothesley,Neuvillette,knows
+Neuvillette,seal,has
+Masquerade of the Guilty,Palais Mermonia,occurs_in
+Traveler,Sedenes,knows
+Traveler,Childe,knows
+Childe,Vision,has
+Masquerade of the Guilty,Poisson,occurs_in
+Masquerade of the Guilty,Primordial Sea,occurs_in
+Spina di Rosula,Navia,member_of
+Traveler,Navia,knows
+Navia,Melus,knows
+Navia,Silver,knows
+Traveler,Arlecchino,knows
+Arlecchino,Fatui,member_of
+House of the Hearth,Arlecchino,knows
+Masquerade of the Guilty,ancient ruins,occurs_in
+Neuvillette,Oceanids,knows
+Navia,Joinville,knows
+Traveler,Investigation of Fontaine's Prophecy,participates_in
+Paimon,Investigation of Fontaine's Prophecy,participates_in
+Fontaine,destruction prophecy,has_attribute
+Egeria,Previous Hydro Archon,plays_role
+Egeria,Second Slate Image,occurs_in
+Furina,Third Slate Image,occurs_in
+Furina,Fourth Slate Image,occurs_in
+Neuvillette,Furina,knows
+Neuvillette,Furina,opposes
+Traveler,Navia,knows
+Paimon,Navia,knows
+Traveler,Fleuve Cendre,member_of
+Paimon,Fleuve Cendre,member_of
+Mona,Mondstadt,from
+Mona,Prophecy,knows
+Steambird,Mona,knows
+Mona,Hexenzirkel,member_of
+Traveler,Mona,knows
+Paimon,Mona,knows
+Neuvillette,Victims List,has
+Furina,Egeria,knows
+Traveler,Neuvillette,knows
+Traveler,Lyney,knows
+Traveler,Lynette,knows
+Traveler,Freminet,knows
+Traveler,Clorinde,knows
+Neuvillette,Poisson,occurs_in
+"Mage ""N""",Traveler,knows
+"Mage ""N""",Paimon,knows
+Mona,Charlotte,knows
+Charlotte,Prophecy,knows
+Paimon,Hotel Debord,occurs_in
+Sedene,Hotel Debord,occurs_in
+Paimon,Sedene,knows
+Charlotte,Steambird,member_of
+Traveler,Teyvat,from
+Isadora,Fleuve Cendre,member_of
+Riot,Opera Epiclese,occurs_in
+Furina,Opera Epiclese,occurs_in
+Marechaussee Phantom,Opera Epiclese,occurs_in
+Furina,Poisson,occurs_in
+Traveler,Furina,knows
+Paimon,Furina,knows
+Traveler,Death Sentence of Furina,participates_in
+Furina,Opera,plays_role
+Neuvillette,Hydro Dragon,has_attribute
+Neuvillette,All-Devouring Narwhal,opposes
+Traveler,All-Devouring Narwhal,opposes
+Skirk,Surtalogi,knows
+Skirk,Childe's master,plays_role
+Rhinedottir,Albedo's creator,plays_role
+Focalors,Heavenly Principles,opposes
+Focalors,Oceanid,from
+Furina,Cursed,has_attribute
+Neuvillette,Hydro Gnosis,has
+Fatui,Snezhnaya,member_of
+Clorinde,Furina,opposes
+Charlotte,Steambird,from
+Childe,Fatui,member_of
+Childe,Snezhnaya,from
+Arlecchino,Harbingers,member_of
+Tsaritsa,Snezhnaya,member_of
+Childe,Vision,has
+Neuvillette,Skirk,knows
+Hydro Gnosis,Descender,from
+Neuvillette,Skirk,knows
+Skirk,Tartaglia,knows
+Tartaglia,relaying information,plays_role
+Neuvillette,reasoning,has
+Neuvillette,Traveler,knows
+Traveler,Fourth Descender,has_attribute
+Traveler,Paimon,knows
+Traveler,Childe,knows
+Neuvillette,Paimon,knows
+Natlan,land of endless war,has_attribute
+Natlan,nation where humans and dragons coexist,has_attribute
+Il Capitano,war in Natlan,participates_in
+Traveler,Il Capitano,knows
+Neuvillette,Il Capitano,knows
+Traveler,Bedtime Story,participates_in
+Paimon,Bedtime Story,participates_in
+Bedtime Story,Missing Person Investigation,includes
+Katheryne,Vimara Village,from
+Traveler,Katheryne,knows
+Paimon,Katheryne,knows
+Traveler,Paimon,knows
+Bahram,Vimara Village,from
+Amadhiah,Vimara Village,from
+Atossa,Vimara Village,from
+Pyro Abyss Mage,Abyss Order,member_of
+Pyro Abyss Mage,Traveler,opposes
+Hilichurls,Vimara Village,from
+Dainsleif,Abyss Order,opposes
+Vedrfolnir,Visionary,plays_role
+Vedrfolnir,Five Sinners of Khaenri'ah,member_of
+Rhinedottir,Five Sinners of Khaenri'ah,member_of
+Surtalogi,Five Sinners of Khaenri'ah,member_of
+Rerir,Five Sinners of Khaenri'ah,member_of
+Hroptatyr,Five Sinners of Khaenri'ah,member_of
+Five Sinners of Khaenri'ah,Dainsleif,opposes
+Dainsleif,Missing Person Investigation,participates_in
+Traveler's Sibling,Golden Sword,has
+Traveler's Sibling,Abyss Order,member_of
+Dainsleif,Traveler's Sibling,knows
+Bedtime Story,Vimara Village,occurs_in
+Traveler,Investigating Caribert's Commission,participates_in
+Atossa,Caribert,knows
+Traveler,Caribert,knows
+Caribert,Traveler's sibling,knows
+Caribert,Atossa,knows
+Caribert,Consciousness,has_attribute
+Traveler,Caribert's Consciousness,participates_in
+Loom of Fate,Create Ley Lines,has_attribute
+Loom of Fate,Create and implant memories,has_attribute
+Caribert,Foundation of Loom of Fate,plays_role
+Events in Vimara Village,Caribert's doing,has_attribute
+Traveler,Dainsleif,knows
+Caribert,Loom of Fate,has
+Caribert,Eye,has
+Traveler's sibling,Caribert,knows
+Caribert,Implanted false memory,has_attribute
+Traveler,Traveler's sibling,knows
+Traveler's sibling,Divine,opposes
+Heavenly Principles,Awakening,has_attribute
+Divine Throne of Hydro,Destroyed,has_attribute
+Traveler's sibling,Loneliness,has_attribute
+Caribert's memory,Collapse,has_attribute
+Paimon,Traveler,knows
+Villagers,Traveler,knows
+Dainsleif,Traveler,knows
+Villagers,Caribert,knows
+Traveler,Paimon,knows
+Atossa,Caribert,knows
+Traveler,Picture,has
+Picture,Traveler,includes
+Picture,Traveler's sibling,includes
+Picture,Caribert,includes
+Paimon,Pilgrimage,participates_in
+Kachina,Pilgrimage,participates_in
+Kinich,Scions of the Canopy,member_of
+Scions of the Canopy,Natlan,from
+Mualani,People of the Springs,from
+People of the Springs,Natlan,from
+Masters of the Night-Wind,Natlan,from
+Flower-Feather Clan,Natlan,from
+Collective of Plenty,Natlan,from
+Traveler,Pilgrimage,participates_in
+Contending Fire,fuel for Sacred Flame,has_attribute
+Sacred Flame,Abyss,opposes
+Abyss,Natlan,from
+Pilgrimage,instill teamwork,has_attribute
+Ode of Resurrection,works on Ancient Names,has_attribute
+Traveler,Paimon,knows
+Traveler,Mualani,knows
+Traveler,Kachina,knows
+Traveler,Kinich,knows
+Mualani,Night Warden Wars,participates_in
+Kachina,Pilgrimage,participates_in
+Mualani,Pilgrimage,participates_in
+Tepexpan,Pilgrimage,participates_in
+Tamuin,Pilgrimage,participates_in
+Nkunga,Pilgrimage,participates_in
+Liliuo,Pilgrimage,participates_in
+Kachina,Night Warden Wars,participates_in
+Chasca,Night Warden Wars,participates_in
+Iansan,Night Warden Wars,participates_in
+Kaiulani,Night Warden Wars,participates_in
+Kibangu,Night Warden Wars,participates_in
+Atea,Mualani,knows
+Amina,Natlan,from
+Traveler,Flowers Resplendent on the Sun-Scorched Sojourn,participates_in
+Atea,Abandoned Hot Spring,knows
+Atea,Injured,has_attribute
+Mualani,Traveler,knows
+Mualani,Paimon,knows
+Abyss,Traveler,opposes
+Abyss,Mualani,opposes
+Abyss,Atea,opposes
+Abyss,Village,opposes
+Pylon,Abandoned Spring Area,occurs_in
+Atea,Pylon,opposes
+Traveler,Pylon,opposes
+Traveler,Purification Powers,has
+Atea,Abyssal Contamination,has_attribute
+Atea,Talisman,has
+Traveler,Talisman,has
+Pyro Archon,Traveler,knows
+Quick Start,feature,has_attribute
+Quick Start,Version 2.6,occurs_in
+Quick Start,allows players to skip certain prerequisite Quests,has_attribute
+Quick Start,allows players to still experience the gameplay and earn rewards,has_attribute
+Quick Start,currently available for a limited time,has_attribute
+Quick Start,available for certain Quests released during or after Version 5.0,has_attribute
+Quick Start,many Events before Version 4.0,occurs_in
+Using Quick Start,may impact player's experience,has_attribute
+Story and dialogue,do not change based on whether the player has completed the recommended prerequisite quests,has_attribute
+Event story,may be incongruous with player's progression outside of the event,has_attribute
+Event story,may have spoilers for quests not yet completed,has_attribute
+Quick Start,cannot skip all quest requirements,has_attribute
+Graven Innocence,allowed players to participate without completing The Trail of the God of Wisdom,has_attribute
+Graven Innocence,required players to have completed Prologue: Act I - The Outlander Who Caught the Wind,has_attribute
+No events after Secret Summer Paradise,utilize Quick Start,has_attribute
+Secret Summer Paradise,Version 3.8,occurs_in
+17 Events,with Quick Start feature,has_attribute
+4 Quests,with Quick Start feature,has_attribute
+Quick Start,Version 5.0,occurs_in
+Quick Start,Version 3.2,occurs_in
+Quick Start,Version 3.0,occurs_in
+Quick Start,Version 2.7,occurs_in
+Quick Start,Version 2.6,occurs_in
+Traveler,Adepti Search,participates_in
+Paimon,Adepti Search,participates_in
+Childe,Liyue Qixing,knows
+Liyue Qixing,Rex Lapis's body,has
+Traveler,The Seven,knows
+Childe,The Seven,knows
+Traveler,Meeting with Zhongli,participates_in
+Paimon,Meeting with Zhongli,participates_in
+Childe,Meeting with Zhongli,participates_in
+Zhongli,Wangsheng Funeral Parlor,member_of
+Zhongli,Consultant,plays_role
+Traveler,Funeral Preparations,participates_in
+Zhongli,Funeral Preparations,participates_in
+Noctilucous Jade,Pyro affinity,has_attribute
+Traveler,Jade Testing,participates_in
+Zhongli,Jade Testing,participates_in
+Dadaupa Gorge,Jade Testing,occurs_in
+Traveler,Perfume Creation,participates_in
+Zhongli,Perfume Creation,participates_in
+Silk Flowers,Bolai,from
+Ying'er,Perfume Creation,participates_in
+Traveler,Retrieving Cleansing Bell,participates_in
+Madame Ping,Cleansing Bell,has
+Madame Ping,Adepti,member_of
+Zhongli,Kite Retrieval,participates_in
+Granny Shan,Kites,has
+Traveler,Hiring Workers,participates_in
+Childe,Hiring Workers,participates_in
+Tic,Hiring Workers,participates_in
+Tac,Hiring Workers,participates_in
+Toe,Hiring Workers,participates_in
+Traveler,Incense Acquisition,participates_in
+Zhongli,Incense Acquisition,participates_in
+Qiqi,Bubu Pharmacy,member_of
+Traveler,Cocogoat Hunt,participates_in
+Zhongli,Cocogoat Hunt,participates_in
+Qiqi,Cocogoat Hunt,participates_in
+Guizhong Ballista,Mt. Tianheng,occurs_in
+Treasure Hoarders,Traveler,opposes
+Treasure Hoarders,Zhongli,opposes
+Treasure Hoarders,Qiqi,opposes
+Adepti,Osial,opposes
+Qixing,Osial,opposes
+Ningguang,Guizhong Ballistas,has
+Cloud Retainer,Manning Ballistas,plays_role
+Mountain Shaper,Manning Ballistas,plays_role
+Moon Carver,Manning Ballistas,plays_role
+Fatui,Adepti,opposes
+Fatui,Qixing,opposes
+Keqing,Millelith,member_of
+Traveler,Fighting Osial,participates_in
+Xiao,Fighting Osial,participates_in
+Ganyu,Fighting Osial,participates_in
+Madame Ping,Fighting Osial,participates_in
+Ningguang,Jade Chamber,has
+Jade Chamber,Massive weight,has_attribute
+Zhongli,Signora,knows
+Zhongli,Childe,knows
+Zhongli,Geo Archon,plays_role
+Zhongli,Rite of Descension,participates_in
+Zhongli,Gnosis,has
+Signora,Gnosis,has
+Traveler,Rite of Parting,participates_in
+Keqing,Traveler,knows
+Traveler,Zhongli,knows
+Inazuma,Sealed off,has_attribute
+Baal,Archon of Inazuma,plays_role
+Baal,Vision Hunt Decree,has
+Traveler,Paimon,knows
+Traveler,Dainsleif,knows
+Traveler,Adventurers' Guild,member_of
+Ganyu,Adventurers' Guild,member_of
+Lan,Adventurers' Guild,member_of
+Treasure Hoarders,Abyss Order,opposes
+Traveler,Commission against Abyss Order,participates_in
+Abyss Herald,Abyss Order,member_of
+Dainsleif,Abyss Order,knows
+Khaenri'ah,No Gods,has_attribute
+Ruin Guards,Khaenri'ah,from
+Abyss Mages,Abyss Order,member_of
+Osial,Abyss Order's plan,member_of
+Liyue Qixing,Osial,opposes
+Adepti,Osial,opposes
+Traveler,Barbara,knows
+Abyss Order,Boreas,opposes
+Abyss Order,Wolvendom,attacks
+Traveler,Dainsleif,knows
+Traveler,Abyss Order Attack on Wolvendom,participates_in
+Dainsleif,Abyss Order Attack on Wolvendom,participates_in
+Boreas,Wolvendom,from
+Herald,Abyss Order,member_of
+Traveler,Herald,opposes
+Field Tiller,Stormterror's Lair,occurs_in
+Field Tiller,Strange Machine,has_attribute
+Tyrant's Final Fury,Missile Attacks,has_attribute
+Dainsleif,Field Tiller's Eye,has
+Dainsleif,Twilight Sword,plays_role
+Dainsleif,Khaenri'ah,from
+Traveler,Sibling,knows
+Dainsleif,Sibling,knows
+Sibling,Abyss Order,member_of
+Traveler,Search for Weird Statue,participates_in
+Paimon,Search for Weird Statue,participates_in
+Dainsleif,Search for Weird Statue,participates_in
+Traveler,Paimon,knows
+Barbara,Tyrant's Final Fury,knows
+Rosaria,Abyss Order Attack on Wolvendom,knows
+Traveler,Rosaria,knows
+Black Stone Under a White Stone,Act II,plays_role
+Black Stone Under a White Stone,Chapter V,occurs_in
+Black Stone Under a White Stone,Flowers Resplendent on the Sun-Scorched Sojourn,after
+Black Stone Under a White Stone,Kachina's Death,includes
+Kachina,Night Warden Wars,participates_in
+Kachina,inexperienced,has_attribute
+Ode of Resurrection,reviving,has_attribute
+Abyss,Teyvat,opposes
+Pyro Archon,Abyss,opposes
+Kinich,comission,has
+Mavuika,Archon,plays_role
+Mavuika,Ode of Resurrection,participates_in
+Mavuika,Sacred Flame,occurs_in
+Tepexpan,heckling,has_attribute
+Tamuin,heckling,has_attribute
+Chasca,Tepexpan,opposes
+Chasca,Tamuin,opposes
+Mualani,Traveler,knows
+Mavuika,Mualani,knows
+Mavuika,Traveler,knows
+Masters of the Night-Wind,Kachina's Ancient Name,knows
+Mualani,Kachina's Rescue,participates_in
+Traveler,Kachina's Rescue,participates_in
+Chasca,Kachina's Rescue,participates_in
+Mavuika,Archon,has_attribute
+Contending Fire,insufficient,has_attribute
+Fatui,Natlan,occurs_in
+Capitano,Eleven Fatui Harbingers,member_of
+Capitano,Mavuika,opposes
+Mavuika,Capitano,opposes
+Masters of the Night-Wind,Capitano,opposes
+Kinich,Citlali,knows
+Spiritspeaker Stone,required for Night Kingdom Entry,has_attribute
+Traveler,Ritual,participates_in
+Chasca,Wayna,knows
+Chasca,Ritual,participates_in
+Wayna,Spiritspeaker Stone,has
+Wayna,Vichama,knows
+Vichama,Mallko,knows
+Vichama,Ritual,participates_in
+Traveler,Abyssal Energy Purification,participates_in
+Chasca,Bow,has
+Traveler,Finding Mallko's Memory,participates_in
+Vichama,Contaminated with Abyssal Energy,has_attribute
+Wayna,Chuychu,knows
+Chuychu,Chasca,knows
+Wayna,Citlali,knows
+Kachina,Ancient Name,has_attribute
+Mavuika,Capitano,opposes
+Pyro Archon,Mementos,has
+Tenoch,Natlan,member_of
+Mavuika,Paimon,knows
+Kachina,Abyss,opposes
+Wayob,Kachina,knows
+Abyss,Wayob,opposes
+Mualani,Kachina,knows
+Mavuika,Iansan,knows
+Iansan,Journey to Night Kingdom,participates_in
+Paimon,Journey to Night Kingdom,participates_in
+Chasca,Journey to Night Kingdom,participates_in
+Elemental Sovereigns,Natlan,from
+Hilichurls,Abyss,member_of
+Saurian Manifestations,Abyss,member_of
+Mallko,Abyss,member_of
+Mallko,Vichama,knows
+Kachina,Riftwolves,opposes
+Traveler,Trip to Wayob,participates_in
+Paimon,Trip to Wayob,participates_in
+Mallko,Trip to Wayob,participates_in
+Kachina,Trip to Wayob,participates_in
+Mualani,Trip to Wayob,participates_in
+Wayob,Night Kingdom,occurs_in
+Comonqui,Abyss Lector,plays_role
+Comonqui,Mallko,opposes
+Pyro Archon,Primordial Power,has_attribute
+Mualani,Comonqui,opposes
+Kachina,Comonqui,opposes
+Tupac,Spectral Entity,has_attribute
+Mualani,Tupac,knows
+Mualani,Plan to Save Natlan,knows
+Plan to Save Natlan,Cataclysm,occurs_in
+Wayob,Kachina,knows
+Mavuika,Escape from Night Realm,participates_in
+Iansan,Mavuika's Actions,knows
+Chuychu,Traveler,knows
+Traveler,Abyss Immunity,has_attribute
+Paimon,Abyss Immunity,has_attribute
+Mavuika,Plan to Save Natlan,knows
+Kinich,Plan to Save Natlan,member_of
+Iansan,Plan to Save Natlan,member_of
+Xilonen,Plan to Save Natlan,member_of
+Mualani,Plan to Save Natlan,member_of
+Mavuika,Keepsakes,has
+Keepsakes,Contending Flame,has_attribute
+Mavuika,Traveler,knows
+Mavuika,Xilonen,knows
+Rezanov,Capitano,knows
+Pyro Archon,Gnosis,has_attribute
+Capitano,Mavuika,knows
+Black Stone Under a White Stone,Trip to Wayob,includes
+Beyond the Smoke and Mirrors,Act III,plays_role
+Beyond the Smoke and Mirrors,Chapter V,includes
+Beyond the Smoke and Mirrors,Natlan,occurs_in
+Piltzin,Abyss' movements,knows
+Piltzin,Adventurers' Guild,member_of
+Traveler,Piltzin,knows
+Paimon,Piltzin,knows
+Pyro Archon,Abyss,opposes
+Pyro Archon,Scions of the Canopy,member_of
+Katheryne,Adventurers' Guild,member_of
+Kachina,Traveler,knows
+Kachina,Paimon,knows
+Xilonen,Ancient Name creator,plays_role
+Mavuika,Traveler,knows
+Traveler,outlander,from
+Ancient Name,difficult to create,has_attribute
+Night Kingdom,records deeds,has_attribute
+Xilonen,Mavuika,knows
+Wayob,Natlan,member_of
+Children of Echoes,Wayob,member_of
+Citlali,Night Kingdom,knows
+Citlali,Wayob,knows
+Paimon,Citlali,knows
+Kinich,Citlali,knows
+Ororon,Masters of the Night-Wind,member_of
+Ororon,Capitano,knows
+Citlali,Ororon,knows
+Ororon,Fatui,member_of
+Traveler,Xilonen,knows
+Paimon,Xilonen,knows
+Citlali,Traveler,knows
+Citlali,Paimon,knows
+Lord of the Night,Night Kingdom,member_of
+Lord of the Night,Slumber,has_attribute
+Sacred Flame,Abyss,opposes
+Traveler,Tracking Ororon,participates_in
+Paimon,Tracking Ororon,participates_in
+Xilonen,Rite Preparation,participates_in
+Citlali,Ororon's Home,investigates
+Ororon,Phlogiston Aphids,has
+Fatui,Snezhnaya,member_of
+Ororon,Citlali,knows
+Ororon,Traveler,knows
+Ororon,Paimon,knows
+Traveler,Paimon,knows
+Traveler,Citlali,knows
+Citlali,Paimon,knows
+Ororon's Disappearance,Night Kingdom,occurs_in
+Ororon,Masters of Night-Wind,member_of
+Capitano,Traveler,knows
+Capitano,Mavuika,opposes
+Meeting,Stadium,occurs_in
+Ororon,Fatui,member_of
+Citlali,Fatui,opposes
+Ororon,Capitano,knows
+Coyopa,Speaker's Chamber,member_of
+Traveler,Capitano,knows
+Capitano,Childe,knows
+Tsaritsa,Gnosis,has
+Mavuika,Doubt,has_attribute
+Traveler,Meeting with Ororon,participates_in
+Ororon,Information about Natlan,knows
+Ororon,Fatui,member_of
+Citlali,Ororon,opposes
+Paimon,Intervention,participates_in
+Traveler,Ororon's possible knowledge,knows
+Ororon,Deception,has_attribute
+Citlali,Anger,has_attribute
+Traveler,Conversation with Citlali,participates_in
+Citlali,Duty,has
+Meeting with Citlali,Weary Inn,occurs_in
+Citlali,Intoxication,has_attribute
+Chanca,Citlali's friendship with outlanders,knows
+Traveler,Citlali's thoughts,knows
+Citlali,Insecurity,has_attribute
+Ororon,Incomplete soul,has_attribute
+Ororon,Citlali's tribe,member_of
+Citlali's tribe,Ritual,participates_in
+Ritual,Failure,has_attribute
+Traveler,Conversation with Mavuika,participates_in
+Abyss,Nation-wide attack,participates_in
+Citlali,Tribe,member_of
+Mualani,Children of Echoes,member_of
+Chasca,Search for survivors,participates_in
+Chuychu,Search for survivors,participates_in
+Iansan,Tribe,member_of
+Mavuika,Backup plan,knows
+Mavuika,Defense,participates_in
+Traveler,Assisting Mualani,participates_in
+Traveler,Rescuing caravan,participates_in
+Chasca,Fatui's defense,knows
+Chuychu,Fatui's defense,knows
+Fatui,Defending people,participates_in
+Chasca,Intelligence gathering,participates_in
+Chuychu,Intelligence gathering,participates_in
+Fatui,Source Mechanism,has
+Mavuika,Secret Source,knows
+Ororon,Citlali,knows
+Traveler,Citlali,knows
+Traveler,Paimon,knows
+Paimon,Citlali,knows
+Ororon,Fatui,opposes
+Capitano,Fatui,member_of
+Tarko,Fatui,member_of
+Ororon,periodic soul instability,has_attribute
+Ororon,memories,has
+Capitano,Ororon,knows
+Capitano,Mavuika,opposes
+Ororon,Mavuika,knows
+Capitano,Night Kingdom,knows
+Ororon,Night Kingdom,knows
+Capitano,plan to rebuild Ley Lines,has
+Citlali,Capitano's plan,knows
+Traveler,Capitano's plan,knows
+Paimon,Capitano's plan,knows
+Traveler,Abyss invasion defense,participates_in
+Paimon,Abyss invasion defense,participates_in
+Mavuika,Gnosis,has
+Natlanese,Abyss,opposes
+Fatui,Abyss,opposes
+Kinich,rift,investigates
+Abyss invasion,Natlan,occurs_in
+Traveler,Sulfurous Veins defenders,assists
+Chimalli,Children of Echoes,member_of
+Traveler,crash site,investigates
+Paimon,battle report,knows
+Scions of the Canopy,Abyss,opposes
+Maztl,tumors,knows
+Tumors,sky-demon,from
+Traveler,evacuation,participates_in
+Paimon,evacuation,participates_in
+Kachina,Abyss,opposes
+Xilonen,Abyss,opposes
+Pacal,evacuation,orders
+Kinich,tumors,knows
+Flower-Feather Clan,tumors,affected_by
+Chasca,Chuychu,knows
+Chuychu,abyssal energy,affected_by
+Traveler,abyssal energy,purifies
+Chuychu,injuries,dies
+Menilek,Ancient Name,has_attribute
+Mavuika,Chuychu,honors
+Mavuika,ritual,leads
+Six heroes,ritual,participates_in
+Archon,Night Warden War,declares
+Ode of Resurrection,Natlan,applies_to
+Six heroes,Abyss,opposes
+Traveler,Tumor Destruction,participates_in
+Mavuika,Tumor Destruction,participates_in
+Abyss,Natlanese,opposes
+Kinich,Abyss's Plan,knows
+Abyss,Sacred Flame,opposes
+Mavuika,Powers,has
+Mavuika,Rift Destruction,participates_in
+Natlanese,Natlan,member_of
+Feast,Weary Inn,occurs_in
+Mavuika,Abyss Battle,participates_in
+Abyss,Night Kingdom,member_of
+Mavuika,Funeral,participates_in
+Xilonen,Moment of Silence,participates_in
+Capitano,Natlanese Victory,participates_in
+Mavuika,Chuychu's Death,knows
+Traveler,Journey to Night Kingdom,participates_in
+Mavuika,Journey to Night Kingdom,participates_in
+Citlali,Mavuika's Death,knows
+Mavuika,Ronova's Powers,has
+Traveler,Abyss Resistance,has_attribute
+Mavuika,Traveler's Resistance,knows
+Traveler,Ancient Name,has
+Mavuika,Final Assault,participates_in
+Traveler,Final Assault,participates_in
+Paimon,Abyss Threat,knows
+Capitano,Mavuika's Power Use,knows
+Lord of the Night,Mavuika's Power Use,knows
+Ruler of Death,Capitano's Journey,knows
+All Fires Fuel the Flame,Interlude Act,plays_role
+All Fires Fuel the Flame,Abyssal invasion,includes
+Paimon,Traveler,knows
+Paimon,Flower-Feather Clan,knows
+Flower-Feather Clan,most affected by Abyssal invasion,has_attribute
+Iansan,Collective of Plenty,member_of
+Iansan,Traveler,knows
+Iansan,Mutota,knows
+Mutota,chief,plays_role
+Mutota,Atoco,knows
+Mutota,Cochitta,knows
+Mutota,Ocotlan,knows
+Atoco,post-traumatic stress disorder,has_attribute
+Cochitta,post-traumatic stress disorder,has_attribute
+Ocotlan,post-traumatic stress disorder,has_attribute
+Gosoythoth,Abyssal rift,plays_role
+Gosoythoth,Reaper of the Abyss,plays_role
+Traveler,purification attempt,participates_in
+Iansan,Atoco,knows
+Atoco,Duarte,knows
+Duarte,saurian companion,plays_role
+Izcalli,Duarte,knows
+Traveler,Qucusaurus,plays_role
+Atoco,Traveler,knows
+Cochitta,younger brother,has_attribute
+Cuallee,Cochitta's brother,plays_role
+Traveler,Cochitta,knows
+Cochitta,fighting monsters,participates_in
+Traveler,fighting monsters,participates_in
+Iansan,fighting monsters,participates_in
+Ohtli,Traveler,knows
+Itotia,Traveler,knows
+Ocotlan,out of control,has_attribute
+Ocotlan,Munay,knows
+Munay,Ocotlan's father,plays_role
+Iansan,Ocotlan,knows
+Traveler,Ocotlan,knows
+Capitano,Ocotlan,knows
+Ocotlan,Abyssal Corrosion Syndrome,has_attribute
+Draught of Lucidity,cure for Abyssal Corrosion Syndrome,has_attribute
+Iansan,Capitano,knows
+Capitano,Khaenri'ah,from
+Capitano,Natlan,knows
+Capitano,Abyss,opposes
+Guthred,skilled in medicine,has_attribute
+Guthred,military doctor,plays_role
+Guthred,second-in-command,plays_role
+Capitano,Traveler,knows
+Traveler,Mavuika,knows
+Mavuika,Ronova's power,has
+Ronova,Ruler of Death,has_attribute
+Traveler,Iansan,knows
+Iansan,Traveler,knows
+Traveler,Xilonen,knows
+Xilonen,creating the Traveler's Ancient Name,has_attribute
+Traveler,Mualani,knows
+Traveler,Kinich,knows
+Traveler,Ajaw,knows
+Traveler,Kachina,knows
+Traveler,Citlali,knows
+Traveler,Ororon,knows
+Traveler,Chasca,knows
+Chasca,Traveler,knows
+Xilonen,Traveler,knows
+Xilonen,Paimon,knows
+Paimon,Xilonen,knows
+Traveler,Incandescent Ode of Resurrection,participates_in
+Incandescent Ode of Resurrection,Archon Quest,plays_role
+Incandescent Ode of Resurrection,Chapter V,includes
+Incandescent Ode of Resurrection,All Fires Fuel the Flame,after
+Traveler,Mavuika,knows
+Traveler,Paimon,knows
+Traveler,Capitano,knows
+Traveler,Guthred,knows
+Traveler,Xilonen,knows
+Traveler,Citlali,knows
+Traveler,Kachina,knows
+Traveler,Mualani,knows
+Traveler,Kinich,knows
+Traveler,Amina,knows
+Traveler,Iansan,knows
+Traveler,Ororon,knows
+Traveler,Toto,knows
+Traveler,Hanwi,knows
+Paimon,Traveler,knows
+Mavuika,Ancient Name,has_attribute
+Night Kingdom,Incandescent Ode of Resurrection,occurs_in
+Capitano,Traveler,opposes
+Mavuika,Entering the Night Kingdom,participates_in
+Xilonen,Entering the Night Kingdom,participates_in
+Citlali,Entering the Night Kingdom,participates_in
+Mavuika,Painting,has_attribute
+Kachina,Mualani,knows
+Amina,Kinich,knows
+Atea,People of the Springs,member_of
+Iansan,Saurian companion,has
+Ororon,Guthred,knows
+Ororon,Thrain,knows
+Capitano,Amalgamation of souls,has_attribute
+Xilonen,Traveler's Ancient Name,has
+Kachina,Kinich,knows
+Kachina,Mualani,knows
+Hanwi,Tepetlisaurus,has_attribute
+Hanwi,Ayo's mom,plays_role
+Traveler,Abyssal Corrosion Syndrome treatment,participates_in
+Ayo,despondent,has_attribute
+Ayo,Kachina,knows
+Ayo,Hanwi,knows
+Ayo,Anpao,knows
+Traveler,Ayo,knows
+Traveler,Kachina,knows
+Traveler,Hanwi,knows
+Traveler,Anpao,knows
+Traveler,Paimon,knows
+Traveler,Xilonen,knows
+Traveler,Citlali,knows
+Traveler,Mavuika,knows
+Traveler,Vichama,knows
+Traveler,Zumalli,knows
+Traveler,Hnaska,knows
+Traveler,Cetan,knows
+Traveler,Atea,knows
+Traveler,Mallko,knows
+Traveler,Hine,knows
+Xilonen,creates Ancient Name,has_attribute
+Tumaini,hope,has_attribute
+Ancient Name forging,Natlan,occurs_in
+Traveler,Ancient Name,has
+Sulfurous Veins,Natlan,occurs_in
+Traveler,Ancient Name test,participates_in
+Citlali,Xilonen,knows
+Mavuika,Hine,knows
+Atea,Mualani,knows
+Mallko,Vichama,knows
+Traveler,Mimesis Battle,participates_in
+Vichama,Mimesis Battle,participates_in
+Bona,Mimesis Battle,participates_in
+Cocoui,Mimesis Battle,participates_in
+Guthred,Mimesis Battle,participates_in
+Chuychu,Chasca,knows
+Chuychu,iktomisaurus,has
+Chuychu,qucusaur,has
+Traveler,Battle with Gosoythoth,participates_in
+Mavuika,Battle with Gosoythoth,participates_in
+Gosoythoth,Battle with Gosoythoth,participates_in
+Traveler,Pyro,has_attribute
+Yohualtecuhtin,Lord of the Night,plays_role
+Mavuika,Natlan Celebration,participates_in
+Traveler,Natlan Celebration,participates_in
+Chasca,Natlan Celebration,participates_in
+Citlali,Traveler,knows
+Traveler,Ochkanatlan Investigation,participates_in
+Citlali,Ochkanatlan Investigation,participates_in
+Ronova,Mavuika,opposes
+Capitano,Mavuika,knows
+Capitano,Ronova,opposes
+Capitano,Khaenri'ah,from
+Sadigua,Traveler,knows
+Traveler,Celebration in Natlan,participates_in
+Paimon,Celebration in Natlan,participates_in
+Celebration in Natlan,Natlan,occurs_in
+Traveler,Mavuika,knows
+Paimon,Mavuika,knows
+Traveler,Gnosis,knows
+Paimon,Gnosis,knows
+Capitano,Tsaritsa,knows
+Capitano,Mission to steal Pyro Gnosis,has_attribute
+Tsaritsa,Capitano's mission,opposes
+Mavuika,Harbingers,knows
+Mavuika,Pyro Gnosis,knows
+Mavuika,Nod-Krai,knows
+Mavuika,Snezhnaya,knows
+Nod-Krai,Conflict with Snezhnaya,has_attribute
+Traveler,Nod-Krai,knows
+Mavuika,Dottore,knows
+Dottore,Harbingers,member_of
+Dottore,Plan to control elements without Vision,has_attribute
+Mavuika,Dottore's plan,knows
+Dottore,Investigating Teyvat's false sky,has_attribute
+Mavuika,Teyvat's false sky,knows
+Chapter VI,Snezhnaya,occurs_in
+Tsaritsa,God of Snezhnaya,plays_role
+Tsaritsa,Celestia,opposes
+Fatui,Snezhnaya,member_of
+Fatui,loyalty to Tsaritsa,has_attribute
+Chapter ??,Archon Quest,plays_role
+Chapter ??,Chapter VI,after
+Chapter VI,Epilogue,plays_role
+Chapter ??,Khaenri'ah,occurs_in
+Khaenri'ah,fallen kingdom,has_attribute
+Khaenri'ah,Teyvat,from

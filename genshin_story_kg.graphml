@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="directed"><node id="The Outlander Who Caught the Wind"/>
+<node id="Prologue"/>
+<node id="Archon Quests"/>
+<node id="tutorial level"/>
+<node id="main characters"/>
+<node id="unknown entity"/>
+<node id="Traveler's sibling"/>
+<node id="Traveler"/>
+<node id="Traveler and sibling in Teyvat"/>
+<node id="Paimon"/>
+<node id="travel companion"/>
+<node id="guide"/>
+<node id="contact The Seven"/>
+<node id="Anemo Statue of The Seven"/>
+<node id="green dragon"/>
+<node id="Traveler and Paimon"/>
+<node id="stranger"/>
+<node id="dragon"/>
+<node id="crimson teardrop crystal"/>
+<node id="Amber"/>
+<node id="Outrider of the Knights of Favonius"/>
+<node id="Traveler and Paimon to Mondstadt"/>
+<node id="Wind Glider"/>
+<node id="Stormterror"/>
+<node id="region"/>
+<node id="wind storms"/>
+<node id="Kaeya"/>
+<node id="Cavalry Captain"/>
+<node id="Jean"/>
+<node id="Acting Grandmaster"/>
+<node id="Lisa"/>
+<node id="Knights' Librarian"/>
+<node id="16 characters"/>
+<node id="3 achievements"/>
+<edge source="The Outlander Who Caught the Wind" target="Prologue">
+  <data key="d0">isActOf</data>
+</edge>
+<edge source="The Outlander Who Caught the Wind" target="Archon Quests">
+  <data key="d0">isActOf</data>
+</edge>
+<edge source="The Outlander Who Caught the Wind" target="tutorial level">
+  <data key="d0">isAlsoKnownAs</data>
+</edge>
+<edge source="The Outlander Who Caught the Wind" target="main characters">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="The Outlander Who Caught the Wind" target="16 characters">
+  <data key="d0">has</data>
+</edge>
+<edge source="The Outlander Who Caught the Wind" target="3 achievements">
+  <data key="d0">has</data>
+</edge>
+<edge source="unknown entity" target="Traveler's sibling">
+  <data key="d0">seals</data>
+</edge>
+<edge source="unknown entity" target="Traveler">
+  <data key="d0">seals</data>
+</edge>
+<edge source="unknown entity" target="Traveler and sibling in Teyvat">
+  <data key="d0">puts</data>
+</edge>
+<edge source="Traveler" target="Paimon">
+  <data key="d0">fishes</data>
+</edge>
+<edge source="Traveler" target="Anemo Statue of The Seven">
+  <data key="d0">touches</data>
+</edge>
+<edge source="Traveler" target="green dragon">
+  <data key="d0">spots</data>
+</edge>
+<edge source="Traveler" target="dragon">
+  <data key="d0">alerts</data>
+</edge>
+<edge source="Traveler" target="crimson teardrop crystal">
+  <data key="d0">takes</data>
+</edge>
+<edge source="Traveler" target="Stormterror">
+  <data key="d0">drives off</data>
+</edge>
+<edge source="Paimon" target="travel companion">
+  <data key="d0">becomes</data>
+</edge>
+<edge source="Paimon" target="guide">
+  <data key="d0">becomes</data>
+</edge>
+<edge source="Paimon" target="contact The Seven">
+  <data key="d0">suggests</data>
+</edge>
+<edge source="Traveler and Paimon" target="green dragon">
+  <data key="d0">pursue</data>
+</edge>
+<edge source="Traveler and Paimon" target="Amber">
+  <data key="d0">assist</data>
+</edge>
+<edge source="stranger" target="green dragon">
+  <data key="d0">calms</data>
+</edge>
+<edge source="stranger" target="crimson teardrop crystal">
+  <data key="d0">leaves</data>
+</edge>
+<edge source="stranger" target="Traveler">
+  <data key="d0">aids</data>
+</edge>
+<edge source="Amber" target="Outrider of the Knights of Favonius">
+  <data key="d0">is</data>
+</edge>
+<edge source="Amber" target="Traveler and Paimon to Mondstadt">
+  <data key="d0">escorts</data>
+</edge>
+<edge source="Amber" target="Wind Glider">
+  <data key="d0">gifts</data>
+</edge>
+<edge source="Stormterror" target="region">
+  <data key="d0">rampages</data>
+</edge>
+<edge source="Stormterror" target="wind storms">
+  <data key="d0">unleashes</data>
+</edge>
+<edge source="Kaeya" target="Cavalry Captain">
+  <data key="d0">is</data>
+</edge>
+<edge source="Jean" target="Acting Grandmaster">
+  <data key="d0">is</data>
+</edge>
+<edge source="Lisa" target="Knights' Librarian">
+  <data key="d0">is</data>
+</edge>
+</graph></graphml>

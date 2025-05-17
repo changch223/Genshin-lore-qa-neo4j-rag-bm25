@@ -1,0 +1,1658 @@
+source,target,relation
+The Outlander Who Caught the Wind,Mondstadt,isActOf
+The Outlander Who Caught the Wind,Archon Quest,questType
+The Outlander Who Caught the Wind,Prologue,isPartOfChapter
+The Outlander Who Caught the Wind,I,actNumber
+The Outlander Who Caught the Wind,N/A,previousQuest
+The Outlander Who Caught the Wind,For a Tomorrow Without Tears,nextQuest
+The Outlander Who Caught the Wind,Wanderer's Trail,requires
+The Outlander Who Caught the Wind,100,rewards
+The Outlander Who Caught the Wind,Paimon,introduces
+The Outlander Who Caught the Wind,Amber,introduces
+The Outlander Who Caught the Wind,Kaeya,introduces
+The Outlander Who Caught the Wind,Jean,introduces
+The Outlander Who Caught the Wind,Lisa,introduces
+The Outlander Who Caught the Wind,16,numberOfCharacters
+The Outlander Who Caught the Wind,3,numberOfAchievements
+For a Tomorrow Without Tears,Prologue,isActIn
+For a Tomorrow Without Tears,Archon Quest,questType
+For a Tomorrow Without Tears,The Outlander Who Caught the Wind,previousQuest
+For a Tomorrow Without Tears,Song of the Dragon and Freedom,nextQuest
+For a Tomorrow Without Tears,10,requiresAdventureRank
+For a Tomorrow Without Tears,100,rewards
+Traveler,Jean,reportsTo
+Masked Woman,Kill the dragon,suggests
+Jean,Masked Woman,dismisses
+Stormterror,Dvalin,is
+Dvalin,Four Winds,isOneOf
+Masked Woman,Fatui Diplomat,is
+Traveler,Gem,remembers
+Lisa,Gem,studies
+Gem,Harmful Energy,emits
+Jean,Honorary Knight,grants
+Paimon,Venti,identifies
+Venti,Song of Stormterror,sings
+Gem,Purified,is
+Venti,Traveler,recognizes
+Venti,Meet at Windrise,suggests
+Traveler,Eye of the Storm,encounters
+Dvalin,Degradation,suffersFrom
+Abyss Order,Dvalin's Degradation,takesAdvantageOf
+Venti,Barbatos,is
+Barbatos,Anemo Archon,is
+Gotelinde,Papers,requests
+Traveler,Holy Lyre der Himmel,steals
+Fatui Electro Cicin Mage,Lyre,takes
+Diluc,Traveler,helps
+Diluc,Contacts,organizes
+Signora,Traveler,threatens
+Lyre,Teardrop Crystals,needs
+Party,Starsnatch Cliff,headsTo
+Abyss Mage,Dvalin,convinces
+For a Tomorrow Without Tears,16,hasCharacters
+For a Tomorrow Without Tears,3,hasAchievements
+Adventure Rank (AR),player account progression system,is a
+Adventure Rank (AR),Genshin Impact,is in
+Players,World Level (WL),can ascend
+World Level (WL) ascension,automatic,can be
+World Level (WL) ascension,Ascension Quest,can be triggered by
+Maximum Adventure Rank,60,is
+Maximum World Level,8,is
+Adventure Rank increase,rewards,grants
+Rewards,Adventurers' Guild,are claimed from
+Ascension Quests,rewards,grant
+Adventure Rank,Adventure EXP,is raised using
+Adventure EXP,Quests,is obtained from
+Adventure EXP,Chests,is obtained from
+Adventure EXP,Adventurer Handbook,is obtained from
+Adventure EXP,spending Original Resin,is obtained from
+Adventure EXP after AR 60,Mora,is converted to
+Mora conversion rate after AR 60,1:10,is
+Uncompleted Ascension Quest,accumulation of Adventure EXP,causes
+Accumulated Adventure EXP,Ascension Quest completion,is applied after
+World Level increase,difficulty of Enemies,increases
+World Level increase,rewards from Enemies,increases
+World Level increase,difficulty of Normal Bosses,increases
+World Level increase,rewards from Normal Bosses,increases
+World Level increase,rewards from Ley Line Outcrops,increases
+Andrius,World Level,is the only Weekly Boss that scales with
+Co-op Mode,equal or higher World Level than host,requires
+World Level decrease,World Level 3,becomes available at
+World Level decrease,level of Ley Line Blossoms,lowers
+World Level decrease,level of opponents,lowers
+World Level decrease,rewards from opponents,lowers
+World Level adjustment,once every 24 hours,is limited to
+Adventure Rank increase,various systems and functionality,unlocks
+Adventure Rank,increasing maximum level of Characters,is required for
+Adventure Rank,increasing maximum level of Weapons,is required for
+Adventure Rank,new Game Systems,unlocks
+Adventure Rank,Character Ascension Phases,is required for
+Adventure Rank,Weapon Ascension Phases,is required for
+Maximum Adventure Rank for quests,quest type,is capped based on
+Adventurers' Guild Rewards,Katheryne,are claimable from
+Katheryne,Adventurers' Guild,is located at
+Song of the Dragon and Freedom,Prologue,is the third act in the
+Song of the Dragon and Freedom,Archon Quests,is part of
+Diluc,Abyss Order,brings information about
+Venti,The Seven,is one of
+Venti,his people's help,relies on
+Abyss Order,Hilichurls,manipulates
+Abyss Order,single leader,has a
+Dvalin,ancient ruins,resides in
+Traveler,Teardrop Crystal,can purify
+Hilichurls,elemental areas,avoid
+Venti,barrier,dispels
+Ancient ruins,old Mondstadt,are part of
+Anemo Archon,Decarabian,was the tyrant
+Traveler,Dvalin,purges
+Jean,people and Dvalin,clears up misunderstanding between
+Knights,Hilichurl attack,repelled
+Traveler,Teyvat,will travel throughout
+Traveler,The Seven,will meet
+Traveler,damaged lyre,gives
+Venti,lyre,repairs
+Signora,Venti's Gnosis,rips out
+Traveler,Find the Geo Archon,goal
+Venti,Anemo Archon,identity
+Signora,Fatui Harbingers,affiliation
+Tsaritsa,The Seven,affiliation
+Tsaritsa,Cryo Archon,role
+Geo Archon,Rite of Descension,event
+Traveler,Liyue,location
+Of the Land Amidst Monoliths,"Chapter I, Act I",Liyue's Quest Act
+Of the Land Amidst Monoliths,Archon Quest,Quest Type
+Of the Land Amidst Monoliths,Song of the Dragon and Freedom,Previous
+Of the Land Amidst Monoliths,"Farewell, Archaic Lord",Next
+Of the Land Amidst Monoliths,Adventure Rank 23,Requirements
+Of the Land Amidst Monoliths,100,Rewards
+Traveler,Paimon,goes to Liyue with
+Ningguang,Rex Lapis,summons
+Millelith,suspects,apprehends
+Childe,Harbingers,is one of the
+Childe,Northland Bank,works at
+Traveler,adepti,needs the word of
+Traveler,Moon Carver,meets
+Moon Carver,Millelith,asks Traveler to remove
+Traveler,"Cloud Retainer, Mountain Shaper, and Demon Conqueror",seeks out
+Demon Conqueror,Xiao,real name
+Xiao,Almond Tofu,enjoys
+Verr Goldet,Wangshu Inn,works at
+Traveler,Satisfying Salad,makes
+Ruin Hunter,ghost,possessed by
+Traveler,Mountain Shaper,finds
+Mountain Shaper,Mt. Hulao,lives on
+Mountain Shaper,karst flowers,plants
+Traveler,Cloud Retainer,finds
+Cloud Retainer,Mt. Aocang,lives on
+Traveler,"Matsutake Meat Rolls, Jewelry Soup, and Mora Meat",offers
+Traveler,Childe,informs
+Childe,Traveler,tells
+Liyue Qixing,anyone,refusing
+Paimon,they came to visit The Seven,blurts
+Childe,Paimon's statement,takes note
+Childe,Traveler,tells
+Childe,Traveler,can help
+Baizhu,Everlasting Incense,offers to sell
+Traveler,Childe,goes to
+Childe,incense and coconut milk,agrees to pay for
+Childe,Ekaterina,asks
+Ekaterina,Exuvia at the Golden House,informs about
+Zhongli,Traveler,asks
+Zhongli,Third-Round Knockout,tells to meet at
+Iron Tongue Tian,Ningguang,tells story about
+Ganyu,Traveler,introduces self to
+Ningguang,Traveler,extends invitation to
+Zhongli,Dihua Marsh,tells to meet at
+Traveler,Zhongli,seeks out
+Zhongli,Northland Bank,is at
+Zhongli,Signora,speaks to
+Zhongli,Childe,speaks to
+Zhongli,Geo Archon,is revealed as
+Zhongli,series of events,instigated
+Zhongli,Tsaritsa,forged a contract with
+Zhongli,Signora,hands Gnosis to
+Qixing,Rite of Parting,hosts
+Traveler,Rite of Parting,attends
+Keqing,Traveler,asks
+Traveler,put up missing posters,asks to
+Traveler,Zhongli,speaks to
+Inazuma,sealed off,has been
+Baal,Vision Hunt Decree,has issued
+Bough Keeper: Dainsleif,World,Quest Type
+Bough Keeper: Dainsleif,Chapter I: Act IV - Prelude,Chapter
+Bough Keeper: Dainsleif,Complete A New Star Approaches,Requirements
+Bough Keeper: Dainsleif,"Mondstadt, Mondstadt",Starting Location
+Bough Keeper: Dainsleif,The Fond Farewell,Previous Quest
+Bough Keeper: Dainsleif,Involuntary Sacrifice,Next Quest
+Bough Keeper: Dainsleif,Abyssal Traces,Domain
+Bough Keeper: Dainsleif,"8006038, 10011147",Rewards Characters
+Bough Keeper: Dainsleif,"Charles, Dainsleif, Katheryne (Mondstadt), Lawrence, Paimon, Traveler, Wagner",Characters
+Bough Keeper: Dainsleif,World Quest,is a
+Bough Keeper: Dainsleif,Archon Quest Chapter I: Act IV - We Will Be Reunited,serves as the prologue to
+Start the quest by talking to,in the City of Mondstadt,Katheryne
+Bough Keeper: Dainsleif,1.3,Version
+We Will Be Reunited,Archon Quest,Quest Type
+We Will Be Reunited,IV,Act
+We Will Be Reunited,I,Chapter
+We Will Be Reunited,A New Star Approaches,Previous
+We Will Be Reunited,"Autumn Winds, Scarlet Leaves",Next
+We Will Be Reunited,28,Requirements/Adventure Rank Required
+We Will Be Reunited,Lupus Minor Chapter: Act I - The Meaning of Lupical,Requirements/Story Quest Requirement(s)
+We Will Be Reunited,Bough Keeper: Dainsleif,Requirements/World Quest Requirement(s)
+Traveler,Dainsleif,meets
+Traveler,Sibling,knows
+Dainsleif,Twilight Sword,is
+Dainsleif,protect Khaenri'ah,failed
+Dainsleif,curse of immortality,suffers
+Sibling,Abyss Order,joins
+Sibling,go home,refuses
+Traveler,Inazuma,will go to
+Lupus Minor,Razor,is the Story Quest chapter for
+Traveler,Paimon,explored Wolvendom with
+Traveler,slimes,and Paimon fought
+Razor,Traveler and Paimon,helped
+Razor,raw meat,asked for
+Traveler,Razor,gave raw meat to
+Traveler,Amber,asked about Razor to
+Amber,Drunkard Gorge and Springvale,investigated wolf attacks at
+Amber and Traveler,Wolfhook seed,found
+Amber,remain calm,told Springvale villagers to
+Razor,Amber,accepted help from
+Razor,injured wolf,led Amber and Traveler to
+Razor,black wolf,said another wolf pack was led by
+Traveler,Wolfhook seeds,collected
+Springvale villagers,Razor,accused
+Boreas,Razor,challenged
+Traveler,Razor,helped
+Boreas,outside wolf pack,confirmed problems caused by
+Boreas,spar,allowed Traveler to
+Razor,his identity,questioned
+Amber,Mondstadt,offered to bring Razor to
+Razor,Amber,rejected offer from
+"Lupus Minor, Act I: The Meaning of Lupical",Razor's story quest,is the first act of
+Lupus Minor,Razor's story quest,is part of
+Adventure Rank 21,"Lupus Minor, Act I: The Meaning of Lupical",is required to unlock
+Prologue: Act III - Song of the Dragon and Freedom,"Lupus Minor, Act I: The Meaning of Lupical",is required to unlock
+"Lepus Chapter: Act I - Wind, Courage, and Wings","Lupus Minor, Act I: The Meaning of Lupical",is required to unlock
+Traveler,Wolvendom,explores
+Paimon,Wolvendom,explores
+Traveler,Razor,helps
+Razor,Traveler,asks for help
+Amber,wolf attacks,investigates
+Razor,Amber,helps
+Boreas,Razor,challenges
+Traveler,Razor,helps
+Boreas,outside wolf pack attacks,confirms
+Boreas,Traveler to spar,allows
+Razor,his identity,questions
+Amber,Razor,offers help
+"Autumn Winds, Scarlet Leaves",Archon Quest,Quest Type
+"Autumn Winds, Scarlet Leaves",Chapter II,Chapter
+"Autumn Winds, Scarlet Leaves",Prologue,Act
+"Autumn Winds, Scarlet Leaves",We Will Be Reunited,Previous
+"Autumn Winds, Scarlet Leaves",The Immovable God and the Eternal Euthymia,Next
+"Autumn Winds, Scarlet Leaves",Adventure Rank 30,Requirements
+Kazuha,the culprit's location and identity,knows
+Fei the Flyer,the culprit,is
+Fei the Flyer,Treasure Hoarder,is a
+Fei the Flyer,the tournament,signed up for
+Fei the Flyer,the tournament,intended to win
+Traveler,Rongshi,defeated
+Fei the Flyer,Traveler,fought
+Traveler,Fei the Flyer,bested
+Kazuha,Fei the Flyer,threatened to kill
+Kazuha,the Vision,confiscated
+Kazuha,the theft,was aware of
+Gods,Visions,grant
+Kazuha,Traveler to resonate with the Vision,asked
+Traveler,the Vision,unable to resonate with
+Kazuha,the Vision,kept
+Raiden Shogun,Vision Hunt Decree,enacted
+Kazuha's friend,Raiden Shogun,challenged
+Kazuha's friend,in a duel against Raiden Shogun,died
+Kazuha,the duel,witnessed
+Kazuha,the Vision,snatched
+Kazuha,pursuers,fled from
+Beidou,Ningguang,was summoned by
+Fei,the tournament,was disqualified from
+Traveler,champion of the tournament,was crowned
+Kazuha,Traveler about the journey to Inazuma,warned
+Alcor,resupply,needs to
+Kazuha,Liyue,intends to travel across
+The Immovable God and the Eternal Euthymia,Archon Quest,Quest Type
+The Immovable God and the Eternal Euthymia,Chapter II,Chapter
+The Immovable God and the Eternal Euthymia,Act I,Act
+The Immovable God and the Eternal Euthymia,"Autumn Winds, Scarlet Leaves",Previous
+The Immovable God and the Eternal Euthymia,"Stillness, the Sublimation of Shadow",Next
+The Immovable God and the Eternal Euthymia,Adventure Rank 30,Requirements
+The Immovable God and the Eternal Euthymia,100,Rewards
+Inagi Hotomi,demon possessing Domon,did not sense
+Inagi Hotomi,another form of demon has possessed him,is unsure if
+Inagi Hotomi,Lady Yae has taken notice,tells
+Yae,Domon,inspects
+Yae,Domon is not possessed,states
+Vision,Domon immense aspirations,gave
+Domon,aspirations of his past deeds,destroyed
+Anzai,his aspirations were gone,accepted
+Anzai,Domon,passed aspirations
+Anzai,pass aspirations to disciples,urges
+Domon,meaning behind Anzai's words,realizes
+Domon,to pass aspirations,promises
+Domon,Yae,thanks
+Yae,Traveler's arrival,anticipated
+Yae,high expectations for Traveler,has
+Paimon,return to Ayaka,suggests
+Ayaka,reasoning for sending Traveler,explains
+Traveler,to help,agrees
+Ayaka,resistance's actions,explains
+Master Masakatsu,arrested,was
+Ayaka,break Masakatsu out,wishes
+Traveler,the job,will do
+Tenryou Commission,Vision bearer,threaten
+Yoimiya,samurai,fools
+Yoimiya,fireworks,is known for
+Yoimiya,confiscation of Vision,eluded
+Yoimiya,Traveler and Paimon were sent by Ayaka,learns
+Traveler and Yoimiya,police station,enter
+Yoimiya,Traveler to finish gift,leaves
+Guards,Masakatsu,torturing
+Kujou Sara,Masakatsu,checks on
+Kujou Sara,guards,reprimands
+Kujou Sara,guards to investigate,orders
+Yoimiya,gift,sets off
+Kujou Sara,Traveler and Yoimiya to leave,allows
+Kujou Sara,Masakatsu,warns
+Yoimiya and Masakatsu,Traveler and Paimon,thank
+Traveler and Paimon,Ayaka,inform
+Thoma,Tenryou Commission has been tasked,states
+Thoma,relaxing,suggests
+Group,hot pot game,have
+"Stillness, the Sublimation of Shadow",Chapter,Inazuma's Quest Act Quest Type
+"Stillness, the Sublimation of Shadow",II,Inazuma's Quest Act Archon
+"Stillness, the Sublimation of Shadow",II,Inazuma's Quest Act Act
+"Stillness, the Sublimation of Shadow",The Immovable God and the Eternal Euthymia,Previous
+"Stillness, the Sublimation of Shadow",Omnipresence Over Mortals,Next
+"Stillness, the Sublimation of Shadow",30,Requirements Adventure Rank Required
+"Stillness, the Sublimation of Shadow",Grus Nivis Chapter: Act I - The Whispers of the Crane and the White Rabbit,Story Quest Requirement(s)
+"Stillness, the Sublimation of Shadow",Carassius Auratus Chapter: Act I - Dreamlike Timelessness,Story Quest Requirement(s)
+"Stillness, the Sublimation of Shadow",100,Rewards
+Kamisato Ayaka,Grus Nivis Chapter,Story Quest
+Kamisato Ayaka,white heron hairpiece,owns
+Traveler,white heron hairpiece,receives
+Tsubaki,Kamisato Ayaka's Mother,is
+Traveler,Amakane Island,visits
+Ayaka,Amakane Island,appears at
+Merchants,Ayaka,stay open for
+Ayaka and Traveler,prayer panel,draw on
+Ayaka,Inazuma where everyone lives happily,wants
+Traveler,reunion with sibling,wants
+Ayaka,Traveler,performs dance for
+Ayaka,notebook,finds
+Ayaka,mother and Tsubaki are the same person,learns
+Ayaka,live every day without regrets,resolves
+Ayaka,bring Traveler and Paimon to festival,offers
+Trio,Amakane Island,arrive
+Merchants,stay open,decide
+Ayaka and Traveler,prayer panel,draw
+Ayaka,Inazuma where everyone lives happily,wants
+Traveler,reunite with sibling,wants
+Ayaka,dance,performs
+Ayaka,Traveler,thanks
+Carassius Auratus Chapter,Yoimiya,is the Story Quest chapter for
+Yoimiya,the harsher facts of life like the Vision Hunt Decree,explains that children should enjoy their childhood and that they shouldn't yet need to learn about
+Yoimiya's family,their spectacular fireworks,is well known throughout Inazuma for
+Ryuunosuke,Yoimiya's father,is
+Sakujirou,an old customer that smuggled himself into Inazuma,is
+Tenryou Commission,Sakujirou,put an arrest warrant out for
+Kouichi,the boat,was questioned about
+Yoimiya,her customers happy,never minds all the work she does as she wants to keep
+Yoimiya,a place in Inazuma and some fireworks,offers the Traveler
+Sakujirou,coming to Inazuma,regrets
+Imatani couple,Satoru,ask the trio to deliver some pickled radish to
+Tenryou,Yoimiya's house,raided
+Keisuke,Sakujirou,lead the arrest of
+Yoimiya,Keisuke to a duel,challenges
+Keisuke,Sakujirou to leave Inazuma,allows
+Keisuke,Sakujirou not to die early,reminds
+Keisuke,Sakujirou if he returns,will help
+Keisuke,demotion,bemoans
+Keisuke,Yoimiya,thanks
+Yoimiya,firework to Keisuke,gives
+Sakujirou,firework,sees
+Sakujirou,Keisuke lit the firework,realizes
+Yoimiya,Traveler a slip for the golden firework,gives
+Yoimiya and Ryuunosuke,a trip,discuss
+Yoimiya,Ryuunosuke to help run the store,asks
+Yoimiya,to explore outside Inazuma,wants
+Yoimiya,to watch Teyvat's greatest meteor shower,wants
+Traveler,to bring Yoimiya to Sumeru,offers
+Rtawahist,locate the meteor shower,can help
+Yoimiya,Traveler's offer,accepts
+Traveler,travels in Sumeru,talks about
+Yoimiya,Sumeru,is captivated by
+Yoimiya,Aranara carvings,buys
+Yoimiya,how Aranara speak,recalls
+Yoimiya,Sumeru City,is impressed by
+Yoimiya,going into Akademiya without proper clothing,is worried about
+Paimon,they don't know who to ask,realizes
+Nahida,meteor showers are unpredictable,informs
+Nahida,creating a meteor shower in a dream,suggests
+Nahida,Emberglow Leaf,gives
+Yoimiya,Avin an Aranara carving,gives
+Yoimiya,Avin's feelings,deduces
+Yoimiya,the meteor shower,asks about
+Yoimiya,"meteor shower will occur in Sumeru, in dreams",is surprised to learn
+Yoimiya,Traveler's sibling,asks about
+Traveler,Paimon,travels with
+Traveler,Yoimiya,meets
+Yoimiya,meteor shower,wants to find
+Traveler,Ahangar,asks for help
+Ahangar,lenses,creates
+Ahangar,Urstone,mentions
+Traveler,Farid,meets
+Traveler,Niousha,meets
+Niousha,Avin,is the mother of
+Traveler,Avin,searches for
+Traveler,Avin,finds
+Traveler,hilichurls,fights
+Avin,Aranara friend,remembers
+Yoimiya,Avin,promises to help
+Traveler,Arapurva,summons
+Arapurva,Aranara,is an
+Arapurva,Avin,helps
+Arapurva,Arashani,mentions
+Avin,Arashani,meets
+Avin,lens,gives
+Yoimiya,meteor shower spot,finds
+Niousha,Yoimiya,thanks
+Yoimiya,Traveler,gives gift to
+Yoimiya,Carassius Auratus Chapter: Act I - Dreamlike Timelessness,quest
+Dreamlike Timelessness,Story Quest,quest type
+Dreamlike Timelessness,N/A,previous quest
+Dreamlike Timelessness,Star-Pickers' Passage,next quest
+Dreamlike Timelessness,Adventure Rank 30,requires
+Dreamlike Timelessness,Chapter II: Act I - The Immovable God and the Eternal Euthymia,requires
+Sakujirou,Runaway Stowaway,status
+Keisuke,Tenryou Commission,affiliation
+Traveler,Help Yoimiya and Sakujirou,objective
+Yoimiya,Treasure Hoarders,attacks and drives away
+Yoimiya,Keisuke and Sakujirou,intervenes and tries to connect
+Yoimiya,Keisuke,challenges
+Yoimiya,Keisuke,wins against
+Keisuke,Yoshitaka,orders
+Keisuke,Sakujirou to leave Inazuma,allows
+Keisuke,Yoimiya,thanks
+Keisuke,Yoimiya,asks
+Yoimiya,Keisuke,gives firework to
+Yoimiya,Traveler,takes
+Sakujirou,firework show,watches
+Keisuke,firework,lights
+Yoimiya,Traveler a slip for firework,gives
+Omnipresence Over Mortals,Archon Quests,is the third act in Chapter II of
+Teppei,the Traveler,takes
+the Traveler,Watatsumi Island,goes to
+Sangonomiya Kokomi,how she recently accepted an anonymous letter's offer,tells
+Watatsumi Island,resources,lacks
+the Traveler,captain of Swordfish II,becomes
+Teppei,a combat role,asks for
+Swordfish II,investigate the mysterious disappearance of supplies,is assigned to
+Swordfish II,Bourou Village,stays in
+Teppei,captain of a newly formed special operations unit,becomes
+the investigation at Fort Mumei,any leads,fails to reveal
+Teppei,assistance,provides
+Tatarigami,Orobashi,emerged after the death of
+Orobashi,Ei,was slain by
+the Traveler,Kokomi and General Gorou,finds
+the Traveler,the weapon as a vitality-absorbing Delusion,identifies
+the Resistance's mysterious 'sponsor',the Fatui,is
+Kokomi,that the Resistance be informed to stop using Delusions,orders
+the Traveler,Teppei,rushes off to find
+the Traveler,Delusion manufacturing scheme,decides to dismantle
+the Traveler and Paimon,that the Delusions are being produced with the Crystal Marrow,realize
+Nathan,a Fatui mole,is
+The Balladeer,the 'weak',mocks
+Yae Miko,the Traveler,rescues
+Yae Miko,that she has taken an interest in them,explains
+the Traveler,Ei,met
+Miko,the Traveler through grueling training,puts
+Yae Miko,Kujou Sara,plans to turn against Tenryou Commission
+Kujou Takayuki,Shogunate,betrayed
+Traveler,Komore Teahouse,returns to
+Traveler,Kamisato Ayaka and Thoma,meets with
+Yoimiya,distraction,supplied
+Sayu,Tenryou Commission,infiltrated
+Kujou Sara,Kujou Takayuki,confronts
+Signora,Shogun,meeting with
+Signora,Kujou Sara,defeated
+Traveler,Signora,challenged
+Shogun,Signora,executed
+Shogun,Traveler,intends to execute
+Kaedehara Kazuha,Musou no Hitotachi,blocked
+Traveler,Shogun,attacks
+Ei,Visions,deemed greater threat
+Yae Miko,Plane of Euthymia,enters
+Traveler,Ei,defeated
+Ei,Vision Hunt Decree,agrees to abolish
+Yae Miko,Traveler,rescued from The Balladeer
+Yae Miko,Electro Gnosis,gave
+Ei,Electro Gnosis,entrusted
+The Balladeer,Ei's prototype puppet,was
+The Balladeer,Sixth Harbinger,became
+Lesser Lord Kusanali,unspecified_decision,decision_maker_of
+The Sages,unspecified_decision,decision_maker_of
+Miko,Traveler's lack of Vision,speculates_about
+Traveler's lack of Vision,lack of strong ambition,caused_by
+Traveler,Vision,lacks
+Traveler,strong ambition,lacks
+Omnipresence Over Mortals,6,has_achievements
+Act,28,has_characters
+Requiem of the Echoing Depths,Archon Quest,Quest Type
+Requiem of the Echoing Depths,Chapter II,Chapter
+Requiem of the Echoing Depths,Act IV,Act
+Requiem of the Echoing Depths,Through Mists of Smoke and Forests Dark,Previous
+Requiem of the Echoing Depths,Omnipresence Over Mortals,Next
+Requiem of the Echoing Depths,Adventure Rank 30,Requirements
+Requiem of the Echoing Depths,2.6,Version
+Through Mists of Smoke and Forests Dark,Chapter III,is the first act in
+Through Mists of Smoke and Forests Dark,Archon Quests,is part of
+Traveler,Sumeru,continues their search for answers in
+Traveler,Dendro Archon,seeks an audience with
+Traveler,Cinnabar Cliff,passes through
+Traveler,Sumeru rainforest,emerges into
+Traveler,Haypasia,asks
+Haypasia,scholar,is a
+Traveler,Haypasia,follows
+Haypasia,cave,enters
+Haypasia,incense,lights
+Incense,fainting,causes
+Traveler,tree,has a vision of
+Traveler,Gandharva Ville,awakens in
+Tighnari,Forest Ranger,is a
+Collei,Forest Ranger,is a
+Traveler,Tighnari,receives treatment from
+Traveler,Collei,receives treatment from
+Traveler,Collei,asks for information from
+Tighnari,Traveler and Paimon to accompany Collei,allows
+There were two,Greater Lord Rukkhadevata and Lesser Lord Kusanali,Dendro Archons
+Greater Lord Rukkhadevata,cataclysm,died during
+Lesser Lord Kusanali,Dendro Archon,is the current
+Lesser Lord Kusanali,Sanctuary of Surasthana,lives in
+Collei,Amber,is friends with
+Collei,Mondstadt,lived in
+Paimon,Tighnari,criticizes
+Paimon,Collei,touches
+Collei,Eleazar,has
+Collei,The Doctor,was treated by
+The Doctor,Eleven Fatui Harbingers,is one of the
+Traveler,Collei's medication,gathers ingredients for
+Withering Zone,dangerous area,is a
+Withering,Irminsul,stems from a disease affecting
+Irminsul,giant tree,is a
+Aranara,Greater Lord Rukkhadevata,are familiars of
+Haypasia,Dusk Bird,sends a message via
+Tighnari,Traveler,reveals truth to
+Traveler,Haypasia's cave,enters
+Traveler,Aranara,encounters
+Aranara,Traveler,induces a dream on
+Haypasia,difficulty of connecting to Irminsul,explains
+Haypasia,Irminsul,connected to
+Haypasia,Aranara,can see
+Traveler and Paimon,Gandharva Ville,returned to
+Sage Khajehand,Tighnari,attempts to recruit
+Tighnari,Traveler to meet Rohawi,advises
+Traveler and Paimon,Akasha Terminals,receive
+Dunyarzad,Lesser Lord Kusanali,follows
+Dunyarzad,Sabzeruz Festival,wants to revive
+Nilou,Dance of Sabzeruz,will perform
+Nilou,Padisarahs,wishes for
+Dehya,meeting Lesser Lord Kusanali,provides lead on
+Akademiya convoy,Aaru Village,robbed at
+Stolen item,"Akasha, knowledge, and gods",related to
+Stolen item,Port Ormos,located in
+Ayn Al-Ahmar,King Deshret's revival,spreads rumors about
+Traveler,Alhaitham,collaborates with
+Alhaitham,Divine Knowledge Capsule,wants to study
+Mizri,Divine Knowledge Capsule,obtained
+Mizri,Akasha Terminal,severed connection to
+Matra,Mizri into custody,took
+Mizri,"""...World...Forget me...""",uttered
+Alhaitham and Traveler,each other,withheld information from
+Alhaitham,Divine Knowledge Capsule from Mizri,swiped
+Traveler,Mizri's words in a vision,heard
+Alhaitham,Mizri's state to researchers driven insane by Irminsul,compared
+Alhaitham,Capsule grants neither divine knowledge nor power,concluded
+Traveler and Paimon,Sumeru City for Sabzeruz Festival,returned to
+Alhaitham,dealing with Divine Knowledge Capsule or producing a report for the Sages,debated
+The Morn a Thousand Roses Brings,Chapter III,is the second act in
+The Morn a Thousand Roses Brings,Archon Quests,is part of
+Traveler,Dunyarzad,recounts their escapades in Port Ormos to
+Dunyarzad,accommodations,provides
+Dehya,Sabzeruz Festival,sold her greatsword to donate towards
+Dunyarzad,Eleazar,suffers from
+Azar,laws,claims the festival violates
+Azar,public art performances,bans
+Traveler,Charcoal-Baked Ajilenakh Cake,eats
+Traveler,a strange girl,chases
+Nahida,Nahida,introduces herself as
+Nahida,the samsara,asks the Traveler to break
+Dehya,the samsara,suspects the sages are responsible for
+Akasha,Traveler's mind,extracts information from
+Akasha,massive brain,creates
+"Traveler, Paimon, and Dehya",Akasha Terminals,remove
+Nahida,Moon,compares self to
+Dehya,new greatsword,uses
+Traveler,theory about samsara,amends
+Dehya,training dummy,shows
+Traveler and Paimon,they are not in the real world,realize
+Traveler and Paimon,leave the city,plan to
+Nahida,Traveler already tried to leave city twice,reveals
+Traveler,two days have passed,discovers
+Traveler,city,left
+Paimon,Traveler's disappearance,witnesses
+Nahida,Akasha Terminal,modifies
+Akasha,wisdom from dreams,compiles
+Sages,rhetoric about dreams,spread
+Samsara,consciousnesses into dream,puts
+Traveler and Paimon,Nahida's identity,deduce
+Dunyarzad's consciousness,,disappears
+Nahida,voice that inspired Dunyarzad,was
+Traveler and Paimon,Vihar is not the host,discover
+Traveler,Dehya against Eremites,helps
+Traveler,Dunyarzad's forgotten item,investigates
+Paimon,Dunyarzad's diary,discovers
+Dunyarzad,research on Lesser Lord Kusanali,compiled
+Traveler and Paimon,Dance of Sabzeruz,watch
+Azar and Setaria,Nilou,scold
+Traveler,Azar and Setaria are puppets,confirms
+Traveler,Nilou is dream host,realizes
+Nilou,dance,performs
+Traveler and Paimon,Dunyarzad's spirit,see
+Dunyarzad,with intact mind,wakes up
+Nahida,Katheryne,possesses
+Nahida,finding Dunyarzad's consciousness,reveals
+Nahida,Dunyarzad's dream,sustained
+Traveler and Paimon,samsara,broke
+Nahida,to investigate the sages,plans
+Akasha,large event,unable to host
+Katheryne,to her senses,returns
+"Dreams, Emptiness, Deception",Archon Quest,Quest Type
+"Dreams, Emptiness, Deception",Chapter III,Chapter
+"Dreams, Emptiness, Deception",Act III,Act
+"Dreams, Emptiness, Deception",The Morn a Thousand Roses Brings,Previous
+"Dreams, Emptiness, Deception",King Deshret and the Three Magi,Next
+"Dreams, Emptiness, Deception",Adventure Rank 35,Requirements
+"Dreams, Emptiness, Deception",100,Rewards
+Traveler,Nahida's body,finds themselves in
+Traveler,Scaramouche's ascension,witnesses
+Nahida,The Doctor,is captured by
+Traveler,The Eremites,seeks help from
+Traveler,Alhaitham,travels with
+Traveler,Cyno,encounters
+Traveler,Dehya,joins
+Group,Sandstorm,shelters from
+Candace,the group,warns
+Traveler & Dehya,riftwolves,fight
+Traveler,Village Keepers,learns about
+Traveler & Cyno,Isak,help
+King Deshret and the Three Magi,Chapter III,is the fourth act in
+King Deshret and the Three Magi,Archon Quests,is part of
+Traveler,Cyno,investigates with
+Cyno,Sharkan and Makan,overhears
+Sharkan and Makan,King Deshret's resurrection,reveal information about
+Isak,his grandpa's house,brings the Traveler and Cyno to
+Traveler,incense,is affected by
+Cyno,incense,identifies
+Cyno,Tighnari,is a friend of
+Dehya,Caravan Ribat,suggests visiting
+Traveler,Dehya,accompanies
+Dehya,Wall of Samiel,expresses hatred for
+Dehya,Zaki,meets with
+Zaki,Delavar,informs
+Dehya and Traveler,Delavar and Engur,defeat
+Candace,radicals,interrogates
+Radicals,masked man,reveal information about
+Masked man,King Deshret's envoy,claims to be
+Uncle Anpu,Akademiya,provides information about
+Alhaitham,Shani lied,reveals that
+Shani,screaming,heard
+Traveler,monsters,eliminates
+Alhaitham,entrance to Dar al-Shifa,unlocks
+Alhaitham,Razak,recognizes
+Alhaitham,mole,reveals himself as
+Akasha,computation,is capable of
+Cyno,being followed,initially dismayed
+perpetrators,desert,would go
+Dehya,Rahman,was trying to convince
+Rahman,Dehya's reasoning,refuses to accept
+Alhaitham,hostage,offers himself
+Dehya,her right arm,offers
+Rahman,chop Dehya's arm off,accepts and orders
+Rahman,cutting her arm off,changes his mind
+Rahman,group to leave,allows
+Rahman,a fight,demands
+group,Rahman's group,heads out to meet
+Rahman,one-on-one exchange,states
+Dehya,Rahman,charges and overwhelms
+Rahman's men,Isak's grandpa,threatens
+Isak's grandpa,the group,protects
+group,mysterious ruins,finds themselves
+ruins,King Deshret,belong to
+ruins,Dendro Archon's power,imbued with
+Alhaitham,runes,deciphers
+transcript,Kasala,is from
+King Deshret,forbidden knowledge,introduced
+Greater Lord Rukkhadevata,give people life,used her powers
+King Deshret,prevent knowledge's return,sacrificed himself
+Rukkhadevata,small child,reverted
+Rahman,the group,apologizes
+Rahman,Village Keepers,promises to return
+Rahman,perpetrators,brings the group
+Morghi and Judar,seeing Alhaitham and Cyno,become terrified
+sages,new god,planning to create
+scientific breakthroughs,rare and declining,had been
+Il Dottore,create new god,approached them with the notion
+dream samsara and harvesting Divine Canned Knowledge,process to create new god,part of
+everyone,sages' actions unacceptable,agrees
+group,crush the sages and rescue their true god,begins to concoct a plan
+"Akasha Pulses, the Kalpa Flame Rises",Chapter III,is the fifth act in
+"Akasha Pulses, the Kalpa Flame Rises",Archon Quests,is part of
+Traveler,Candace,finds
+Candace,Traveler and Paimon that everyone is waiting,tells
+Alhaitham,"Cyno, Dehya, Traveler, and Paimon",formulates a plan with
+Alhaitham's plan,Jnagarbha Day,involves taking action on
+Alhaitham,Rahman,spoke with
+Alhaitham,mercenaries,advises
+Traveler and Paimon,Alhaitham about Irminsul,inform
+Alhaitham,Rahman's base,goes to
+Traveler and Paimon,Morghi and Judar working at Rahman's base,find
+Alhaitham,Traveler and Paimon to Cyno,sends
+Cyno,Rahman,argues with
+Cyno,Alhaitham for advice,goes to
+Rahman,Cyno,explains the plan to
+Cyno,guards at the outpost,works with
+Cyno,guards about the arrest,informs
+Alhaitham,guards at Caravan Ribat should be unaware that Cyno had stepped down,believes
+Cyno,Luxembarbo,briefs
+Cyno,Traveler and Paimon as his assistant and their construct,introduces
+Cyno,an elite platoon,requests
+Rahman and his men,"Cyno, Traveler, Paimon, Luxembarbo, and his men",are arrested by
+Dehya,"Traveler, Paimon",scolds
+"Traveler, Paimon, Dehya, Cyno",Dottore,needs information on
+"Traveler, Paimon, Dehya, Cyno",Tighnari,seeks help from
+Dottore,Tighnari,requests Haypasia from
+Tighnari,Dottore,refuses
+Dehya,Dottore,tracks
+Dottore,"Traveler, Paimon, Dehya, Cyno",misleads
+"Traveler, Paimon, Dehya, Cyno, Tighnari",Fatui,fights
+Scaramouche,"Traveler, Paimon, Dehya, Cyno, Tighnari",appears before
+Scaramouche,humanity,is disgusted by
+Scaramouche,Haypasia,has affection for
+Scaramouche,lightning storm,unleashes
+Tighnari,lightning,is struck by
+"Traveler, Paimon",Alhaitham,meets with
+"Traveler, Paimon, Alhaitham",Azar's office,infiltrates
+Azar,"Traveler, Paimon, Alhaitham",intercepts
+Azar,"Traveler, Paimon",detains
+Alhaitham,Azar,attacks
+Azar,Alhaitham,exiles
+Azar,"Traveler, Paimon",imprisons
+Traveler,Nahida,sets
+Traveler,Nahida's consciousness,connects to
+Nahida,self-doubt,has
+Traveler,barrier,breaks
+Traveler,Nahida,wakes up
+Zubayr,Nilou,asks
+Nilou,Akademiya,performs at
+Azar,guards,orders
+Alhaitham,possibility,planned for
+Dehya,action,goes into
+Eremites,action,goes into
+Dehya and Eremites,guards,lures
+Dehya and Eremites,guards,defeats
+Azar,Akasha,checks
+Uday,Azar,angers
+Azar,Sanctuary of Surasthana,goes to
+Cyno,Azar,demands
+Dehya,Traveler,frees
+Nahida,Traveler,apologizes to
+Nahida,Akasha,reverts
+Nahida,access,revokes
+Nahida,upgraded Akasha,gives
+Nahida,false god's location,discovers
+Nahida,Traveler,supports
+Traveler,facility,enters
+Nahida,Scaramouche,senses
+Scaramouche,god,sees himself as
+Sages,infuse Divine Knowledge Capsules,were unable to
+Nahida,Scaramouche,awakens
+Scaramouche,Traveler,challenges
+Scaramouche,arm,plunges
+Nahida,samsara,reveals
+Nahida,knowledge,imparts
+Nahida,knowledge,compiles
+Traveler,Scaramouche,defeats
+Nahida,Electro Gnosis,grabs
+Nahida and Traveler,Rukkhadevata's memory,enters
+Traveler,forbidden knowledge,explains
+Nahida,forbidden knowledge,connects
+Corroded consciousness,everyone,is affecting
+Traveler,place,recalls
+Rukkhadevata,Nahida,created
+Nahida,Rukkhadevata,erases
+Irminsul,dreaming,allows
+Irminsul,forbidden knowledge,removes
+Nahida and Paimon,Rukkhadevata,forgot about
+Traveler,Nahida,contemplates telling
+Traveler,null,falls asleep
+Dottore,null,walks in
+Dottore,sound wave,used
+Sound wave,Traveler and Paimon,put to sleep
+Dottore,negotiate,came to
+Dottore,Nahida,reminds
+Nahida,Dottore,can't fight
+Nahida,Electro Gnosis,threatens to destroy
+Electro Gnosis,Celestia,could awaken
+Dottore,threat,falls for
+Nahida,Electro Gnosis,agrees to give
+Dottore,segments,eliminates
+Dottore,Dendro Gnosis,inquires about
+Dottore,information,offers
+Traveler,null,regains consciousness
+Paimon,Traveler,wakes up
+"Traveler, Paimon, and Collei",breakfast,have
+Nilou,letter,left
+Nilou,"Traveler, Paimon, and Collei",invited
+Cyno,General Mahamatra,returned to position
+Cyno,Traveler,brought
+Traveler,Tighnari,invites
+Tighnari,invitation,declines
+Nahida,Azar and other sages,sentenced
+Azar and other sages,wisdom,to cultivate
+Nahida,Scaramouche,defeated
+Nahida,Irminsul,restored
+Nilou,"Alhaitham, Dehya, Dunyarzad, Rahman, and Cyno",sent invitations to
+Alhaitham,Kaveh,argues with
+Alhaitham,Grand Sage,rejected offer to become
+Traveler,Alhaitham,informs
+Dehya,bodyguard,intends to quit serving as
+Dehya,Traveler,asks
+Paimon,invitation,asks about
+Setaria,Akademiya,intends to leave
+Nahida,supplies,devoted
+Cyno,Rahman's men,contacted
+Traveler,Grand Bazaar,returns to
+Nahida,Traveler,connects to
+Nahida,group,thanks
+Traveler,Sanctuary,returns to
+Nahida,questions,answers
+Nahida,information,reveals
+Fatui,"Traveler as Teyvat's fourth ""Descender""",classified
+Nahida,Fatui classification of Traveler,revealed
+Nahida,"Heavenly Principles as first ""Descender""",suspects
+Nahida,"identity of other two ""Descenders""",unsure
+Nahida,help Traveler with inquiries,promises
+Nahida,Traveler's dreams,may appear
+"Akasha Pulses, the Kalpa Flame Rises",5 Achievements,has
+Caribert,Archon Quest,Quest Type
+Caribert,Chapter III,Chapter
+Caribert,Act VI,Act
+Caribert,"Akasha Pulses, the Kalpa Flame Rises",Previous
+Caribert,Prelude of Blancheur and Noirceur,Next
+Caribert,Adventure Rank 35,Requirements
+Eide,Chlothar Alberich,is
+Caribert,Eide's son,is
+Eide,Khaenri'ah,originates from
+Caribert,Hilichurl,transformed into
+Hilichurls,Strange being,pray to
+Strange being,Abyss,is member of
+Strange being,Abyss Order,is not member of
+Chlothar Alberich,Power of the Abyss,seeks to use
+Chlothar,Abyss Order,founder of
+Dainsleif,sinner,suspects
+Traveler,Paimon,hugs
+Caribert,4 achievements,has
+Prelude of Blancheur and Noirceur,Archon Quest,Quest Type
+Prelude of Blancheur and Noirceur,Chapter IV,Chapter
+Prelude of Blancheur and Noirceur,Act I,Act
+Prelude of Blancheur and Noirceur,Caribert,Previous
+Prelude of Blancheur and Noirceur,As Light Rain Falls Without Reason,Next
+Prelude of Blancheur and Noirceur,Adventure Rank 40,Requirements
+Prelude of Blancheur and Noirceur,100,Rewards
+Hydro Archon,absolve people of Fontaine's sin,could not
+Fontaine's water levels,rise and drown people,would
+Magic Pockets,people to transport belongings,allow
+Lyney,people to be prepared,wanted
+"Traveler, twins",catch a thief,concoct a plan
+Lyney,himself,hurt
+Charlotte,"recent events, including disappearing young women",discuss
+Freminet,everyone went out,tells
+Sky,rain breaks loose,darkens and
+Hydro Dragon,rain when it weeps (according to story),cause
+Lyney,Freminet to take supplies to workshop,asks
+Traveler,take supplies to workshop,offers
+Estelle,machine runs on Indemnitium,tells
+Truand and lackeys,Estelle,interrupt
+Childe,group of their debt,warns
+Childe,Truand and his lackeys,overwhelms
+Childe,Hydro weapons,loses control of
+Childe,Truand,knocks out
+Childe,Delusion,has
+Childe,Champion Duelists,sparred with
+Childe,Vision to Traveler for safekeeping,gives
+Lyney,Opera House,performs at
+Neuvillette,Lyney's show,attends
+Cowell,magic box,found dead in
+Audience member,magic box,goes missing from
+Traveler,Lyney's attorney,assigned as
+Furina,prosecutor,acts as
+Lyney and Lynette,House of the Hearth,revealed to be from
+House of the Hearth,Fatui,affiliated with
+"Navia, Silver, and Melus",Spina di Rosula,members of
+Spina di Rosula,serial disappearances,investigates
+Lyney,Oratrice's core,investigates
+Lyney,smashed vase and scattered clothes,witnesses
+Traveler,Cowell's belongings,requests to inspect
+Cowell,water from Primordial Sea,possesses
+Cowell,organization selling illegal drugs,belongs to
+Neuvillette,Traveler to continue hypothesis,allows
+Vaughn,false evidence,presents
+Liliane,crime,confesses to
+Liliane,thief,is
+Neuvillette,Not Guilty verdict,delivers
+Neuvillette,Vaughn's complicity,realizes
+Vaughn,water,dissolves into
+Lyney and Lynette,their backstory,explain
+Lyney and Lynette,noble,were adopted by
+Knave/Arlecchino,Lynette and others,rescues
+Knave/Arlecchino,prophecy,believes in
+Knave/Arlecchino,Hydro Gnosis to Snezhnaya,takes
+Traveler and Paimon,farewell meal,agree to
+As Light Rain Falls Without Reason,Archon Quest,Quest Type
+As Light Rain Falls Without Reason,Chapter IV,Chapter
+As Light Rain Falls Without Reason,Act II,Act
+As Light Rain Falls Without Reason,Prelude of Blancheur and Noirceur,Previous
+As Light Rain Falls Without Reason,To the Stars Shining in the Depths,Next
+As Light Rain Falls Without Reason,Adventure Rank 40,Requirements
+As Light Rain Falls Without Reason,100,Rewards
+Callas,Navia,father of
+Callas,Clorinde,killed by
+Callas,Navia,protected
+Vacher,disappearance case,witness to
+Neuvillette,case file archives,possesses
+Callas,rainy day,died on
+Jacques,rainy night,murdered on
+Primordial Seawater,Sinthe,used in
+Sinthe,Callas,banned by
+Jacques,Callas,informant of
+Callas,illness,diagnosed with
+Florent,Callas' murder,suspect in
+Thierry,Callas' murder,suspect in
+Marcel,Callas' murder,suspect in
+Jacques,organization,betrayed
+Jacques' wife,Jacques was forced to kill Callas,believes
+Traveler,Marcel is likely suspect,concludes
+Traveler,enemy headquarters,infiltrates
+Navia,Marcel,accuses
+Traveler,evidence,collects
+Traveler and Paimon,Vacher conducted experiments,discover
+Traveler,Marcel,accuses
+Neuvillette,evidence,reviews
+Oratrice Mecanique d'Analyse Cardinale,Guilty verdict,returns
+Neuvillette,Tartaglia is innocent,declares
+Neuvillette,information,submits
+Oratrice Mecanique d'Analyse Cardinale,Guilty verdict on Tartaglia,returns
+Tartaglia,escape,attempts
+Neuvillette,Tartaglia,knocks out
+Gardemeks,Tartaglia,apprehend
+Neuvillette,investigate the matter,promises
+Neuvillette,court rules,upholds
+Neuvillette,Traveler,assures
+Traveler,auditorium,leaves
+Traveler,Marcel,runs into
+Garde Esmond,Marcel,escorts
+Marcel,Traveler,asks
+Traveler,Marcel,tells
+Marcel,go to the fountain,asks
+Neuvillette,Marcel's request,grants
+Neuvillette,Marcel,accompanies
+Marcel,Vigneire's voice,hears
+Marcel,dream realm,enters
+Traveler,Marcel's dream,witnesses
+Marcel,Oceanid,meets
+Oceanid,collective consciousnesses of the women Marcel dissolved,is
+Oceanid,Marcel's crimes,knows
+Oceanid,Marcel,tells
+Vigneire,Marcel,avoids
+Oceanid,Marcel,drowns
+Doctors,Marcel's death as a panic attack,rule
+Traveler and Paimon,shopping,finish
+Traveler and Paimon,Navia,cross paths with
+Navia,memorial for her father,held
+Navia,Clorinde,made amends with
+Navia,father's grave,visits
+Traveler,Navia,joins
+Neuvillette,reason for duel,explains
+Neuvillette,humans prioritize lives over justice,believed
+Callas,Neuvillette wrong,proved
+Traveler and Paimon,Neuvillette questions,ask
+Neuvillette,foreseen possibility of different verdict,reveals
+Neuvillette,investigate Childe,promises
+Furina,prophecy,took seriously
+To the Stars Shining in the Depths,Archon Quest,Quest Type
+To the Stars Shining in the Depths,Chapter IV,Chapter
+To the Stars Shining in the Depths,Act III,Act
+To the Stars Shining in the Depths,As Light Rain Falls Without Reason,Previous
+To the Stars Shining in the Depths,Cataclysm's Quickening,Next
+To the Stars Shining in the Depths,Adventure Rank 40,Requirements
+To the Stars Shining in the Depths,100,Rewards
+Traveler,Childe's time in prison,has a flashback of
+Traveler,Paimon,informs
+Traveler and Paimon,the rules,decide to learn about
+Traveler and Paimon,the prison facilities,explore
+Working for three days straight,being served mystery meat,results in
+Betting on two fighters in a match,not allowed,is
+Traveler,a rest,takes
+Traveler and Paimon,Vidoc,approach
+Vidoc,the pipes late at night,tells them to avoid
+Cannibals,victims,prey on
+Cannibals,other forms,turn victims into
+Traveler and Paimon,Vidoc missing,discover
+Traveler and Paimon,Fielding,approach
+Traveler,strange sounds at night,tells Fielding about
+Fielding,rumors of strange sounds,confirms
+Strange sounds,pipe-cleaning days,happen during
+Traveler,Childe,gets a vision of
+Childe,the pipes to escape,used
+Traveler and Paimon,three people,find
+Hidden rules,farce to protect Childe,were a
+Childe,he had to leave,told them
+Childe,the pipes,escaped through
+Entrance to where Childe left,flooded,is
+Traveler,Lyney ask Freminet for help,decides to have
+Paimon,puzzled by Childe's behavior,is
+Cataclysm's Quickening,Archon Quest,Quest Type
+Cataclysm's Quickening,Chapter IV,Chapter
+Cataclysm's Quickening,Act IV,Act
+Cataclysm's Quickening,To the Stars Shining in the Depths,Previous
+Cataclysm's Quickening,Masquerade of the Guilty,Next
+Cataclysm's Quickening,40,Adventure Rank Required
+Wriothesley,the children are Fatui operatives,knows
+Lyney,to investigate the forbidden zone,wants
+Wriothesley,Clorinde,hires
+Wriothesley,the Traveler and Paimon to the forbidden zone,takes
+Primordial Sea,Fontaine,threatens
+Wriothesley,a ship,constructs
+Neuvillette,the sluice gate,seals
+Arlecchino,Oratrice Mecanique d'Analyse Cardinale,asks about
+Arlecchino,use of Indemnitium,wonders
+Arlecchino,Neuvillette's absence,notes
+Arlecchino,Traveler,thanks
+Arlecchino,Traveler,confides in
+Arlecchino,perspective on Furina,shares
+Arlecchino,take Gnosis,attempted
+Arlecchino,Furina's lack of Gnosis,discovered
+Arlecchino,curse on Furina,sensed
+Arlecchino,Furina,left
+Arlecchino,thought of Neuvillette as Hydro Archon,entertains
+Arlecchino,opportunity to pressure Furina,realized
+Arlecchino,Neuvillette is not Hydro Archon,believes
+Arlecchino,cooperation with Traveler,offers
+Neuvillette,Opera House,arrives
+Neuvillette,mourning recent events,remarks about
+Neuvillette,rain,causes
+Neuvillette,Hydro Sovereign,is
+Neuvillette,identity as Hydro Sovereign,confirms
+Neuvillette,dragons' past,tells
+Neuvillette,inability to stop prophecy,states
+Traveler,Arlecchino's children,watches over
+Traveler,Arlecchino,meets
+Traveler,Neuvillette about his actions,asks
+Traveler,Freminet's words,recalls
+Traveler,Neuvillette's true identity,realizes
+Traveler,prison status,learns
+Traveler,prison inhabitants,talks to
+Traveler,mission for Neuvillette,completes
+Furina,cat,plays with
+Furina,assassination attempt,believes
+Furina,mercy,begged
+Furina,assassination attempt,affected by
+Furina,glance at Traveler,steals
+Furina,distracts Neuvillette,runs off
+Childe,fortress,goes missing
+Childe,Primordial Sea,drifts
+Childe,narwhal,finds
+Wriothesley,Traveler to leave,allows
+Wriothesley,Traveler to return,asks
+Paimon,Arlecchino's attack,surprised by
+Paimon,Neuvillette back to senses,calls
+Masquerade of the Guilty,Archon Quest,Quest Type
+Masquerade of the Guilty,Chapter IV,Chapter
+Masquerade of the Guilty,Act V,Act
+Masquerade of the Guilty,Cataclysm's Quickening,Previous Quest
+Masquerade of the Guilty,Bedtime Story,Next Quest
+Masquerade of the Guilty,40,Required Adventure Rank
+Furina,Hydro Archon,is the current
+Egeria,Hydro Archon,is the previous
+Neuvillette,Furina,confronts
+Traveler and Paimon,Fleuve Cendre,rest at
+Mona,Astromancer Barbeloth Trismegistus,reveals her master's name as
+The Steambird,Mona,invited
+Neuvillette,Furina,argues with
+Neuvillette,list of victims,gives Furina
+Traveler,"Navia, Lyney, Lynette, Freminet, Clorinde",contacts
+"Mage ""N""",Traveler and Paimon,visits
+Mona,Charlotte,talks with
+Paimon and Traveler,Hotel Debord,go to
+Sedene,Traveler and Paimon,buys cake for
+Paimon and Traveler,Charlotte,meet
+Isadora,riot,informs Traveler and Paimon about
+Furina,riot,flees from
+Marechaussee Phantom,riot,deals with
+Traveler and Paimon,Furina,find
+Furina,Traveler,tried by
+Furina,fraud,accused of
+Neuvillette,Furina guilty,deems
+Oratrice Mecanique d'Analyse Cardinale,Hydro Archon guilty,declares
+Egeria,Primordial Sea,used
+Oceanids,humans,transformed into
+Hydro Archon,appropriating power,sinned by
+Narwhal-like entity,rift,emerges from
+Neuvillette and Childe,narwhal-like entity,push back
+Narwhal-like entity,rising water levels,responsible for
+Focalors,Neuvillette and Traveler,deceived
+Focalors,transformed human,was
+Focalors,her divinity,split
+Focalors,Furina,cursed
+Furina,die,could not
+Furina,role in the opera,played
+Neuvillette,Gnosis,received
+Neuvillette,sins of Fontainians,absolved
+Neuvillette,Hydro Dragon,is
+Traveler and Neuvillette,All-Devouring Narwhal,subdued
+Skirk,Narwhal into an orb,converted
+Skirk,Childe's master,is
+Prophecy,full swing,is in
+Fontainians,unaffected by Primordial Sea,were
+Fatui and Clorinde,rebuilding of Poisson,helped
+Charlotte,Jurieu and Lourvine,interviewed
+Father,Hydro Gnosis,received
+Childe,Snezhnaya,returned to
+Arlecchino,Harbinger,is
+Arlecchino,Tsaritsa,handed Gnosis to
+Neuvillette,Fontainians as true humans,deemed
+Furina,role as Hydro Archon,abdicated
+Neuvillette,Skirk,spoke with
+Hydro Gnosis,remains of third Descender,was
+Neuvillette,Skirk,asked
+Skirk,did not know,insisted
+Skirk,ask her master,promised
+Tartaglia,information,relay
+Neuvillette,reasoning,revealed
+Neuvillette,Hydro Gnosis,gave
+Traveler,Neuvillette,informed
+Traveler,fourth Descender,is
+Traveler,Gnoses,unsure
+Traveler,Childe,decide to ask
+Neuvillette,gods' will,pondered
+Neuvillette,rain,pondered
+Traveler and Paimon,Natlan,will head to
+Natlan,endless war,is the land of
+Natlan,human and dragons coexist,is a nation where
+Knave,Il Capitano has thrown his hat,revealed
+Il Capitano,ring of war,thrown his hat into
+Neuvillette,prepare,suggested
+Masquerade of the Guilty,3 Achievements,has
+Bedtime Story,Chapter IV,is the sixth act in
+Bedtime Story,Archon Quests,is part of
+Traveler,Katheryne,received commission from
+Commission,missing person,is about
+Missing person,Vimara Village,is from
+Traveler,Vimara Village,goes to
+Traveler,Bahram,asks for information from
+Traveler,Amadhiah,asks for information from
+Atossa,family,considers missing person as
+Pyro Abyss Mage,"Traveler, Paimon, Atossa",attacks
+Traveler,Dainsleif,meets
+Dainsleif,Abyss Order,investigates
+Vedrfolnir,The Visionary,is
+Vedrfolnir,Dainsleif,is the brother of
+Vedrfolnir,Five Sinners of Khaenri'ah,is one of
+Five Sinners of Khaenri'ah,"Vedrfolnir, Rhinedottir, Surtalogi, Rerir, Hroptatyr",includes
+Dainsleif,Loom of Fate,investigates
+Dainsleif,first Field Tiller's eye,gives
+Abyss Order,"Traveler, Paimon, Dainsleif",tails
+Traveler's Sibling,Dainsleif,confronts
+Traveler,flaws in Caribert's memory,concludes
+Traveler,Atossa with Caribert,finds
+Caribert,Traveler to follow him,asks
+Caribert,Loom of Fate,explains
+Traveler,to leave and help Dainsleif,decides
+Caribert,Loom of Fate is complete,reveals
+Sibling,intangibility and motives,explains
+Caribert's memory,to collapse,begins
+Villagers,Traveler sleeping,find
+Traveler,"picture of themself, sibling, and Caribert",discovers
+Flowers Resplendent on the Sun-Scorched Sojourn,Archon Quest,Quest Type
+Flowers Resplendent on the Sun-Scorched Sojourn,V,Chapter
+Flowers Resplendent on the Sun-Scorched Sojourn,I,Act
+Flowers Resplendent on the Sun-Scorched Sojourn,Bedtime Story,Previous
+Flowers Resplendent on the Sun-Scorched Sojourn,Black Stone Under a White Stone,Next
+Flowers Resplendent on the Sun-Scorched Sojourn,Adventure Rank 40,Requirements
+Flowers Resplendent on the Sun-Scorched Sojourn,"Reach Adventure Rank 28
+Complete Archon Quest Chapter I: Act III - A New Star Approaches",Quick Start Requirements
+Paimon,Pilgrimage,can join
+Paimon,allowed,doubts
+Paimon,Kachina,will pair up with
+Kinich,Paimon's former team,will lead
+Flags,six tribes of Natlan,represent
+Kinich,Scions of the Canopy,is a member of
+Scions of the Canopy,Yumkasaurus,are close to
+Mualani,People of the Springs,hails from
+Mualani,Traveler,greets
+Cival,Traveler's registration,declines
+Contending Fire,Sacred Flame,is fuel for
+Sacred Flame,Abyss,keeps
+Ancient Names,Abyss,are sent to fight
+Ode of Resurrection,Ancient Names,works on
+Pilgrimage,teamwork,instills
+Kinich,Wayob,was brought to
+Pyro Archon,food and lodging,provided
+Group,Weary Inn,heads to
+Kachina,Pilgrimage,is nervous about
+Mualani,Night Warden Wars,is a veteran of
+Traveler and Paimon,spectators,join
+Teams,hot air balloons,are launched in
+Teams,Contending Sparks,are tasked with collecting
+Kachina and Mualani,competition,defeat
+Tepexpan and Tamuin,Kachina,threaten
+Kachina,Nkunga,faces
+Kachina,Nkunga,defeats
+Kachina,Liliuo,faces
+Kachina,Liliuo,defeats
+Mualani,elimination round,is Kachina's final opponent
+Kachina,Mualani,defeats
+Kachina,Night Warden Wars,will participate in
+Mualani,Traveler,will show around
+Kinich,same idea,arrives with
+"Mualani, Traveler, Kinich",Mualani's village,arrive at
+Atea,Mualani,reminds
+Outsiders,artificial springs,must acclimate in
+Atea,hot springs,cannot enjoy
+Amina and guards,party,were organizing
+Atea,abandoned hot spring,enters
+Mualani,Traveler,brings
+Traveler and Paimon,cries,hear
+Abyss,village,attacks
+Mualani and Traveler,pylon,destroy
+Atea,pylon,destroyed
+Atea,severe injuries,sustains
+Traveler,Atea's wounds,purifies
+Party,,commences
+Atea,Traveler,thanks
+Atea,impending death,reveals
+Atea,talisman,gives
+Quick Start,Version 2.6,introduced in
+Quick Start,certain prerequisite Quests,allows players to skip
+Quick Start,limited time,available for
+Quick Start,certain Quests,available for
+certain Quests,Version 5.0,released during or after
+Quick Start,many Events,used in
+many Events,Version 4.0,released before
+Using Quick Start,player's experience,may impact
+story and dialogue,whether the player has completed the recommended prerequisite quests,do not change based on
+event story,player's progression outside of the event,may be incongruous with
+event story,spoilers for the quests they have not yet completed,may have
+Quick Start,all quest requirements,cannot skip
+Graven Innocence,The Trail of the God of Wisdom,allowed players to participate without completing
+players,The Outlander Who Caught the Wind,still needed to have completed
+No events released after Secret Summer Paradise,Quick Start,utilize
+17 Events,Quick Start feature,have
+4 Quests,Quick Start feature,have
+Chapter I,Liyue,is set in
+Rex Lapis,Contracts,God of
+Venti,Traveler,informed
+Rex Lapis,Liyue,coming to
+Traveler,Paimon,and
+Traveler,Geo Archon,meet
+Ningguang,Rex Lapis,summons
+Millelith,suspects,apprehend
+Traveler,glass,steps on
+Millelith,Traveler,surround
+Hydro user,Millelith,defeats
+Childe,Traveler,asks
+Childe,Harbinger,is
+Traveler,word of adepti,get
+Adepti,Jueyun Karst,live at
+Moon Carver,sigil,notices
+Traveler,guards,remove
+Rex Lapis,assassinated,was
+Moon Carver,Traveler,tells
+Traveler,"Cloud Retainer, Mountain Shaper, and Demon Conqueror",seek out
+"Cloud Retainer, Mountain Shaper",Jueyun,residing around
+Demon Conqueror,Wangshu Inn,is in
+Demon Conqueror,Xiao,is
+Xiao,Adepti,is
+Xiao,Almond Tofu,enjoys
+Ghost,inn,haunting
+Paimon,ghost,spots
+Traveler,ghost,follow
+Ghost,Ruin Hunter,possessing
+Traveler,Ruin Hunter,defeat
+Chef,Almond Tofu,creates
+Traveler,food,offer
+Paimon,Xiao,request
+Ghost,innocent spirit,is
+Traveler,Mountain Shaper,search for
+Man,adepti,begging
+Brother,amber,encased in
+Mountain Shaper,angered,appears
+Mountain Shaper,karst flowers,planted
+Cloud Retainer,to be found,last
+Traveler,stone table,find
+Traveler,food,place
+Cloud Retainer,Traveler,allows
+Traveler,domain,navigate
+Traveler,puzzles,solve
+Traveler,Cloud Retainer,meet
+Cloud Retainer,Liyue,vows to destroy
+Traveler,Cloud Retainer,calm
+Traveler,Boreas,asks
+Abyss Order,Wolvendom,attacks
+Traveler,ritual,interrupts
+Herald,,flees
+Dainsleif,eye,takes custody
+Dainsleif,destroy the Defiled Statue,suggests
+Herald,Traveler,attacks
+Sibling,attack,interrupts
+Sibling,Traveler,asks
+Sibling,,leaves
+Dainsleif,portal,enters
+Paimon,Traveler,cheers
+Black Stone Under a White Stone,Archon Quest,Quest Type
+Black Stone Under a White Stone,V,Chapter
+Black Stone Under a White Stone,II,Act
+Black Stone Under a White Stone,Flowers Resplendent on the Sun-Scorched Sojourn,Previous
+Black Stone Under a White Stone,Beyond the Smoke and Mirrors,Next
+Black Stone Under a White Stone,Adventure Rank 40,Requirements
+Chasca,Wayna,asks
+Wayna,Vichama,refers
+Vichama,obsidian and rope,asks
+Abyss,Vichama's tribe,attacked
+Vichama,ritual,begins
+Monsters,Vichama,attack
+Chasca,Spiritspeaker Stone,destroys
+Traveler,Mallko's final memory,finds
+Chasca,Vichama,informs
+Group,Wayna,returns
+Wayna,Chasca's past,explains
+Chuychu,support Chasca,agrees
+Group,Stadium of the Sacred Flame,returns
+Mavuika,Capitano,clashed with
+Mavuika,group,leads
+Group,ritual,initiates
+Kachina,group,informs
+Wayob,Kachina,helped
+Kachina,Night Kingdom,investigated
+Abyss,Wayob,affecting
+Mavuika,group,directs
+Iansan,go with group,volunteers
+Chasca and Iansan,Paimon,correct
+Group,hilichurls and Saurian manifestations,fights
+Mallko,himself,introduces
+Mallko,help,offers
+Mallko,group,protects
+Group,Kachina,finds
+Riftwolves,Kachina,attack
+Kachina,friends to accompany her to Wayob,asks
+Mallko,Wayob's consciousness,explains
+Group,totem,purifies
+Comonqui,Mallko's spirit,eliminates
+Comonqui,Pyro Archon refuses to share power,claims
+Mualani and Kachina,Comonqui,drive away
+Tupac,Mualani,congratulates
+Mualani,plan to save Natlan,realizes
+Wayob,Kachina,speaks with
+Mavuika,ceiling of Night Realm,shatters
+Chuychu,Natlanese for Abyssal contamination,treats
+Mavuika,Traveler will play important role,states
+Mavuika,tribes and Wayob weakened,explains
+Mavuika,patience,advises
+Mavuika,keepsakes had Contending Flame,reveals
+Mavuika,items' owners contributed to Natlan's survival,states
+Group,Kachina's return,celebrates
+Mavuika,Traveler to help save Natlan,asks
+Mavuika,support and Ancient Name,promises
+Mavuika,order with Xilonen,prepares
+Rezanov,Capitano of Pyro Archon's weakened state,informs
+Capitano,to take Gnosis,refuses
+Unknown person,Capitano about Mavuika's decision,informs
+Capitano,unknown person's usefulness,acknowledges
+Beyond the Smoke and Mirrors,Archon Quest,Quest Type
+Beyond the Smoke and Mirrors,Chapter V,Chapter
+Beyond the Smoke and Mirrors,Act III,Act
+Beyond the Smoke and Mirrors,Black Stone Under a White Stone,Previous
+Beyond the Smoke and Mirrors,The Rainbow Destined to Burn,Next
+Beyond the Smoke and Mirrors,Adventure Rank 40,Requirements
+Lord of the Night,Sacred Flame,uses
+Traveler,Lord of the Night's dream,enters
+Xilonen,materials,offers
+Traveler and Paimon,track down Ororon,help
+Citlali,Ororon's home,investigates
+Fatui,Ororon,interested in
+Ororon,Fatui,speaks to
+Tribe,Ororon,raised
+Aphids,phlogiston trail,leave behind
+Citlali,insecurity,experiences
+Traveler and Paimon,trail,follow
+Citlali,distress signal,notices
+Citlali,fight,realizes
+Traveler,Night Kingdom,falls unconscious
+Ororon,paths,set up
+Capitano,Traveler,greets
+Capitano,"goals, motivations, and mistrust",explains
+Traveler,Capitano,should meet
+Ororon,not to tell Citlali,asks Traveler
+Traveler,reality,returns to
+Citlali,Fatui camp,finds
+Kosterlitzky,Ororon,orders
+Citlali,Ororon,scolds
+Ororon,Capitano,saved
+"Traveler, Paimon",meeting spot,head to
+Capitano,Traveler's judgement,believes
+Capitano,Childe,learned from
+Capitano,Mavuika's plan,does not believe
+Paimon,Capitano wants Gnosis,believes
+Backup plan,Gnosis,involves
+Citlali,Ororon's collusion with the Fatui,angered by
+Traveler,Citlali's interruption,upset by
+Traveler,Ororon might know something,believes
+Ororon,the group with an illusion,tricks
+Citlali,talking over a meal,suggests
+Citlali,drunk,gets
+Traveler and Paimon,hearing Citlali's thoughts,disclose
+Citlali,insecurity about her age,expresses
+Citlali,Ororon's incomplete soul,reveals
+Abyss,a nation-wide attack,launches
+Traveler,need to speak to Mavuika,informs Iansan
+Mavuika,backup plan,confirms
+Mavuika,participation in defense,reveals
+Traveler and Paimon,caravan,rescue
+Chasca and Chuychu,Fatui's interest in the Source Mechanism,discover
+Ororon,defend the tribe,returned to
+Ororon,soul stabilization,needed
+Ifa,replacement gem,delivered
+The bag,spell,contained
+Spell,memories,copied
+Citlali,alone,intends to go
+Traveler,Citlali,convinces
+Ororon,tribesman,approached by
+Tribesman,Fatui,told Ororon about
+Capitano,Ororon,visits
+Capitano,if he knew Citlali,asked Ororon
+Capitano,Ororon's lie,senses
+Ororon,Capitano,chased
+Tarko,Ororon,spotted
+Capitano,spell,used
+Spell,souls,dispelled
+Capitano,subordinates,ordered
+Capitano,Mavuika,confronted
+Ororon,escaping soul,sensed
+Ororon,Capitano,intervened to save
+Capitano,looking into Night Kingdom,revealed to Ororon
+Ororon,could sense the truth,revealed to Capitano
+Capitano,reconstruct Ley Lines,believes
+Citlali,Ororon,angered by
+Capitano,Ley Lines,intends to rebuild
+They,Mavuika,decide to inform
+The Rainbow Destined to Burn,Archon Quest,Quest Type
+The Rainbow Destined to Burn,Chapter V,Chapter
+The Rainbow Destined to Burn,Act IV,Act
+The Rainbow Destined to Burn,Beyond the Smoke and Mirrors,Previous
+The Rainbow Destined to Burn,All Fires Fuel the Flame,Next
+The Rainbow Destined to Burn,Adventure Rank 40,Requirements
+Ororon,Bidii,Ancient Name
+Bidii,devotion,meaning
+Ororon,Sanhaj,identity
+Sanhaj,Masters of Night-Wind,affiliation
+Yohualtecuhtin,Lord of the Night,title
+Angels,Seelies,devolved form
+vuika,Fatui,welcomes
+Capitano,Source Mechanism,reveals
+Capitano,scholars,tracked down
+Capitano,Ayizu,met
+Ayizu,secret of the Gnosis,revealed
+Capitano,Gnosis,failed to acquire
+Capitano,Gnosis,intended to use
+Abyss,attacks,increase
+Traveler,chamber,leave
+Lord of the Night,Ancient Name,asks
+Xilonen,life,sacrifice
+Citlali,Traveler's status,use
+Lord of the Night,fate of death,cautions
+Lord of the Night,Pilgrim's Chronicle,creates
+Traveler and Paimon,rest,wake up
+Citlali and Xilonen,parchment,hand
+Kachina,Abyss attack,tells
+Mavuika,Tumpisto,orders
+Abyss,Ororon,sensed
+Mavuika,Xilonen and Kachina,sends
+Citlali,hot air balloon,uses
+Traveler,Abyss attack,repels
+Sacred Flame,pylons to appear,causes
+Pylons,hilichurls and riftwolves,drop off
+Mavuika,rift,subdues
+Kinich,rift,investigates
+Abyssal invasion,defenders,overwhelms
+Traveler,remaining defenders,assists
+Chimalli,base lost,declares
+Traveler,purple streak,spots
+Traveler's attacks,damage,fail to deal
+Traveler,battle report,finds
+Monsters,Scions of the Canopy,overwhelm
+Traveler and Paimon,monsters,slay
+Maztl,tumors came from sky-demon,believes
+Pylons,defenders,overwhelm
+Kachina and Xilonen,monsters,fight
+Pacal,full evacuation,orders
+Kinich,support team,organizes
+Traveler and Paimon,monsters surrounding Chasca and Chuychu,eliminate
+Traveler,abyssal energy,siphons and purifies
+Chuychu,injuries,succumbs to
+Chasca,abyssal energy,emits
+Menilek,Chasca's pain,remarks on
+Mavuika,Chasca,promises to honor
+Mavuika and six heroes,ritual,begin
+Archon,Night Warden War,declares
+Chasca,Traveler,thanks
+Traveler,Chuychu to say her final words,allows
+Traveler,Chasca to control her grief,allows
+Group,destroy the tumors,sets out
+Mavuika's powers,destroying the tumors,assists in
+Defenders,Abyss,repel
+Kinich,Abyss sending larger units,senses
+Abyss,extinguish the Sacred Flame,attempts
+Group,defend the stadium,rushes
+Mavuika,rift,destroys
+Natlanese,joy,express
+Mavuika's attack,false sky,exposes
+Group,Weary Inn,assembles
+Mavuika,Abyss forced deep into Night Kingdom,states
+Mavuika,Night Kingdom,will go
+Mavuika,grant the fallen a worthy funeral,promises
+Xilonen,moment of silence,suggests
+Mavuika,Capitano,thanks
+Capitano,Natlanese,congratulates
+Traveler,Mavuika,speaks with
+Mavuika,regret,expresses
+Mavuika,Traveler to accompany her,asks
+Citlali,Traveler,intercepts
+Citlali,Mavuika slated to die,tells
+Citlali,circumvent Mavuika's death,asks
+Mavuika,her past,reminisces
+Mavuika,reasoning for requesting aid,reveals
+Traveler,only person to safely join final assault,would be
+Mavuika,alone,would go
+Mavuika,Traveler to back her up,would love
+Paimon,stay behind,has to
+Capitano,Lord of the Night,returns
+Lord of the Night,how Capitano was aware,wonders
+Lord of the Night,final foe,has
+Lord of the Night,help,asks for
+All Fires Fuel the Flame,Interlude Chapter,Quest Type
+All Fires Fuel the Flame,V,Archon
+All Fires Fuel the Flame,Interlude,Act
+All Fires Fuel the Flame,Incandescent Ode of Resurrection,Previous
+All Fires Fuel the Flame,Adventure Rank 40,Requirements
+Capitano,Guthred developed medicine,reveals
+Guthred,Capitano's second-in-command,was
+Guthred,himself as a test subject,used
+Capitano,Traveler to ask a question,allows
+Traveler,Ronova,asks about
+Capitano,his true face,reveals
+Ronova,Capitano's suffering,responsible for
+Iansan,Traveler about a messenger,informs
+Xilonen,creating Traveler's Ancient Name,able to begin
+"Mualani, Kinich, Ajaw, Kachina, Citlali, Ororon",Traveler,waiting for
+Chasca,Traveler,thanks
+Xilonen,process of creating Ancient Name,explains
+Paimon,information to Xilonen,provides
+Xilonen,chronicle to Traveler,returns
+Incandescent Ode of Resurrection,Archon Quest,Quest Type
+Incandescent Ode of Resurrection,V,Chapter
+Incandescent Ode of Resurrection,V,Act
+Incandescent Ode of Resurrection,All Fires Fuel the Flame,Previous
+Incandescent Ode of Resurrection,N/A,Next
+Incandescent Ode of Resurrection,Adventure Rank 40,Requirements
+Traveler,Ayo,finds
+Ayo,despondent,is
+Traveler,medicine,administers
+Kachina,invitation,offers
+Traveler and Paimon,Xilonen's workshop,go to
+Xilonen,Ancient Name,creates
+Xilonen,Tumaini,names
+Citlali,Traveler and Mavuika,worries about
+Traveler,test,conducts
+Traveler's soul,souls,attracts
+Group,save souls,decides to
+Citlali,Vichama to Night Kingdom,sends
+Xilonen,Zumalli,kills
+Traveler,Ancient Name,reveals
+Mavuika,herself and Traveler,teleports
+Mavuika,go to lair,tells Traveler to
+Traveler,Cryo-aligned herald,defeats
+Hine,support Mavuika,promises to
+Atea,Traveler,assists
+Mallko and Vichama,barrier,maintain
+Traveler,"Brous Mimesis, Bona, and Cocouik",assisted by
+Traveler and allies,stronger mimesis,encounter
+Guthred,mimesis,helps defeat
+Spirits,due to Ley Lines,reach their limit
+Chuychu,iktomisaurus and qucusaur,gives
+Traveler,circular arena,arrives at
+Heroes of 500 years ago,Traveler,bless
+Yohualtecuhtin,seelies,sends
+Seelies,Traveler to Mavuika,guide
+Traveler,Gosoythoth,fights
+Gosoythoth,sword-wielding dragon,transforms into
+Lord of the Night,Pyro power to Traveler,grants
+Gosoythoth,Traveler,attempts to control
+Void,Mavuika,attempts to sow doubt in
+Mavuika and Traveler,Gosoythoth,destroy
+Mavuika,celebration ceremony,holds
+Chasca,feathered crown on Traveler,bestows
+Citlali,Traveler about Mavuika's fate,informs
+Traveler and Citlali,Ochkanatlan,travel to
+Ronova,Mavuika's death,demands
+Mavuika,her life to Sacred Flame,offers
+Ororon,Capitano,arrives with
+Capitano,his modified heart,reveals
+Capitano,Lord of the Night,merges with
+Lord of the Night,Night Kingdom,returns to
+Mavuika,Hine,writes letter to
+Traveler,crown at monument,leaves
+Sadigua,Traveler's deeds,tells story about
+Traveler and Paimon,Natlan,leave
+Traveler and Paimon,Mavuika,ask
+Mavuika,Capitano requested Tsaritsa to abolish his mission,reveals
+Capitano,Tsaritsa to abolish his mission,requested
+Tsaritsa,Capitano's request,granted
+Mavuika,another Harbinger will steal Pyro Gnosis,worries
+Mavuika,worst-case scenario,prepare
+Mavuika,Traveler should go to Nod-Krai,suggests
+Traveler,Nod-Krai,should go
+Snezhnaya,conflict,has
+Mavuika,Dottore's men snooping around in Natlan,seen
+Mavuika,Traveler about Dottore's plans,warns
+Dottore,people who can control all elements without a Vision,wants
+Dottore's men,Teyvat's false sky,investigating
+Chapter VI,Archon Quest,Quest Type
+Chapter VI,Chapter V,Previous
+Chapter VI,Chapter ???,Next
+Snezhnaya,Chapter VI,setting for
+Tsaritsa,her people,no love for
+Tsaritsa's followers,rebellion against Celestia,hope to be on her side
+Chapter ??,Archon Quest,Quest Type
+Chapter ??,Chapter VI,Previous
+Chapter ??,Epilogue,Next
+Chapter ??,Khaenri'ah,focus
+Khaenri'ah,outside of Teyvat,location
