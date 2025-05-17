@@ -1,0 +1,30 @@
+# Core Utilities
+requests
+beautifulsoup4
+pydantic
+tqdm
+networkx
+csv
+
+# Google Gemini
+google-generativeai
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# Vector DB
+chromadb
+
+# NLP & ML
+scikit-learn
+numpy
+
+# Neo4j
+neo4j
+py2neo
+
+# Optional - Notebook and Visualization
+jupyter
+matplotlib

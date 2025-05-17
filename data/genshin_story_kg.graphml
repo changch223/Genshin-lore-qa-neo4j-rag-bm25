@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="directed"><node id="Traveler"/>
+<node id="The Outlander Who Caught the Wind"/>
+<node id="Wanderer's Trail"/>
+<node id="tutorial level"/>
+<node id="Paimon"/>
+<node id="Teyvat"/>
+<node id="Anemo Statue of The Seven"/>
+<node id="Starfell Lake"/>
+<node id="Amber"/>
+<node id="Knights of Favonius"/>
+<node id="Mondstadt"/>
+<node id="Wind Glider"/>
+<node id="Stormterror"/>
+<node id="Kaeya"/>
+<node id="Jean"/>
+<node id="Lisa"/>
+<edge source="Traveler" target="The Outlander Who Caught the Wind">
+  <data key="d0">participates_in</data>
+</edge>
+<edge source="Traveler" target="Paimon">
+  <data key="d0">knows</data>
+</edge>
+<edge source="Traveler" target="Anemo Statue of The Seven">
+  <data key="d0">has</data>
+</edge>
+<edge source="Traveler" target="Amber">
+  <data key="d0">knows</data>
+</edge>
+<edge source="Traveler" target="Wind Glider">
+  <data key="d0">has</data>
+</edge>
+<edge source="Traveler" target="Stormterror">
+  <data key="d0">opposes</data>
+</edge>
+<edge source="Traveler" target="Kaeya">
+  <data key="d0">knows</data>
+</edge>
+<edge source="Traveler" target="Jean">
+  <data key="d0">knows</data>
+</edge>
+<edge source="Traveler" target="Lisa">
+  <data key="d0">knows</data>
+</edge>
+<edge source="The Outlander Who Caught the Wind" target="Wanderer's Trail">
+  <data key="d0">includes</data>
+</edge>
+<edge source="The Outlander Who Caught the Wind" target="tutorial level">
+  <data key="d0">plays_role</data>
+</edge>
+<edge source="The Outlander Who Caught the Wind" target="Mondstadt">
+  <data key="d0">occurs_in</data>
+</edge>
+<edge source="Paimon" target="Teyvat">
+  <data key="d0">from</data>
+</edge>
+<edge source="Starfell Lake" target="The Outlander Who Caught the Wind">
+  <data key="d0">occurs_in</data>
+</edge>
+<edge source="Amber" target="Knights of Favonius">
+  <data key="d0">member_of</data>
+</edge>
+<edge source="Mondstadt" target="The Outlander Who Caught the Wind">
+  <data key="d0">occurs_in</data>
+</edge>
+<edge source="Stormterror" target="The Outlander Who Caught the Wind">
+  <data key="d0">occurs_in</data>
+</edge>
+<edge source="Kaeya" target="Knights of Favonius">
+  <data key="d0">member_of</data>
+</edge>
+<edge source="Jean" target="Knights of Favonius">
+  <data key="d0">member_of</data>
+</edge>
+<edge source="Lisa" target="Knights of Favonius">
+  <data key="d0">member_of</data>
+</edge>
+</graph></graphml>
