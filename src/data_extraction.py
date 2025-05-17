@@ -1,10 +1,28 @@
+"""
+Genshin Impact Archon Quest Scraper
+
+Overview:
+This script is designed to scrape Genshin Impact's Archon Quest wiki pages.
+It extracts structured text (with section titles), consolidates content, and saves it to a local text file.
+It uses BeautifulSoup for parsing, and optionally integrates with LangChain by formatting content as Document objects
+for use in retrieval-based QA systems.
+
+Modules:
+- fetch_act_urls(): Get all quest page URLs
+- fetch_wiki_text(): Get paragraph text from a single page
+- fetch_page_text_with_headings(): Get section-structured content
+- save_all_archon_quests_to_txt(): Save all to a .txt file
+"""
+
 import requests
 from bs4 import BeautifulSoup
 from typing import List
 from langchain.schema import Document
 
 def fetch_wiki_text(url: str) -> str:
-    """擷取單頁面所有段落文字"""
+    """
+    Fetches all paragraph text from a single wiki page.
+    """
     headers = {"User-Agent": "Mozilla/5.0"}
     resp = requests.get(url, headers=headers)
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -16,12 +34,17 @@ def fetch_wiki_text(url: str) -> str:
 
 # Fetch and merge content from multiple wiki URLs
 def fetch_multiple_wiki_texts(urls: List[str]) -> str:
-    """合併多個 URL 的文字"""
+    """
+    Fetches and combines the text from multiple wiki pages into a single string.
+    """
     return "\n\n".join(fetch_wiki_text(u) for u in urls)
 
 # Fetch all Archon Quest page URLs from the Genshin Wiki
 def fetch_act_urls() -> List[str]:
-    """抓取所有 Archon Quest 頁面的 URL 列表"""
+    """
+    Scrapes the Genshin Impact Archon Quest wiki index page and extracts all individual quest URLs.
+    Returns a list of full URLs pointing to each quest page.
+    """
     base = "https://genshin-impact.fandom.com"
     idx_url = f"{base}/wiki/Archon_Quest"
     resp = requests.get(idx_url, headers={"User-Agent": "Mozilla/5.0"})
@@ -37,12 +60,14 @@ def fetch_act_urls() -> List[str]:
                 href = a["href"]
                 if href.startswith("/wiki/"):
                     urls.append(base + href)
-    # 去重
-    return list(dict.fromkeys(urls))
+    return list(dict.fromkeys(urls)) # Remove duplicates
 
 
 def fetch_page_text_with_headings(url: str) -> List[Document]:
-    """從 Wiki 抓取帶有 H2/H3 標題的段落文本"""
+    """
+    Fetches structured content from a wiki page, capturing paragraphs and their associated H2/H3 section headings.
+    Returns a list of LangChain `Document` objects containing the text and metadata.
+    """
     resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(resp.text, "html.parser")
     div = soup.find("div", class_="mw-parser-output")
@@ -66,7 +91,10 @@ def fetch_page_text_with_headings(url: str) -> List[Document]:
 
 
 def save_all_archon_quests_to_txt(output_path: str = "archon_quests.txt"):
-    """抓取所有 Archon Quest 頁面並存成本地 .txt 檔案"""
+    """
+    Fetches all Archon Quest pages and saves their contents to a local .txt file.
+    Outputs success/failure stats and logs each step of the scraping process.
+    """
     urls = fetch_act_urls()
     print(f"Found {len(urls)} Archon Quest URLs")
 

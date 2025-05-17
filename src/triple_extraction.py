@@ -1,15 +1,43 @@
+"""
+Genshin Impact Triple Extraction with Gemini
+
+Overview:
+This script is designed to extract semantic triples from Genshin Impact story texts using Gemini 1.5 Pro.
+It processes long story texts by splitting them into manageable chunks and prompting the model to return structured
+(subject, relation, object) triples suitable for knowledge graph construction.
+
+The model is guided with strict formatting rules and allowed relation types to ensure consistency and factuality.
+The triples can be validated via Pydantic and optionally stored or visualized in downstream knowledge systems.
+
+Modules:
+- Triple: A Pydantic BaseModel that defines the triple structure
+- generate_triples_batched(): Splits input text, sends it to Gemini, and parses triple results across all chunks
+"""
+
 from typing import List
 from pydantic import BaseModel
 from google import genai
 
-
+# Define the schema for a semantic triple using Pydantic.
+# Each triple represents a factual statement: (subject, relation, object)
 class Triple(BaseModel):
     subject: str
     relation: str
     object: str
 
 def generate_triples_batched(text: str, client: genai.Client, model: str="models/gemini-1.5-pro", chunk_size: int=5000) -> List[Triple]:
-    """用 Gemini 分批抽取三元組"""
+    """
+    Extract semantic triples from a long text using Gemini API in batches.
+
+    Args:
+        text (str): The full story text to be processed.
+        client (genai.Client): Gemini API client.
+        model (str): Model name (default: "models/gemini-1.5-pro").
+        chunk_size (int): Maximum number of characters per prompt chunk.
+
+    Returns:
+        List[Triple]: A list of extracted semantic triples.
+    """
     chunks = [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
     print(f"Splitting into {len(chunks)} chunk(s)...")
 

@@ -1,3 +1,22 @@
+"""
+Genshin Impact RAG Vectorstore Builder using Gemini Embeddings
+
+Overview:
+This script builds a Retrieval-Augmented Generation (RAG) vector store using content extracted from
+Genshin Impact's Archon Quest wiki pages. It splits the wiki content into overlapping text chunks,
+generates vector embeddings using Gemini API (`text-embedding-004`), and stores them in a local Chroma vector database.
+
+Features:
+- Uses LangChain's Document format and Chroma for vector database storage
+- Applies recursive character-based text splitting for chunking
+- Deduplicates chunks using MD5 hash for storage efficiency
+- Implements a custom Embedding class (`GeminiEmbeddings`) for document and query embedding using Gemini
+
+Modules:
+- GeminiEmbeddings: Wrapper to call Gemini's embedding API for documents and queries
+- build_rag_vectorstore(): Fetches content, chunks it, embeds it, and saves it to Chroma DB
+"""
+
 import hashlib
 from langchain.schema import Document
 from langchain.embeddings.base import Embeddings
@@ -16,8 +35,20 @@ client = genai.Client(api_key=API_KEY)
 EMBED_MODEL = "models/text-embedding-004"
 
 class GeminiEmbeddings(Embeddings):
-    """使用 Gemini API 的向量嵌入實作"""
+    """
+    Custom embedding class that uses Google's Gemini API to generate vector representations
+    for both documents (for indexing) and queries (for searching).
+    """
     def embed_documents(self, texts: List[str]) -> List[List[float]]:
+        """
+        Generates document embeddings in batches for efficient retrieval storage.
+
+        Args:
+            texts (List[str]): List of text chunks to embed.
+
+        Returns:
+            List[List[float]]: List of embedding vectors.
+        """
         all_embs = []
         batch_size = 50
         for i in range(0, len(texts), batch_size):
@@ -34,6 +65,15 @@ class GeminiEmbeddings(Embeddings):
         return all_embs
 
     def embed_query(self, text: str) -> List[float]:
+        """
+        Generates a single embedding vector for a search query.
+
+        Args:
+            text (str): The user query.
+
+        Returns:
+            List[float]: Embedding vector of the query.
+        """
         resp = client.models.embed_content(
             model=EMBED_MODEL,
             contents=[text],
@@ -45,6 +85,16 @@ class GeminiEmbeddings(Embeddings):
     
 
 def build_rag_vectorstore(persist_path="./genshin_chroma") -> Chroma:
+    """
+    Fetches and embeds Genshin Impact wiki content to create a Chroma vector store
+    for use in Retrieval-Augmented Generation (RAG) applications.
+
+    Args:
+        persist_path (str): Directory path to save the Chroma database.
+
+    Returns:
+        Chroma: The constructed vector store object.
+    """
     urls = fetch_act_urls()
     docs: List[Document] = []
     seen_hashes = set()
