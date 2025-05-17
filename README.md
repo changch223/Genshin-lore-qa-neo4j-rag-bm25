@@ -1,7 +1,5 @@
 # Genshin Impact Hybrid QA System
 
-**Product Manager Portfolio Project – with Generative AI & Retrieval Technologies**
-
 **Genshin Impact Hybrid QA System** is a multi-source hybrid question-answering system built to explore the rich narrative of **Genshin Impact**.  
 It integrates structured and unstructured data sources to answer lore-related queries with high factual accuracy and contextual nuance.
 
