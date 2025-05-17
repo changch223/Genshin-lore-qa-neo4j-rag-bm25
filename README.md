@@ -76,8 +76,10 @@ genshin-lore-qa/
 │   ├── bm25_builder.py            # BM25 retriever setup
 │   ├── qa_pipeline.py             # Full multi-retriever pipeline
 │   └── utils.py                   # Rewrite / classify / expand utilities
-├── notebook/
+├── notebooks/
 │   └── genshin_qa_demo.ipynb      # End-to-end demo (query → answer)
+├── genshin_chroma/
+├── data/
 ├── .env.example                   # API & DB credentials (template)
 ├── requirements.txt               # Python dependencies
 └── README.md                      # You're reading it!
