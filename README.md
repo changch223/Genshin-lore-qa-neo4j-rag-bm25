@@ -135,7 +135,7 @@ jupyter notebook notebook/genshin_qa_demo.ipynb
 A product manager with a background in AI product development, NLP, and data strategy.  
 This project is part of my portfolio to demonstrate applied generative AI and information retrieval techniques for real-world use cases.
 
-📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chia-wei-chang-94060b1a0/)  
-📂 See more of my work on [GitHub](https://github.com/your-github](https://github.com/changch223)
+📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/chia-wei-chang-94060b1a0/)  
+📂 See more of my work on [GitHub](https://github.com/changch223)
 
 
