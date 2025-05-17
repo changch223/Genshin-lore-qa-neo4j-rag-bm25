@@ -64,8 +64,6 @@ Gemini Answer Generation (grounded in retrieved facts)
 
 ---
 
----
-
 ## Project Structure
 
 ```plaintext
@@ -84,5 +82,60 @@ genshin-lore-qa/
 ├── requirements.txt               # Python dependencies
 └── README.md                      # You're reading it!
 ```
+
+---
+
+## How to Run
+
+### 1. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Configure environment variables
+```bash
+cp .env.example .env
+# Fill in your GOOGLE_API_KEY and Neo4j credentials
+```
+
+### 3. Launch the notebook
+```bash
+jupyter notebook notebook/genshin_qa_demo.ipynb
+```
+
+---
+
+## Design Rationale
+
+### Why Hybrid Retrieval?
+
+| Method     | Strength                                | Use Case Example                            |
+|------------|-----------------------------------------|----------------------------------------------|
+| KG (Neo4j) | Precise, structured, interpretable       | "Who does Zhongli know?"                     |
+| RAG        | Handles paraphrasing + long-form queries | "Tell me the story behind Rex Lapis"        |
+| BM25       | Fast fallback for keyword-heavy queries  | "Liyue act III ending explained"            |
+
+- **Chunking Strategy**: `RecursiveCharacterTextSplitter`  
+- **Embedding Model**: Gemini 1.5 Pro via `google-generativeai`  
+- **Evaluation Method**: Manual comparison across KG, RAG, and BM25 retrieval outputs
+
+---
+
+## Outcomes & Learnings
+
+- Designed an end-to-end QA system combining LLMs, classical information retrieval, and structured knowledge graphs  
+- Practiced prompt engineering for Gemini with a focus on factual grounding  
+- Gained hands-on experience with LangChain’s multi-retriever orchestration  
+- Built a practical, demo-ready artifact for my AI-focused product management portfolio
+
+---
+
+## About Me
+
+A product manager with a background in AI product development, NLP, and data strategy.  
+This project is part of my portfolio to demonstrate applied generative AI and information retrieval techniques for real-world use cases.
+
+📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chia-wei-chang-94060b1a0/))  
+📂 See more of my work on [GitHub](https://github.com/your-github](https://github.com/changch223))
 
 
