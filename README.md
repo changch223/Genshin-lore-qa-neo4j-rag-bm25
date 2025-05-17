@@ -1,25 +1,50 @@
 # LoreLens: Genshin Impact Hybrid QA System
 
-This project is a multi-source question-answering system that explores **Genshin Impact's lore** using a hybrid of structured and unstructured data.  
-Built with **Neo4j**, **LangChain**, **Google Gemini API**, and **BM25**, it retrieves facts from:
+**Product Manager Portfolio Project – with Generative AI & Retrieval Technologies**
 
-- **Knowledge Graph** (Neo4j)
-- **RAG** (Retrieval-Augmented Generation) using Gemini Embeddings + ChromaDB
-- **BM25** keyword-based retrieval
+**LoreLens** is a multi-source hybrid question-answering system built to explore the rich narrative of **Genshin Impact**.  
+It integrates structured and unstructured data sources to answer lore-related queries with high factual accuracy and contextual nuance.
+
+---
+
+## Why This Project?
+
+In lore-heavy games like Genshin Impact, finding concise, accurate story answers across thousands of wiki pages can be overwhelming.  
+As a product manager passionate about AI, I built this system to explore:
+
+- How hybrid retrieval architectures improve user trust and search satisfaction
+- How GenAI (Google Gemini) can be grounded in facts from knowledge graphs and vector search
+- How to design a GenAI-powered feature end-to-end, from crawling to UX
 
 ---
 
 ## What It Can Do
 
-- Rewrite informal questions into search-optimized queries
-- Classify query intent (e.g., character relationship, plot event, location info)
-- Search across KG / semantic / keyword sources
-- Generate high-quality summaries using only retrieved, verifiable facts
-- visualize entity relationships (e.g., “Who knows Paimon?”)
+- **Rewrite** vague or informal questions into precise, search-optimized queries
+- **Classify** query intent (e.g., character relationships, plot events, quest conditions)
+- **Retrieve** answers from:
+  - Neo4j Knowledge Graph
+  - RAG using Gemini Embeddings + ChromaDB
+  - BM25 keyword-based search
+- **Generate** high-quality summaries grounded in retrieved facts
+- **Visualize** entity relationships (e.g., "Who knows Paimon?")
 
 > **Example Query:**  
 > _"What's Paimon's deal with Zhongli?"_  
-> → Answer generated from a triple-source pipeline: KG + RAG + BM25
+> → Answer is synthesized from KG facts + narrative context + keyword clues
+
+---
+
+## System Pipeline Overview
+
+```text
+User Query
+   ↓
+Rewrite → Intent Classification
+   ↓
+[KG Search | RAG Search | BM25 Search]
+   ↓
+Gemini Answer Generation (grounded in retrieved facts)
 
 ---
 
