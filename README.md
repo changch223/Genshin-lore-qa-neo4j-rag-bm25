@@ -31,6 +31,17 @@ As a product manager passionate about AI, I built this system to explore:
 
 ---
 
+## Target Users & Use Case
+
+This system is designed for Genshin Impact fans who want to **quickly understand game lore** without spending hours reading in-game text or wiki pages.
+
+Use cases include:
+- Casual players who skip cutscenes but are curious about the deeper story  
+- Lore-focused content creators or YouTubers seeking factual summaries  
+- Game developers or researchers studying AI's impact on interactive storytelling
+
+---
+
 ## System Pipeline Overview
 
 ```text
@@ -70,6 +81,61 @@ graph TD
 | Web Scraping      | BeautifulSoup + Requests               |
 | Graph Drawing     | NetworkX + Matplotlib                  |
 | Embedding Model   | Gemini Embeddings                      |
+
+---
+## Prompt Engineering Examples
+
+This system uses Gemini 1.5 Pro to guide the following prompt-based stages: query rewriting, intent classification, decomposition, and query expansion.
+
+### Rewrite Query
+
+```python
+prompt = f"""
+Rewrite the following informal or unclear user query into a formal, unambiguous search query.
+
+Original: "{query}"
+
+Rewritten:
+"""
+```
+###  Classify Intent
+```python
+prompt = f"""
+You are a Genshin Impact search assistant.
+Classify the user query into one of the following intents:
+["character_relationship", "plot_event", "location_info", "quest_requirement", "general_knowledge"]
+
+Query: "{query}"
+
+Return only the intent.
+"""
+```
+###   Decompose Complex Queries
+```python
+prompt = f"""
+You are a smart assistant. Break the user's complex query into 2–4 simpler sub-questions.
+
+Query: "{query}"
+
+Return the result as a JSON list of strings only, without any explanation or markdown.
+"""
+```
+###   Expand Query Variants
+```python
+prompt = f"""
+You are a Genshin Impact lore expert.
+
+Please expand the following user question into **3 to 5 semantically related search queries** to increase retrieval coverage.
+
+Original question: "{question}"
+
+Requirements:
+- Include paraphrases, synonyms, or alternate phrasings.
+- Keep each query clear and self-contained.
+- Return the output as a **pure JSON array of strings**, and nothing else.
+- Format strictly like: ["query1", "query2", "query3", ...]
+"""
+```
 
 ---
 
@@ -138,6 +204,27 @@ jupyter notebook notebook/genshin_qa_demo.ipynb
 - Practiced prompt engineering for Gemini with a focus on factual grounding  
 - Gained hands-on experience with LangChain’s multi-retriever orchestration  
 - Built a practical, demo-ready artifact for my AI-focused product management portfolio
+
+---
+
+## Limitations & Future Work
+
+While the current system demonstrates the potential of hybrid retrieval in gaming QA, there are several limitations and areas for future improvement:
+
+### Accuracy & Token Efficiency
+- The accuracy of RAG and BM25 components can still be improved.
+- Current prompts may result in large token sizes, which affects latency and cost.
+- Future work will explore prompt tuning and context selection strategies to balance factual grounding and efficiency.
+
+### Language & Content Scope
+- The system currently supports only **English** and focuses on **Archon Quests**.
+- To scale to all in-game storylines (e.g., character quests, events) and support **multilingual queries** (e.g., Japanese, Chinese), the pipeline will need:
+  - Multilingual embeddings
+  - Efficient document indexing and retrieval filtering
+
+### Usability & Deployment
+- The current version runs as a local Jupyter notebook.
+- Future plans include deploying a user-friendly interface using **Gradio** or **FastAPI** and hosting the system on **Cloud Run or Hugging Face Spaces**, making it accessible to fans and researchers without coding knowledge.
 
 ---
 
